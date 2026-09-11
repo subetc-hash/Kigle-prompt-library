@@ -1,0 +1,25 @@
+﻿참조 이미지: example_000074.png
+시리즈: 코코비
+모델: Seedance 2.5
+생성 조건: 720p / 9:16 / 10초 / 오디오 켜짐
+
+참조 매핑
+@image1 → 01_Image 1_@image1.png
+@image2 → 02_Image 2_@image2.png
+
+프롬프트
+--- BEGIN PROMPT ---
+9:16 vertical aspect ratio. @image1 is the first frame, and @image1 is the last frame. Reference @image2 for the character's facial expressions and mouth shapes. Static locked-off camera, full-body framing, continuous single shot. On a plain solid green screen background (#00FF00), a cute 3D CG character named COCO performs a series of gentle idle poses and expressions.
+
+COCO is a cute 3D CG character with a clean, rounded matte-smooth design. The character remains in a full-body framing, head to feet, matching the anchor pose from @image1 at all times. The background is a plain solid green screen (#00FF00) with no shadows, no gradient, and no environment. The lighting is soft and even studio lighting. The camera is static and locked off with no movement, no zoom, and no reframing throughout. The character's head never turns, rotates, or tilts away from the anchor angle except for designated subtle nods and looks. Hands stay the same solid, fingerless rounded shape throughout, with no fingers ever appearing.
+
+0s-2.5s: COCO begins precisely at the anchor pose from @image1, maintaining a gentle, attentive up-and-down head nod, soft blinks, and subtle breathing. Arms stay relaxed at the sides. At 0:02.5, COCO matches @image1 precisely.
+
+2.5s-5.5s: COCO smoothly eases from the anchor pose into a thinking pose. Eyes close into a gentle curved "^ ^" smile, the head tilts slightly forward, and one hand naturally rises toward the chin. COCO holds this thoughtful ponder pose with soft breathing and tiny micro-sways for a moment, then smoothly lowers the hand back down and eases the face back to the neutral smile, settling precisely into the anchor pose at 0:05.5.
+
+5.5s-8.5s: COCO's mouth opens smoothly and speaks continuously with lively, natural cartoon mouth movements, accompanied by gentle conversational hand and body gestures. The energy stays constant with no freezing, no pausing, and no trailing off. At 0:08.0, COCO naturally finishes speaking, smoothly closes the mouth into the neutral smile, and lowers both arms back to the sides without an abrupt snap. At 0:08.5, COCO matches @image1 precisely.
+
+8.5s-10s: COCO begins precisely at the anchor pose from @image1, holding the exact neutral idle state with gentle listening nods, soft breathing, and a natural blink all the way to the final frame at 0:10, which matches @image1 precisely.
+
+Static locked-off camera with no movement, no zoom, and no reframing throughout all 10 seconds. Full-body framing at all times, with the head and feet completely visible in frame, matching @image1. The character's position, size, pose, and facing angle match the anchor exactly at every checkpoint (0:00, 0:02.5, 0:05.5, 0:08.5, 0:10). The green screen background (#00FF00) stays perfectly flat and uniform with no color variation, no spill, and no vignette. One unbroken continuous shot with no cuts. Perfectly smooth, flawless 3D CG surface with no visible material texture, no grain, no toy or vinyl figure look. No fingers, hands stay solid and rounded. No awkward movements like patting the belly. All transitions into and out of poses flow fluidly with brief ease-in and ease-out curves, never snapping, freezing, or stepping. No text, no speech bubbles, no subtitles.
+--- END PROMPT ---

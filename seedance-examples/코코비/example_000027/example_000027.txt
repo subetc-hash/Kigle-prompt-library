@@ -1,0 +1,26 @@
+﻿참조 이미지: example_000027.png
+시리즈: 코코비
+모델: Seedance 2.5
+생성 조건: 720p / adaptive / 4초 / 오디오 켜짐
+
+참조 매핑
+@listen02 → 01_Video 1_@listen02 (원본 없음)
+@image1 → 02_Image 1_@image1 (원본 없음)
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @listen02 by 4 seconds.
+
+@image1 guides the expression — bright, open conversational look.
+
+Speaks naturally right away — slow, calm, fluid mouth movement, small animated explaining
+gesture, no belly-touching. Talking continues without slowing or trailing off. In the last
+few frames only (a brief instant, not a held pause), returns to match the exact pose shown in
+@listen02 's first frame — do not stop or freeze mid-talk. The final frame of this extension
+must be pixel-identical to @listen02 's first frame.
+
+Color grading, tone, white balance, and lighting must stay exactly consistent with @listen02 
+throughout — no color shift, no filter change, no brightness or saturation drift at any point.
+
+Same framing, same scale, no camera movement. Full body visible throughout.
+--- END PROMPT ---
