@@ -84,20 +84,6 @@
         "seedance-examples/코코비/example_000089/example_000089.txt": "243dedc3958d5d593660f57886acf9bb38cb101a"
       },
       "series": "코코비"
-    },
-    "example_000094": {
-      "files": {
-        "seedance-examples/베베바나/example_000094/example_000094.png": "d2f1775f9d8daeacacc4608608591703ff5669a6",
-        "seedance-examples/베베바나/example_000094/example_000094.txt": "ce5a5b778c523f053f1df9caf60578a3079a6afe"
-      },
-      "series": "베베바나"
-    },
-    "example_000095": {
-      "files": {
-        "seedance-examples/베베바나/example_000095/example_000095.png": "d6e743fcf3fb478b0ce0facdadd996e1cad5adb0",
-        "seedance-examples/베베바나/example_000095/example_000095.txt": "e904309b99d2385f58223814eac43fceb5bbad65"
-      },
-      "series": "베베바나"
     }
   },
   "reset_id": "",
