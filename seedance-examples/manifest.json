@@ -2,7 +2,6 @@
   "dataset_id": "b8327e0d-7014-465c-a7e4-df27b5444aa5",
   "examples": {
     "example_000021": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000021/example_000021.png": "8f0491c9e218d8bdb42fd32bc7865cce183d04e3",
         "seedance-examples/코코비/example_000021/example_000021.txt": "7767f3ea9294cf71e2354738b8a2da2d8aed907b"
@@ -10,7 +9,6 @@
       "series": "코코비"
     },
     "example_000026": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000026/example_000026.png": "cb28182ba6c47f6950fe60a3d95dbe0affaaf624",
         "seedance-examples/코코비/example_000026/example_000026.txt": "76165692a48a948d1535185086730b30c45b7fb3"
@@ -18,7 +16,6 @@
       "series": "코코비"
     },
     "example_000027": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000027/example_000027.png": "4b68aeab9872f6768b4d5e17ba0699aa3183fe14",
         "seedance-examples/코코비/example_000027/example_000027.txt": "48eb0f8ed8f457c82658b8115ba2711d7d09a4b6"
@@ -26,7 +23,6 @@
       "series": "코코비"
     },
     "example_000051": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000051/example_000051.png": "ac0bee389da46e650745dd165bd23e01836748b9",
         "seedance-examples/코코비/example_000051/example_000051.txt": "12269a817b0350b25437382452bf21fbff094dc9"
@@ -34,7 +30,6 @@
       "series": "코코비"
     },
     "example_000052": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000052/example_000052.png": "e024d9a178efcf9c9a1b3b39f57261ccac6da7ec",
         "seedance-examples/코코비/example_000052/example_000052.txt": "9d42a28d207e45e1f1ede4d5d23aaf3833d1c3b4"
@@ -42,7 +37,6 @@
       "series": "코코비"
     },
     "example_000053": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000053/example_000053.png": "e27c37608b5ae149e427fa8723bd4775e4c4b3de",
         "seedance-examples/코코비/example_000053/example_000053.txt": "677e8dd613f0162f0900cd06448fd4d49fe52de9"
@@ -50,7 +44,6 @@
       "series": "코코비"
     },
     "example_000074": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000074/example_000074.png": "18b9e41e6672048251fa5847f2516a733b00fa9f",
         "seedance-examples/코코비/example_000074/example_000074.txt": "024b13befc822d8967ae23fdfae97dccf85fa195"
@@ -58,7 +51,6 @@
       "series": "코코비"
     },
     "example_000084": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000084/example_000084.png": "75134d761f30fae19eb0a1868568e800d3399e2f",
         "seedance-examples/코코비/example_000084/example_000084.txt": "d507a9a5c6d182a989a05724c4ea14ffcb4a458d"
@@ -66,7 +58,6 @@
       "series": "코코비"
     },
     "example_000085": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000085/example_000085.png": "efe6f8f36e17a0f5756f43cf59b881ef9ea985ed",
         "seedance-examples/코코비/example_000085/example_000085.txt": "9fa15d7c72aab9886daa50b4c16cdb248f3defe5"
@@ -74,7 +65,6 @@
       "series": "코코비"
     },
     "example_000086": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000086/example_000086.png": "4e1cc4daf130651f64f746bf611c842ce58ca04d",
         "seedance-examples/코코비/example_000086/example_000086.txt": "fe5a91167c2c5065fe2265006688c9ebbea394ef"
@@ -82,7 +72,6 @@
       "series": "코코비"
     },
     "example_000088": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000088/example_000088.png": "cffa0ffe6c2e87d9fc99b3b897c846ee938f16e2",
         "seedance-examples/코코비/example_000088/example_000088.txt": "bdd8a450489bd76f480bfd2921488040ca278022"
@@ -90,7 +79,6 @@
       "series": "코코비"
     },
     "example_000089": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/코코비/example_000089/example_000089.png": "b585a3ec386b8080350a981791917116d34fc7a4",
         "seedance-examples/코코비/example_000089/example_000089.txt": "243dedc3958d5d593660f57886acf9bb38cb101a"
@@ -98,7 +86,6 @@
       "series": "코코비"
     },
     "example_000094": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/베베바나/example_000094/example_000094.png": "d2f1775f9d8daeacacc4608608591703ff5669a6",
         "seedance-examples/베베바나/example_000094/example_000094.txt": "ce5a5b778c523f053f1df9caf60578a3079a6afe"
@@ -106,7 +93,6 @@
       "series": "베베바나"
     },
     "example_000095": {
-      "classification": "test_only",
       "files": {
         "seedance-examples/베베바나/example_000095/example_000095.png": "d6e743fcf3fb478b0ce0facdadd996e1cad5adb0",
         "seedance-examples/베베바나/example_000095/example_000095.txt": "e904309b99d2385f58223814eac43fceb5bbad65"
@@ -114,5 +100,6 @@
       "series": "베베바나"
     }
   },
+  "reset_id": "",
   "schema_version": 1
 }
