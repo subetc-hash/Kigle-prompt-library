@@ -1,0 +1,48 @@
+﻿예제번호: example_000051
+참조 이미지: example_000051.png
+시리즈: 코코비
+프로젝트: 코코비 전화놀이
+모델: Seedance 2.5
+생성 조건: 720p / adaptive / 10초 / 오디오 켜짐
+
+참조 매핑
+@image1 → 01_Image 1_@image1.png
+@image2 → 02_Image 2_@image2.png
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 10s, 9:16.
+@image1  is the first frame, and @image2  is the last frame.
+
+Static locked-off camera, no movement, no zoom, no reframing — the exact same framing as
+@image1 throughout all 10 seconds. No characters or figures enter the scene.
+
+Pacing: natural, comfortable ambient pacing throughout — not sluggish, not dragged out.
+Motions should feel alive and organic, timed to fit naturally within the 10 seconds, not
+artificially slowed down to fill time.
+
+Ambient motion only, everything else stays fixed in place:
+- The swings sway back and forth on their own at a natural, gentle pendulum pace — a few full
+  swings over the 10 seconds feels right, not one single slow drift. Must return to the exact
+  starting position by the end.
+- The sun's face blinks naturally once or twice during the loop — a normal-paced blink, not
+  slow-motion — returning to open eyes.
+- The small dog is off-screen at the very start, walks across the grass at a natural,
+  unhurried walking pace at some point during the loop, then exits off-screen again before
+  the clip ends — timed so it doesn't feel rushed or lingering.
+- Leaves on the trees and bushes rustle subtly and naturally, as if in a light breeze — no
+  net position change.
+- Clouds stay in the same position throughout — only the faintest, non-directional puffiness
+  or softness may shift, with no lateral drift or movement across the sky.
+
+No other structural changes — the playground equipment, sandbox, lamppost, flowers, and
+skyline all stay static and unchanged in position throughout.
+
+SEAMLESS LOOP REQUIREMENT: the very first frame and the very last frame must be
+pixel-identical to @image1, so this clip can loop indefinitely back-to-back with zero visible
+seam or jump. Every motion (swing sway, blink, dog entrance/exit, leaf sway) must complete
+its full cycle and return to the exact starting state by the final frame, at a natural pace
+throughout — never slow-motion, never rushed.
+
+No text, no logos, no watermark.
+--- END PROMPT ---

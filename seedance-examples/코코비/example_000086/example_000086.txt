@@ -1,0 +1,31 @@
+﻿예제번호: example_000086
+참조 이미지: example_000086.png
+시리즈: 코코비
+프로젝트: 코코비 전화놀이
+모델: Seedance 2.5
+생성 조건: 720p / adaptive / 4초 / 오디오 켜짐
+
+참조 매핑
+@cocomp4 → 01_Video 1_@cocomp4 (원본 없음)
+@코코표정 → 02_Image 1_@코코표정 (원본 없음)
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @COCOMP4 by 4 seconds.
+
+@코코표정 guides expres @COCOMP4 sion — the more effortful half-closed-eyes pondering look, not
+worried, never frowning hard.
+
+solid flat background, exact color #00D700 (RGB 0, 215, 0), completely uniform, no gradient, no shadow variation
+
+0:00–0:04:
+COCO stays in the neutral anchor pose with a lifelike, breathing idle motion: visible gentle chest and body expansion from soft breathing, accompanied by natural blinks. The head angle stays locked forward with zero nodding and zero tilting, while the upper torso breathes fluidly and naturally. Arms remain comfortably relaxed at the sides.
+
+Camera:
+Static locked-off, no movement, no zoom, no reframing throughout all 10 seconds. FULL BODY framing at all times — head to feet must stay completely visible in frame matching @COCOMP4 
+
+Reference:
+Position, size, pose, and facing angle match the anchor exactly at every checkpoint. One unbroken continuous shot, not a sequence of cuts. No toy/plastic/vinyl look, no material texture. No fingers — hands stay solid and rounded. No text, no speech bubbles, no subtitles.
+
+Same framing/scale, no camera movement. Full body visible throughout.
+--- END PROMPT ---
