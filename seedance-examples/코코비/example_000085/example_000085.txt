@@ -1,5 +1,7 @@
-﻿참조 이미지: example_000085.png
+﻿예제번호: example_000085
+참조 이미지: example_000085.png
 시리즈: 코코비
+프로젝트: 코코비 전화놀이
 모델: Seedance 2.5
 생성 조건: 720p / adaptive / 4초 / 오디오 켜짐
 
