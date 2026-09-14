@@ -64,6 +64,15 @@
       "series": "코코비",
       "task_label": ""
     },
+    "example_000083": {
+      "files": {
+        "seedance-examples/코코비/example_000083/example_000083.png": "ddf6ef95292704c0ea58306239db97bcad45fd51",
+        "seedance-examples/코코비/example_000083/example_000083.txt": "87595085e5136f91ca8de42b270aa8c82dea22ec"
+      },
+      "project_name": "코코비 전화놀이",
+      "series": "코코비",
+      "task_label": ""
+    },
     "example_000084": {
       "files": {
         "seedance-examples/코코비/example_000084/example_000084.png": "75134d761f30fae19eb0a1868568e800d3399e2f",
@@ -124,6 +133,15 @@
         "seedance-examples/베베바나/example_000095/example_000095.txt": "81485e9c82b1804e49e9ee491ccd94d75e636c82"
       },
       "project_name": "베베바나 01 집에 가고 싶어요",
+      "series": "베베바나",
+      "task_label": "참조 생성"
+    },
+    "example_000115": {
+      "files": {
+        "seedance-examples/베베바나/example_000115/example_000115.png": "8daad037e6ae784dc5ead2f2284185f4016929c3",
+        "seedance-examples/베베바나/example_000115/example_000115.txt": "958d13bbae34122dceb3f6a97cfab271d5dd27f5"
+      },
+      "project_name": "베베바나 32 까꿍놀이",
       "series": "베베바나",
       "task_label": "참조 생성"
     }

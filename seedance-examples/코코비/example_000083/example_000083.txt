@@ -1,0 +1,35 @@
+﻿예제번호: example_000083
+참조 이미지: example_000083.png
+시리즈: 코코비
+프로젝트: 코코비 전화놀이
+모델: Seedance 2.5
+생성 조건: 720p / adaptive / 4초 / 오디오 켜짐
+
+참조 매핑
+@확장이미지기본틀 → 01_Video 1_@확장이미지기본틀 (원본 없음)
+@코코표정 → 02_Image 1_@코코표정 (원본 없음)
+@cocomp4 → 03_Video 2_@cocomp4 (원본 없음)
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @확장_이미지_기본틀 by 4 seconds.
+
+@코코표정 guides expres @확장_이미지_기본틀 sion — the more effortful half-closed-eyes pondering look, not
+worried, never frowning hard.
+
+solid flat background, exact color #00D700 (RGB 0, 215, 0), completely uniform, no gradient, no shadow variation
+
+
+Action (Head never turns, rotates, or tilts away from the anchor angle except during designated subtle nods/looks — no profile or back view ever. Hands stay the same solid, fingerless rounded shape throughout — no fingers ever appear. No awkward movements like patting the belly. All transitions into/out of poses flow fluidly in brief ease-in/ease-out curves, never snapping, freezing, or stepping):
+
+0:00–0:04:
+COCO maintains the neutral anchor pose completely facing forward with zero head nods, zero head turns, and zero head movement. Only natural soft blinks and minimal, soft idle breathing are present. The body stays calm and relaxed with arms resting at the sides.
+
+Camera:
+Static locked-off, no movement, no zoom, no reframing throughout all 10 seconds. FULL BODY framing at all times — head to feet must stay completely visible in frame matching @확장_이미지_기본틀 
+
+Reference:
+Position, size, pose, and facing angle match the anchor exactly at every checkpoint. One unbroken continuous shot, not a sequence of cuts. No toy/plastic/vinyl look, no material texture. No fingers — hands stay solid and rounded. No text, no speech bubbles, no subtitles.
+
+Same framing/scale, no camera movement. Full body visible throughout. @확장_이미지_기본틀 @COCOMP4
+--- END PROMPT ---
