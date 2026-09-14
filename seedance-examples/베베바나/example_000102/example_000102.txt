@@ -1,0 +1,60 @@
+﻿예제번호: example_000102
+참조 이미지: example_000102.png
+시리즈: 베베바나
+프로젝트: 베베바나 32 까꿍놀이
+모델: Seedance 2.0 Fast
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 12초 / 오디오 켜짐
+
+참조 매핑
+@bana32 → 01_Image 1_@bana32 (원본 없음)
+@mom32 → 02_Image 2_@mom32 (원본 없음)
+@dad32 → 03_Image 3_@dad32 (원본 없음)
+@heightref32 → 04_Image 4_@heightref32.png
+@playwin32 → 05_Image 5_@playwin32.jpg
+@playin32 → 06_Image 6_@playin32.jpg
+
+프롬프트
+--- BEGIN PROMPT ---
+4 shots, 12s, 16:9.
+IMPORTANT: Hard cuts only between every shot — no dissolve, no cross-fade, no blend, no morph transition of any kind.
+
+Subject:
+@bana32 — toddler girl Bana; preserve this character's appearance exactly across all shots.
+@mom32 — Mom; preserve this character's appearance exactly across all shots.
+@dad32 — Dad; preserve this character's appearance exactly across all shots.
+@heightref32 — scale reference; relative height and physical volume ratios between Bana and her parents must match this reference strictly across all shots. Exactly three characters in this scene, no duplicates.
+
+Context & Style:
+The playroom environment refers to @play_in32 for the open arched doorway perspective and to @play_win32 for the window and curtain perspective.
+No physical door leaf opens or closes — the entrance is a wide, open archway leading directly into the room.
+The window curtain referencing @play_win32 is made of thin, lightweight sheer fabric: bright outdoor daylight shines through from behind, making the curtain semi-translucent.
+3D animation style, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated candy-pop color grade, punchy cartoon timing.
+No dialogue anywhere in this clip.
+
+Action:
+Shot 1 (0–3s): Wide establishing shot framing the open arched entrance referencing @play_in32, clearly displaying the colorful room layout, ball pit, and toy shelves. Mom and Dad are already inside the playroom, just past the archway threshold, silently scanning the room for Bana with playful, curious expressions.
+HARD CUT — no dissolve
+Shot 2 (3–6s): Bust two-shot on Mom and Dad. While scanning silently, Mom suddenly spots the window curtain referencing @play_win32 off-screen; she taps Dad's arm, pointing toward the curtain with an amused, teasing grin. Dad turns his head along her gesture, eyes widening in playful realization.
+HARD CUT — no dissolve
+Shot 3 (6–9s): Focusing on the hanging window curtain referencing @play_win32. The sheer fabric is semi-translucent under the bright window backlight: Bana's rounded body silhouette, facing forward, softly shows through the thin textile. The camera tilts down along the sheer folds to reveal Bana's two feet in her yellow-and-orange zigzag onesie, peeking out from under the curtain's hem, shifting nervously in toddler excitement.
+HARD CUT — no dissolve
+Shot 4 (9–12s): Close bust two-shot. Mom and Dad stand right beside the curtain. Mom turns to Dad, raises her finger to her lips in an exaggerated, playful "shh!" gesture with widened eyes. Dad nods knowingly and mimics the gesture back, both holding back muffled giggles.
+
+Camera:
+Shot 1: Wide establishing shot inside the room, facing the open archway referencing @play_in32, framing the room while Mom and Dad stand just inside it.
+Shot 2: HARD CUT — Medium bust two-shot on Mom and Dad at waist level.
+Shot 3: HARD CUT — Vertical tilt-down shot, starting on Bana's backlit silhouette through the curtain and settling on her wiggling feet.
+Shot 4: HARD CUT — Close bust two-shot on both parents beside the curtain making the "shh!" gesture.
+
+Reference:
+Hard cuts only between all shots — no dissolve, no cross-fade, no blend, no morph transitions.
+Consistent characters throughout. No 2D flat animation, no anime style, no live-action realism.
+No open/shut door animation — entry is strictly an open archway.
+Curtain reads as thin, semi-translucent sheer fabric with backlight revealing Bana's silhouette.
+No dialogue, no text overlays, no speech bubbles, no subtitles.
+Scale strictly locked to @heightref32 in every shot.
+Same location throughout: the playroom from @play_in32 and @play_win32.
+Do NOT alter the characters' teeth.
+Playful sneaking foley, soft tiptoe footsteps, quiet sheer fabric rustle, a soft "shh" breath sound, muffled adult chuckles.
+--- END PROMPT ---

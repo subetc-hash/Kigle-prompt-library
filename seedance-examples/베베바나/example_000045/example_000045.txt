@@ -1,0 +1,55 @@
+﻿예제번호: example_000045
+참조 이미지: example_000045.png
+시리즈: 베베바나
+프로젝트: 베베바나 32 까꿍놀이
+모델: Seedance 2.0 Fast
+생성 조건: 480p / 16:9 / 4초 / 오디오 켜짐
+
+참조 매핑
+@image1 → 01_Image 1_@image1 (원본 없음)
+
+프롬프트
+--- BEGIN PROMPT ---
+4 shots, 4s total, 16:9.
+
+Subject:
+@bana32 is BANA — preserve this character's appearance exactly across all shots. Stands on the floor throughout this entire clip — never seated.
+@dad is DAD — preserve this character's appearance exactly across all shots.
+@news is the newspaper — same as the previous clip. Preserve its appearance exactly. Strictly inanimate — moves only by Dad's hands.
+@key is the scale reference — maintain the exact height ratio between @bana32 and @dad throughout.
+
+Position setup (consistent across all shots):@거실 
+@dad sits at the dining table in the center-right of the kitchen, as shown in the kitchen reference image — the window behind him, the blue refrigerator to his right, the oven and counters to the left where Bana searched earlier. @bana32 approaches from the left, having come from the oven.
+
+Context & Style:
+Same pastel pink-and-blue kitchen as the previous clip, same spatial layout.
+This clip picks up right after Bana gave up on the oven — she's just closed it and is turning toward the table where Dad sits hidden behind the newspaper.
+High-end 3D animation style, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated candy-pop color palette, cinematic depth of field, industry-leading character animation quality.
+Squash-and-stretch on Dad's peekaboo reveal — big, theatrical, exaggerated for comic effect.
+Tone: playful curiosity building into joyful triumph, ending warm and family-cozy. No dialogue, no lip-sync — expressions and actions carry the moment.
+
+Action:
+Shot 1 (0–3s): @bana32 closes the oven door, stands, and turns toward @news, walking over and stopping right in front of the table, looking at the still, fully-covering newspaper with curious suspicion.
+Shot 2 (3–5.5s): The newspaper sits motionless for a beat — then @dad explodes into motion, flinging it aside with both arms flung wide, leaning forward with a huge grin and wide eyes, popping into view with big theatrical flair, clearly delighted with his own surprise.
+Shot 3 (5.5–8s): @bana32's face registers the shock — a flinch of surprise that instantly melts into wide-eyed, delighted laughter.
+Shot 4 (8–12s): @dad stands up from his chair and scoops @bana32 up off the floor into his arms in one continuous lift, both their faces glowing with joy as they rise together, her arms wrapping around his neck.
+
+Camera:
+Shot 1: The camera drifts alongside Bana as she turns and crosses toward the table, settling into a close framing on her and the newspaper ahead.
+Shot 2: Camera holds on the newspaper, then follows Dad's explosive motion as he flings it aside and leans into frame — his performance is the centerpiece.
+Shot 3: A tight close-up on Bana's face alone, holding through her surprise-to-laughter shift.
+Shot 4: The camera tilts and tracks upward with the lift as Dad scoops Bana up, settling into a warm framing of them both together.
+
+Reference:
+@bana32 stays on the floor, standing, until the moment @dad lifts her in Shot 4.
+Dad's peekaboo reveal in Shot 2 is big and theatrical — full arm motion — and is the focus of that shot.
+Shot 3 belongs entirely to Bana's reaction.
+Kitchen background stays spatially consistent with the previous clip.
+Height ratio between @bana32 and @dad locked to @key. @거실 
+@news is set down or dropped naturally as Dad stands in Shot 4.
+No dialogue, no lip-sync in this clip.
+Consistent characters throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Avoid jitter. Avoid bent limbs. Avoid identity drift. Do NOT alter the characters' teeth.
+Smooth natural motion, gentle warm color grade.
+--- END PROMPT ---
