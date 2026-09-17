@@ -1,5 +1,5 @@
-﻿예제번호: example_000115
-참조 이미지: example_000115.png
+﻿예제번호: example_000119
+참조 이미지: example_000119.png
 시리즈: 베베바나
 프로젝트: 베베바나 32 까꿍놀이
 모델: Seedance 2.0 Fast
@@ -11,8 +11,8 @@
 @mom32 → @mom32.png
 @dad32 → @dad32.png
 @heightref32 → @heightref32.png
-@playin32 → @playin32.jpg
-@playwin32 → @playwin32.jpg
+@play_in32 → @play_in32.jpg
+@play_win32 → @play_win32.jpg
 
 프롬프트
 --- BEGIN PROMPT ---
@@ -42,7 +42,7 @@ The window curtains referencing @play_win32 are made of thin, lightweight sheer 
 
 Action:
 
-Shot 1 (0–3s): Tracking shot, Wide establishing shot framing the open arched entrance referencing @play_in32, clearly displaying the expansive colorful room layout, ball pit, and toy shelves. Mom (@mom32) and Dad (@dad32) are already inside the playroom, standing just past the open archway threshold. Together they tiptoe playfully side-by-side across the soft floor, glancing curiously around the spacious room looking for Bana.
+Shot 1 (0–3s): Wide establishing shot framing the open arched entrance referencing @play_in32, clearly displaying the expansive colorful room layout, ball pit, and toy shelves. Mom (@mom32) and Dad (@dad32) are already inside the playroom, standing just past the open archway threshold. Together they tiptoe playfully side-by-side across the soft floor, glancing curiously around the spacious room looking for Bana.
 
 HARD CUT — no dissolve
 
@@ -58,7 +58,7 @@ Shot 4 (9–12s): Close bust two-shot. Mom and Dad stand right beside the thin s
 
 Camera:
 
-Shot 1: Medium shot, Wide establishing tracking shot positioned inside the room facing the open arched entryway referencing @play_in32, framing the expansive playroom interior while smoothly pulling backward ahead of Mom and Dad as they advance deeper into the room.
+Shot 1: Wide establishing tracking shot positioned inside the room facing the open arched entryway referencing @play_in32, framing the expansive playroom interior while smoothly pulling backward ahead of Mom and Dad as they advance deeper into the room.
 
 Shot 2: HARD CUT from Shot 1 — no dissolve. Medium bust two-shot framing Mom and Dad at waist level.
 

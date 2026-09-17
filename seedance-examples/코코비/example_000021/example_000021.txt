@@ -6,9 +6,9 @@
 생성 조건: 720p / 16:9 / 4초 / 오디오 켜짐
 
 참조 매핑
-@boogerman → 01_Image 1_@boogerman (원본 없음)
-@nose_slide01 → 02_Image 2_@nose_slide01 (원본 없음)
-@nose_slide02 → 03_Image 3_@nose_slide02 (원본 없음)
+@boogerman → @boogerman (원본 없음)
+@nose_slide01 → @nose_slide01 (원본 없음)
+@nose_slide02 → @nose_slide02 (원본 없음)
 
 프롬프트
 --- BEGIN PROMPT ---

@@ -1,5 +1,5 @@
-﻿예제번호: example_000089
-참조 이미지: example_000089.png
+﻿예제번호: example_000090
+참조 이미지: example_000090.png
 시리즈: 코코비
 프로젝트: 코코비 전화놀이
 모델: Seedance 2.5
@@ -13,11 +13,11 @@
 --- BEGIN PROMPT ---
 Extend @COCOMOV by 4 seconds.
 
-COCO stands completely still in place, matching @COCOMOV.
-The entire body and head remain stationary and locked forward.
-Calm neutral expression, eyes open, natural blinks only.
-Zero movement except minimal, subtle resting breaths.
-Arms stay relaxed at the sides.
+COCO maintains the exact pose from @COCOMOV.
+The head and neck are completely locked and motionless.
+Only the eyes move naturally, blinking and looking forward.
+The body stays grounded with extremely subtle breathing presence.
+Arms remain relaxed at the sides.
 
 Solid flat background #00D700 with no shadows.
 Static locked-off camera, full-body framing throughout.

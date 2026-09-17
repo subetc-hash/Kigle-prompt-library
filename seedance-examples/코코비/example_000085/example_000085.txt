@@ -6,8 +6,8 @@
 생성 조건: 720p / adaptive / 4초 / 오디오 켜짐
 
 참조 매핑
-@cocomov → 01_Video 1_@cocomov (원본 없음)
-@코코표정 → 02_Image 1_@코코표정 (원본 없음)
+@cocomov → @cocomov (원본 없음)
+@코코표정 → @코코표정 (원본 없음)
 
 프롬프트
 --- BEGIN PROMPT ---

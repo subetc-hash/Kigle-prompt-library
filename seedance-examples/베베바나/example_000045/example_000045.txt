@@ -6,7 +6,7 @@
 생성 조건: 480p / 16:9 / 4초 / 오디오 켜짐
 
 참조 매핑
-@image1 → 01_Image 1_@image1 (원본 없음)
+@image1 → @image1 (원본 없음)
 
 프롬프트
 --- BEGIN PROMPT ---

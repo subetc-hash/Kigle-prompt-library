@@ -1,0 +1,48 @@
+﻿예제번호: example_000135
+참조 이미지: example_000135.png
+시리즈: 베베바나
+프로젝트: 베베바나 38 얼음땡댄스송
+모델: Seedance 2.0 Fast
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 6초 / 오디오 켜짐
+
+참조 매핑
+@엉덩2 → @엉덩2.png
+@엉덩1 → @엉덩1.png
+@엉덩4 → @엉덩4.png
+@엉덩3 → @엉덩3.png
+@bana → @bana.jpg
+@livingroom3 → @livingroom3.jpg
+@38_c_3 → @38_c_3.wav
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 6s, 16:9. vibrant high-saturation kids' animation rendering, adorable toddler step-and-shake hip dance with lively footwork and arm rhythm. Clean crisp 4K rendering, sharp outlines, rich vivid character colors, smooth toy-figure surface quality, premium broadcast-quality 3D kids' animation.
+
+@bana is BANA — identity ONLY, preserve appearance exactly.
+@livingroom3 = sofa wall background ONLY — mint teal three-seat sofa with yellow, blue, white, red cushions centered against warm beige wall; framed landscape painting above sofa; yellow floor lamp to the left; cream textured rug on hardwood floor in front of sofa — preserve unchanged, do NOT alter or reinterpret.
+Do NOT take pose, motion, or composition from any reference image.
+@38_c_3 is the actual song — let this audio drive shot timing and lip-sync.
+
+SIZE RULE (all full-body frames):
+Bana's total height = NO TALLER than one-third to one-half of the sofa backrest height. Sofa dominates the background. Camera pulled back far enough to show entire sofa at all times in full-body frames.
+
+DANCE MOTION — step-and-shake hip wiggle, apply throughout: @엉덩1@엉덩3@엉덩4
+Bana alternates weight from LEFT foot to RIGHT foot on each beat — stepping side to side with a bouncy toddler waddle.
+On each step: the hip on the stepping side pushes OUT and UP, whole upper body tilts slightly in the opposite direction, the opposite arm swings naturally outward and slightly upward away from the body.
+Both arms swing in rhythm — loose, relaxed, joyful — one arm up while other is down, alternating with each step. Shirt hem bounces and sways with each hip push. Maximum cute bouncy toddler energy. Rhythm: approximately 2 steps per second, lively and playful.
+Bana smiles with a big open-mouth happy baby grin throughout. Lip-sync to the lyrics.
+
+Angle 1 (0–1.5s): CLOSE-UP — camera frames from Bana's waist down to ankles only. Back view. Bottom of sofa visible in background. Bana's feet stepping left-right and hips pushing out with each step — bouncy toddler footwork and wiggling bottom fill the frame in close-up. Lively stepping rhythm.
+Dialogue: BANA (cheerful, singing, lip-sync): "Shake, shake,"
+
+Angle 2 (1.5–2.5s): Smooth zoom-out to FULL SHOT — Bana's full body head-to-toe, back view, entire sofa visible behind. Bana continues the same step-and-shake rhythm without interruption. Both arms now visible swinging alternately with each hip step — one arm swings up as the other drops down, loose and joyful.
+Dialogue: BANA (continuing, lip-sync): "left and right"
+
+Angle 3 (2.5–5.5s): Bana performs a smooth half-turn spin, rotating to face the camera while continuing the stepping rhythm. By 3s Bana is fully facing camera. Front view: feet stepping left-right alternately with bouncy waddle, hips pushing out on each step, arms swinging opposite to each hip push — one fist loosely raised while the other swings back, alternating every step. Big open-mouth baby smile, bright eyes, full lip-sync. Same lively 2-step-per-second tempo throughout.
+Dialogue: BANA (triumphant, gleeful, lip-sync): "Shake with all your might!"
+
+ Finale (5.5–6s): On the word "might!" — Bana throws both arms straight up overhead simultaneously, fingers spread wide open, and leaps off the ground in a joyful jump — feet fully leaving the floor, body fully airborne at peak. Maximum happy energy, mouth wide open with a triumphant baby shout. She lands softly on both feet and holds the arms-up pose as the shot ends. High-saturation vivid color grade — Bana's yellow-orange colors vivid and warm, mint sofa colors rich and clean, no desaturation, no film grain, no vignette.
+
+No 2D/flat/cel/anime, no live-action, no clay/plasticine texture, no text, subtitles, speech bubbles, logos, watermarks, no on-screen lyrics or symbols, no speed lines, no floating hearts or stars, no twerking or adult dance movement, no other characters in frame, no muted/washed-out colors, no dark moody lighting, no oversized Bana relative to sofa, no static feet planted stiffly on floor, no frozen stiff arm pose at the end.
+--- END PROMPT ---

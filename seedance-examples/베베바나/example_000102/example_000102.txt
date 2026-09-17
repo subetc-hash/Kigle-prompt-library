@@ -7,12 +7,12 @@
 생성 조건: 720p / 16:9 / 12초 / 오디오 켜짐
 
 참조 매핑
-@bana32 → 01_Image 1_@bana32 (원본 없음)
-@mom32 → 02_Image 2_@mom32 (원본 없음)
-@dad32 → 03_Image 3_@dad32 (원본 없음)
-@heightref32 → 04_Image 4_@heightref32.png
-@playwin32 → 05_Image 5_@playwin32.jpg
-@playin32 → 06_Image 6_@playin32.jpg
+@bana32 → @bana32 (원본 없음)
+@mom32 → @mom32 (원본 없음)
+@dad32 → @dad32 (원본 없음)
+@heightref32 → @heightref32.png
+@playwin32 → @playwin32.jpg
+@playin32 → @playin32.jpg
 
 프롬프트
 --- BEGIN PROMPT ---

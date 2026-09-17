@@ -1,0 +1,21 @@
+﻿예제번호: example_000132
+참조 이미지: example_000132.png
+시리즈: 코코비
+프로젝트: 코코비 전화놀이
+모델: Seedance 2.5
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 4초 / 오디오 켜짐
+
+참조 매핑
+@코코나들이 → @코코나들이.mov
+@코코표정 → @코코표정.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_나들이 backward by 4 seconds.
+0-4s: Prelude — COCO continues waving warmly with a bright smile from @코코_표정, then in the later half
+the wave motion gradually eases down and the expression softens, smoothly transitioning by the very last
+frame into @코코_나들이's first frame (anchor pose). Full-body framing facing camera directly, static locked
+camera (no movement, no zoom, no reframing), plain green screen background (#00FF00), no shadows, no
+gradient. Smooth 3D CG surface, hands stay solid and rounded with no fingers.
+--- END PROMPT ---
