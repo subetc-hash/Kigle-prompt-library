@@ -1,0 +1,28 @@
+﻿예제번호: example_000244
+참조 이미지: example_000244.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 뒤로 연장
+생성 조건: 720p / adaptive / 5초 / 오디오 켜짐
+
+참조 매핑
+@코코표정 → @코코표정.png
+@코코기본2 → @코코기본2.mov
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_기본_2 by 5 seconds. Coco starts at the pose and expression shown in @코코_기본_2.
+
+0-2s (talk02): mouth opens and closes as if speaking, both hands stay lowered and sway gently side to
+side while talking, bright expression from @코코_표정, then returns to the pose and expression shown
+in @코코_기본_2.
+
+2-5s (bye01): mouth opens and closes as if speaking, saying that time is up and they need to go now,
+a wistful, reluctant expression from @코코_표정, then returns to the pose and expression shown in
+@코코_기본_2.
+
+Transitions flow smoothly, never choppy or abrupt. Green screen background, locked camera, character
+stays facing forward.
+--- END PROMPT ---

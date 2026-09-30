@@ -1,0 +1,73 @@
+﻿예제번호: example_000188
+참조 이미지: example_000188.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 35 아빠 동물 얼굴 송
+모델: Seedance 2.0 Fast
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 5초 / 오디오 켜짐
+
+참조 매핑
+@apple → @apple.png
+@bana_2 → @bana_2.png
+@livingroom1_dad → @livingroom1_dad.png
+@3 → @3.png
+@height_babgxd → @height_babgxd.png
+@bana → @bana.jpg
+@blue → @blue.png
+@sc17_2 → @sc17_2.wav
+@dad_gx → @dad_gx.png
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 4s, 16:9.
+
+Subject:
+@3 is the previous scene reference — use this image ONLY to reference character positions and spatial layout relative to the sofa. Do NOT replicate the lighting, framing, or visual style from this image.
+@dad_gx is DAD — tall adult male character, dark navy wavy hair, salmon-pink polo shirt, blue jeans, no glasses. Preserve this character's appearance exactly.
+@apple is APPLE — small girl with round red apple-shaped head, red bob hair with apple stem and green leaf on top, red pinafore dress over white tee, green shorts, red mary janes. Preserve this character's appearance exactly.
+@bana is BANA — baby toddler, round yellow banana-shaped head, tiny yellow hair sprout on top, yellow-and-orange chevron-patterned onesie, chubby build, smallest of the three kids. Preserve this character's appearance exactly.
+@blue is BLUE — boy with round blueberry-shaped head, deep blue bowl-cut hair with small leaf crown, blue zip-up vest over white tee, dark shorts, blue star-patch sneakers, holds a painter's palette and paintbrush. Preserve this character's appearance exactly.
+@height_babgxd is the scale reference — maintain exact size ratios: DAD is tallest adult, BLUE reaches DAD's chest, APPLE is shorter than BLUE, BANA is the smallest and youngest, toddler-sized. Maintain these exact proportions throughout.
+
+Context & Style:
+@livingroom1_dad is the background environment — a warm cozy living room interior with cream-colored walls, teal fabric sofa on the right side, wooden bookshelf with colorful books and toys on the left, fireplace, a large sliding glass door in the center back showing a sunny garden outside, a wooden coffee table with a white rug in the center, and fruit-shaped bean bag chairs (blue, red, yellow) on the rug. Preserve this exact background layout, furniture placement, lighting, and atmosphere unchanged. Do NOT alter or replace any element of the background.
+
+A lazy weekend afternoon at home. DAD is fast asleep on the teal sofa, lying face-toward-the-backrest so his back faces the room — exactly as shown in @3.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, cinematic depth of field, magical warm atmosphere, Walt Disney Animation Studios quality.
+
+Action:
+This is a single continuous uncut shot from 0s to 4s. Do NOT cut. Do NOT split into multiple shots. No transition. No scene change.
+
+All three children — BANA, APPLE, and BLUE — are already fully visible in frame from the very first frame, positioned in front of the teal sofa as referenced in @3. All three children face toward DAD on the sofa throughout the entire shot.
+
+At 0s: BANA stands directly in front of the sofa facing DAD's back. APPLE stands beside BANA holding a paintbrush in one hand, smiling warmly, facing DAD. BLUE is already mid-run entering frame from the left between BANA and APPLE, body fully angled toward DAD, beaming with excitement.
+
+At 0–2s: BANA plants both chubby hands on DAD's back and shoves hard — twice, body rocking forward with full toddler-strength effort. BANA's expression is visibly impatient and exasperated — brows furrowed, cheeks puffed, "why won't you wake up already?!" toddler energy. BANA's mouth animates rapid precise lip-sync to "Daddy, wake up!" timed exactly to @sc17_2. BLUE runs in and lands in position between BANA and APPLE, facing DAD, grinning hugely.
+
+At the exact frame BANA's lips close on the final syllable of "Daddy, wake up!" — with absolutely zero gap, zero pause, zero delay — BLUE instantly opens mouth and delivers "I want to draw too!" in rapid precise lip-sync timed exactly to @sc17_2. BLUE faces DAD while speaking, thrusting both arms — palette in one hand, paintbrush in the other — high overhead with explosive joy. Jaw drops wide on "draw", lips round on "too", eyebrows shoot up, whole body bounces with cheerful energy. The handoff from BANA's last syllable to BLUE's first syllable is instantaneous — back-to-back with no breathing room, as heard in @sc17_2.
+
+Simultaneously as BLUE begins speaking, BANA and APPLE both turn their heads toward BLUE with a warm surprised "oh?!" reaction — eyes going wide, heads tilting slightly, mouths curving into an amused delighted smile.
+
+Same background from @livingroom1_dad maintained exactly throughout.
+
+Camera:
+Single continuous shot. High angle close-up framed on the three children at child eye-level. DAD's body partially cropped at top edge of frame. The camera performs a gentle, visible arc movement — slowly orbiting approximately 15 to 20 degrees around the children over the full 4 seconds, moving from left-of-center to right-of-center in one smooth continuous sweep. The arc is clearly perceptible but unhurried and cinematic — not a static shot, the background should visibly shift slightly as the camera moves around the subjects. All three children remain centered in frame throughout the arc.
+
+Reference:
+Character positions and spatial layout must match @3. @3 is for layout reference only — do not copy its visual style or framing.
+This is one single uncut shot. Do NOT divide into multiple shots under any circumstances.
+All three children face toward DAD throughout the entire shot.
+Background from @livingroom1_dad must remain completely unchanged — furniture placement, colors, lighting, all props stay exactly as shown.
+DAD (@dad_gx) must have NO glasses in this scene.
+BANA's expression during the push is impatient and exasperated — NOT angry, just adorably fed-up toddler energy.
+BLUE's line "I want to draw too!" must begin at the exact frame BANA's last syllable ends — no gap whatsoever, as in @sc17_2.
+When BLUE delivers the line, BANA and APPLE both react with a warm surprised "oh?!" look toward BLUE — wide eyes, amused smiles.
+APPLE and BLUE maintain bright, happy, cheerful expressions throughout. BANA shifts from exasperated to amused when turning to look at BLUE.
+Lip-sync timing must be frame-accurate to @sc17_2 audio track throughout.
+BLUE is already entering the frame at 0s — not introduced mid-shot.
+Consistent characters throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Warm cozy indoor color grade with soft natural light from the garden window.
+--- END PROMPT ---

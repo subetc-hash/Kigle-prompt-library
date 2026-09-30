@@ -1,0 +1,123 @@
+﻿예제번호: example_000309
+참조 이미지: example_000309.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 38 얼음땡댄스송
+모델: Seedance 2.0
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 8초 / 오디오 켜짐
+
+참조 매핑
+@에셋등록2_-_복사본 → @에셋등록2_-_복사본.png
+@38_c_9 → @38_c_9.wav
+@apple → @apple.png
+@blue → @blue.png
+@banafront → @banafront.png
+@banaback → @banaback.png
+@sofareverse → @sofareverse.png
+@livingroom3 → @livingroom3.jpg
+@댄스못 → @댄스못.png
+@livingroom2 → @livingroom2.jpg
+
+프롬프트
+--- BEGIN PROMPT ---
+1 segment with 3 camera shots, 16:9. vibrant high-saturation kids' animation rendering. Clean crisp 4K rendering, sharp outlines, rich vivid character colors, smooth toy-figure surface quality, premium broadcast-quality 3D kids' animation.
+
+REFERENCE RULES:
+@apple is APPLE — identity ONLY, preserve appearance exactly across all shots.
+@bana_front@bana_back is BANA — identity ONLY, preserve appearance exactly across all shots.
+@blue is BLUE — identity ONLY, preserve appearance exactly across all shots.
+@에셋등록2_-_복사본 is MOM — identity ONLY, preserve appearance exactly across all shots.
+
+APPLE: red bob haircut with apple stem and green leaf, cream shirt, red overall dress, red mary-jane shoes with green sole and yellow buckle.
+BANA: smallest baby, yellow banana-shaped hair tuft, yellow one-piece outfit with orange sleeves and orange zigzag. Bare feet.
+BLUE: blue mushroom-cut hair with small pointed tuft on top, blue vest, white shirt, denim shorts, navy canvas sneakers with yellow star badge.
+MOM: auburn hair in updo bun, slate blue short-sleeved cardigan, cream slim pants, coral slip-on flat shoes.
+
+@에셋등록2_-_복사본 = size ratio ONLY — Mom is adult Pixar height, far taller than the children. Blue ≥ Apple > Bana, the smallest baby. Preserve proportions in every shot.
+When all three children share the frame, screen-left to right: APPLE — BANA — BLUE, with BANA in the center.
+
+@댄스못 DANCE MOTION — apply to all characters when active:
+Both hands raised to ear level on each side of the head. Arms bent at the elbows, held up beside the head throughout. Hands open with fingers together, held upright beside each ear like rabbit ears.
+On each beat: fingers fold downward and slightly forward — the whole hand droops down from the wrist, like a floppy rabbit ear going limp — then snaps back upright. The motion is: UPRIGHT → DROOP DOWN → UPRIGHT → repeat. It is a downward flap from the wrist, not an inward fold. Both hands flap in sync on every beat. The movement is loose, bouncy, and natural — never stiff.
+Full body bounces with a SLOW GENEROUS spring — one big smooth bounce per beat. Each bounce: knees bend gently → whole body rises smoothly → both feet leave the floor briefly → land softly with follow-through → flows immediately into the next bounce. Feels like a slow trampoline — elastic, fluid, continuous. Never jerky.
+Feet stay TOGETHER at all times. Rhythm: ONE smooth bounce per beat, locked to audio.
+Expression during dancing: huge joyful grin, eyes sparkling, head bobbing naturally.
+
+CRITICAL: The DANCE MOTION is a hand gesture dance — characters hold both hands up beside their heads and flap them downward like floppy rabbit ears. "No rabbit ear" accessories, headbands, costumes, or physical ears ever appear on any character at any point. Characters wear exactly their normal described outfits throughout every shot.
+
+NEGATIVE for BUNNY DANCE MOTION: no stiff robotic movement, no rapid small hops, no feet apart during bounce, no stationary standing, no off-beat motion, no lip sync, no rabbit ear props or costumes of any kind.
+
+AUDIO AND EDITING:
+@38_c_9 is the actual audio (5.67 seconds total). Use its spoken cues and musical accents to determine all timing. Do not alter playback speed.
+No lip sync required on any character except MOM's two dialogue lines: "Freeze!" and "Now, dance!"
+
+SHOT 1 — MOM'S FREEZE CUE (approx. 0:00–1.8s):
+Background: use @sofareverse exactly as provided.
+Continuous single take — no cut within this shot. No snow, ice, or falling effects of any kind in this shot.
+
+Begin on a tight close-up of MOM's hands at chest level: both palms spread wide open, fingers fanned outward, thrust forward toward the children offscreen. The gesture is playful and sudden — a teasing "stop right there" pose. Hold for a brief beat.
+
+The camera then tilts smoothly upward to reveal MOM's face in a chest-up medium close-up. She wears a big warm playful grin — cheeks lifted, eyes bright and amused, eyebrows raised in delight. She is clearly enjoying the game. Her expression is never stern or strict.
+
+Synchronized to the spoken audio cue, MOM delivers her line with a teasing, laughing voice:
+Dialogue: MOM — playful and warm: "Freeze!"
+
+Keep her smile wide and her eyes dancing throughout. She looks as though she is barely holding back laughter.
+
+SHOT 2 — FUNNY FROZEN CHILDREN (approx. 1.8s–4.2s):
+Background: use @livingroom3 exactly as provided.
+Hard cut to an over-the-shoulder medium-wide shot.
+MOM's back and shoulder occupy the left foreground, slightly out of focus — she faces the children at camera-right.
+
+In the background, screen-left to right: APPLE — BANA — BLUE. All three have BOTH FEET PLANTED FIRMLY ON THE FLOOR — no floating, no feet in the air. They freeze the instant the cut lands.
+
+FREEZE POSES — all three share the SAME comic freeze pose, each scaled to their body size:
+Each child is caught mid-step with one foot slightly ahead, body weight mid-transfer, and both hands raised up beside their head — elbows bent, hands open at ear level, fingers slightly spread, as if they were just arriving at the bunny-ear hand position when they froze. Body leaning slightly forward with the momentum of the interrupted bounce.
+
+APPLE: same pose as described above. Expression: wide bright smile, eyes sparkling with barely-contained laughter, cheeks lifted.
+
+BANA (center, must be the most adorable): same pose scaled to her tiny chubby toddler body — stubby arms raised beside her round head, little hands open at ear level. Her whole baby body slightly tilted with the interrupted motion. Expression: softest most irresistible smile, eyes curving into happy crescents, tiny mouth turned up in a sweet delighted grin. Maximum cuteness.
+
+BLUE: same pose. Expression: mock-intense with one eyebrow raised, mouth corners clearly fighting a smirk — trying to look cool but clearly delighted.
+
+ICE EFFECTS — falling snowflakes only. No floor ice effects of any kind:
+Fine glowing white snowflake particles — identical in style to the reference snowflakes in the provided image (clean, bright, simple 6-pointed snowflake shapes, glowing white, various sizes, softly blurred edges) — drift SLOWLY downward from above throughout the entire hold. Gentle, continuous, sparse. The snowflakes fall naturally around all three children from top to bottom of frame. Not heavy snow — light, delicate, magical. No floor ice crystals, no frost patterns on the floor, no ice formations of any kind beneath or around the children's feet.
+
+SHOT 3 — NOW DANCE (approx. 4.2s–8s): @댄스못
+Background: use @livingroom2 exactly as provided.
+Hard cut to a HIGH-ANGLE wide shot looking down at all four characters from above — a bird's-eye or steep three-quarter overhead angle showing the full scene from above. All four characters — MOM and all three children — visible in full body.
+Screen arrangement from this overhead angle: MOM on one side, APPLE — BANA — BLUE on the other side facing her. 
+
+MOM faces the children with a wide delighted smile. She delivers:
+Dialogue: MOM — joyful and energetic: "Now, dance!"
+
+The children remain completely still while MOM speaks — holding their frozen poses, eyes sparkling in anticipation.
+
+Only after MOM's "dance!" is fully spoken — all three children simultaneously BURST into the BUNNY DANCE MOTION: both feet spring off the floor into the first big bounce, both hands fly up beside their heads doing the downward wrist-flap rabbit ear gesture. MOM joins immediately performing the same full BUNNY DANCE MOTION.
+
+All four bounce together with slow generous spring — whole bodies rising off the floor on every beat, hands flapping downward and back up beside their heads, everyone laughing with huge joyful expressions. The full-body bounce must be clearly visible from the high angle — feet leaving the floor, bodies rising and landing.
+
+CRITICAL FINAL REMINDER: No rabbit ear headbands, accessories, props, or costumes appear on any character in Shot 3 or anywhere. The rabbit ear shape is made only with the characters' own hands held up beside their heads. Characters wear only their normal described outfits.
+
+LIGHTING AND FINISH:
+Bright cheerful daylight, soft warm fill, clean character separation, vivid primary character colors, bright clean shadows throughout all shots.
+
+GLOBAL NEGATIVE:
+No 2D, flat, cel-shaded or anime rendering; no live-action; no clay or plasticine texture.
+No text, subtitles, speech bubbles, logos, watermarks, or on-screen symbols.
+No adult dance moves or twerking.
+No muted colors, film grain, vignette, or dark moody lighting.
+No character redesign, outfit changes, altered height ratios, extra characters, or duplicated limbs.
+No rapid small hops or stiff robotic bouncing during dance.
+No rabbit ear accessories, headbands, bunny ear props, or rabbit costumes on any character at any time.
+No floor ice, frost patterns, or ice crystals on or near the floor in any shot.
+No snow or ice effects in Shot 1.
+No scared, surprised, angry, or unhappy expressions on the children during the freeze — all three must be smiling and playful throughout.
+No children with feet off the floor during the freeze in Shot 2.
+No children moving before MOM's "Now, dance!" line is fully complete in Shot 3.
+No lip sync except MOM's two dialogue lines.
+No invented or altered background elements — use provided background assets exactly as given.
+
+Camera: slowly arc right. Movement: move on a shallow curved path around the main subject toward the right side. Speed: slowly smooth measured curve. Framing: keep distance, height and subject readability consistent while the angle changes.
+--- END PROMPT ---

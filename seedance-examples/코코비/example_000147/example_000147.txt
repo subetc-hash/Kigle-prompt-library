@@ -1,0 +1,53 @@
+﻿예제번호: example_000147
+참조 이미지: example_000147.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.0 Fast
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 11초 / 오디오 켜짐
+
+참조 매핑
+@코코기본 → @코코기본 (원본 없음)
+@코코표정 → @코코표정.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_기본 backward by 11 seconds.
+
+Subject:
+@코코_기본 — preserve this character's exact appearance, proportions, and pose baseline throughout.
+@코코_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout, character always facing camera directly at the same angle as @코코_기본.
+Plain green screen background (#00FF00), no shadows, no gradient. Static locked camera, no movement,
+no zoom, no reframing.
+
+Prelude (0-8s):
+0-2s (think01): starts at the anchor pose, bright/light thinking expression from @코코_표정, small
+  pondering gesture (e.g. slight head tilt, hand near chin), eases back to the anchor pose by the end.
+2-4s (think02): starts and ends at the anchor pose, troubled/worried thinking expression from @코코_표정,
+  slightly deeper pondering gesture than think01.
+4-6s (talk01): starts at the anchor pose but mouth begins moving immediately — no lingering before
+  speaking. Bright expression, small natural conversational gesture, slow calm mouth movement (not fast
+  flapping), restrained gesture scale since this loops. Speech trails off naturally, ending at the anchor
+  pose (closed mouth) — not an abrupt stop.
+6-8s (talk02): same start/end rule — mouth moves immediately, bright expression, hands gesture as if
+  explaining something (slightly more explanatory than talk01), small scale, ends at the anchor pose.
+
+Transition into original (8-11s, talk03):
+Mouth moves immediately at the start of this segment, hands come together and body angle shifts subtly
+while talking, calm pace, then ease smoothly and precisely into @코코_기본's first frame (anchor pose)
+by the very last frame — this final convergence must be exact, no snap-cut, no lingering pause before
+matching.
+
+Reference/Constraints:
+CRITICAL: preserve @코코_기본's character appearance, clothing colors, and body shape exactly.
+Hands remain blunt/fingerless — no finger detail.
+Smooth 3D CG surface, no visible texture grain, no toy/vinyl-figure look.
+No lighting or color-tone changes from @코코_기본 source.
+No torso-touching gestures (e.g. hand resting on belly) — natural conversational movement only.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn,
+no back view, no snap-cut transitions, no fast mouth flapping.
+--- END PROMPT ---

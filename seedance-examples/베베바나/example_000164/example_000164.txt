@@ -1,0 +1,74 @@
+﻿예제번호: example_000164
+참조 이미지: example_000164.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 35 아빠 동물 얼굴 송
+모델: Seedance 2.0 Fast
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 9초 / 오디오 켜짐
+
+참조 매핑
+@dad_gx → @dad_gx.png
+@1 → @1.png
+@height_bagxd → @height_bagxd.png
+@sc15 → @sc15.wav
+@apple → @apple.png
+@bana → @bana.jpg
+@livingroom1reverse → @livingroom1reverse.png
+@livingroom1 → @livingroom1.jpg
+
+프롬프트
+--- BEGIN PROMPT ---
+2 shots, 8s, 16:9.
+
+Subject:
+@apple is APPLE — preserve this character's appearance exactly across all shots. APPLE HAS A 100% CLEAN FACE AT ALL TIMES. ABSOLUTELY ZERO paint, NO tiger marks, NO marks, NO drawings on APPLE's own face or skin. Zero face paint transfer. Her skin is pristine.
+@bana is BANA — preserve this character's appearance exactly across all shots. BANA HAS A 100% CLEAN FACE AT ALL TIMES. ABSOLUTELY ZERO paint, NO marks, NO drawings on BANA's own face.
+@dad_gx is DAD — preserve this character's appearance exactly. ABSOLUTELY NO glasses, NO spectacles, NO eyewear of any kind in any shot — not even partially visible.
+@1 is the pose reference for DAD — DAD lies on his side ON TOP of the teal sofa. Use this body pose ONLY — ignore glasses and background.
+@height_bagxd is the scale reference — maintain exact size ratio between all characters throughout.
+
+Context & Environment References:
+@livingroom1_reverse is the background environment reference for Shot 1 ONLY — showing ONLY the green archway wall, plant, and ceiling behind BANA and APPLE. ABSOLUTELY NO SOFA IN SHOT 1.
+@livingroom1 is the background environment reference for Shot 2 ONLY — showing the full living room layout with the teal sofa.
+
+Strict Positioning & Floor Constraints (ZERO SOFA CLIMBING & ZERO FACE PAINT TRANSFER):
+- ABSOLUTE CONSTRAINT: BOTH BANA AND APPLE MUST HAVE BOTH FEET PLANTED 100% FIRMLY ON THE WOODEN FLOOR AT ALL TIMES IN BOTH SHOTS.
+- THEY MUST NEVER STEP, CLIMB, SIT, KNEEL, STAND, OR REST ANY BODY PART ON THE SOFA CUSHIONS OR SOFA FRAME. Both girls stand at a natural distance on the floor next to the sofa.
+- NO DIRECT PHYSICAL TOUCHING ON SOFA: They do NOT touch or climb onto the sofa to reach DAD.
+- NO FACE PAINT TRANSFER: Paint and drawings appear ONLY on DAD's skin / the camera lens. APPLE and BANA's faces remain 100% clean with zero paint or drawings on themselves. The tiger illustration is completely separate from APPLE's face.
+- CAMERA POV IN SHOT 1: DAD is the camera lens in Shot 1. DAD and his sofa are completely BEHIND THE CAMERA (OFF-FRAME). ZERO SOFA VISIBLE BEHIND THE GIRLS IN SHOT 1.
+
+High-quality 3D animated film style, subsurface scattering on skin, soft warm volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, cinematic depth of field, warm cozy home atmosphere, professional feature animation quality.
+
+Action:
+Shot 1 (0–4s) — "Play with us, play with us!":
+Background uses @livingroom1_reverse. TRUE P.O.V. SHOT from DAD's eyes looking at BANA and APPLE. DAD's face and the sofa he lies on are completely BEHIND THE CAMERA and OFF-FRAME.
+Behind BANA and APPLE, ONLY the green archway wall and wooden floor are visible. ABSOLUTELY NO SOFA IN FRAME.
+At 0s, BANA is already standing upright ON THE FLOOR, facing DAD (looking directly into the camera lens), smiling brightly and clapping her bare hands together in excitement.
+Suddenly, APPLE enters the frame from the side, walking up to stand right beside BANA ON THE FLOOR, side by side, facing DAD (the camera). Neither girl steps onto any furniture — both remain 100% on the floor.
+APPLE raises her paintbrush and reaches her arm forward straight toward the camera lens. Her hand and brush fill the lower portion of the frame. APPLE begins painting a cute, clumsy, slightly messy toddler-style tiger face illustration (simple childlike hand-drawn look). The tiger illustration appears exclusively ON THE CAMERA LENS SURFACE (which represents DAD's face/skin below frame).
+CRITICAL: APPLE'S OWN FACE REMAINS 100% CLEAN AND PURE, WITH ZERO TIGER MARKS OR PAINT ON HER SKIN. The tiger marks do NOT appear on APPLE's face.
+Because this is DAD's direct POV, the brushstrokes appear as if drawn directly ON THE CAMERA LENS ITSELF. Each stroke appears ONLY as the tip of APPLE's brush physically moves across. BANA stands right beside APPLE on the floor with empty hands, watching, smiling warmly and giggling softly.
+
+Camera Shot 1: TRUE P.O.V. SHOT using @livingroom1_reverse background looking toward the green archway wall from DAD's eyes. Zero sofa visible in frame. BANA is in frame standing upright on the floor first. APPLE frames in from the side to stand side by side with BANA on the floor. APPLE's brush reaches toward the lens. Very slight gentle drift — never fully static.
+
+Shot 2 (4–8s) — "Let's draw, let's draw":
+Background switches to @livingroom1. Low-angle Wide-MEDIUM shot close-up, focusing on DAD's face and upper body while keeping BANA and APPLE's feet visible PLANTED ON THE FLOOR next to the sofa. The sofa and floor are clearly separated.
+DAD is lying ON TOP of the teal sofa, initially lying on his side facing TOWARD BANA and APPLE. His face is center frame: DAD already has messy, colorful handprint paint smears on BOTH cheeks from BANA's hands, and on top of one cheek, APPLE has drawn a clumsy, charmingly imperfect toddler-style tiger face illustration over BANA's paint smears.
+BOTH APPLE AND BANA MAINTAIN COMPLETELY CLEAN FACES WITH ZERO PAINT ON THEIR OWN SKIN.
+BANA stands on the floor with bare empty hands, giggling happily while waving her arms cheerfully. APPLE stands beside BANA on the floor, cheerfully raising her paintbrush in the air toward DAD.
+Suddenly, DAD — still COMPLETELY ASLEEP with eyes CLOSED, never waking — makes a deep-sleep reflex. He gently and languidly swats at the air with one hand without raising his head, a 무의식적인 (unconscious) 수면 반사 (sleep reflex) movement to groggily shoo away the disturbance, then smoothly rolls over onto his other side ON TOP OF THE SOFA away from BANA and APPLE (turning his back to the girls, facing toward the sofa backrest/wall). DAD never wakes up, never opens his eyes, never gives an intentional refusal gesture. It is pure unconscious deep-sleep behavior. DAD remains properly positioned on the sofa cushions at all times.
+
+Camera Shot 2: Low-angle Wide-MEDIUM shot close-up using @livingroom1, keeping BANA and APPLE's feet visible PLANTED ON THE WOODEN FLOOR next to the sofa while focusing tightly on DAD on the sofa. As DAD makes the languid sleep swat, the camera captures him rolling over smoothly ON TOP OF THE SOFA to turn his back to the girls. No wide 3shot. Slow gentle natural camera drift — warm and intimate.
+
+Reference:
+Background for Shot 1 uses @livingroom1_reverse (green archway view, ABSOLUTELY NO SOFA IN FRAME). Background for Shot 2 uses @livingroom1 (full living room view showing sofa and floor).
+DAD's pose and position on the sofa in Shot 2: side-lying with head toward window/red beanbag, strictly lying ON TOP of the sofa cushions. Ignore glasses from @1. DAD appearance must match @dad_gx — messy handprint paint smears from BANA on both cheeks, layered with APPLE's clumsy toddler-drawn tiger face on one cheek in Shot 2. NO glasses, NO eyewear of any kind. DAD MUST REMAIN ASLEEP WITH EYES COMPLETELY CLOSED AT ALL TIMES.
+Spatial positioning: BANA and APPLE stand side by side ON THE WOODEN FLOOR, facing toward DAD, in the space between the teal sofa and the red beanbag chair across BOTH shots. ABSOLUTELY NO CLIMBING, NO STEPPING ON SOFA, BOTH FEET ON THE WOODEN FLOOR AT ALL TIMES.
+NO TEXTURE BLEED-THROUGH: APPLE and BANA must have 100% CLEAN FACES AT ALL TIMES. Zero paint, zero tiger marks, zero smudges on APPLE or BANA. Tiger face and handprints are exclusively on DAD / the camera lens.
+Consistent characters throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Smooth cinematic motion. Warm cozy home color grade. DAYTIME ONLY.
+@sc15 is the audio track — sync shot transitions to lyric timing: Shot 1 aligns with "Play with us, play with us!", Shot 2 aligns with "Let's draw, let's draw".
+--- END PROMPT ---

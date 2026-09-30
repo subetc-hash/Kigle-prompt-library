@@ -1,0 +1,45 @@
+﻿예제번호: example_000396
+참조 이미지: example_000396.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 38 얼음땡댄스송
+모델: Seedance 2.0
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 6초 / 오디오 켜짐
+
+참조 매핑
+@10_house_4-2 → @10_house_4-2.jpg
+@38_c_15 → @38_c_15.wav
+@hipdad3 → @hipdad3.png
+@apple → @apple.png
+@banafront → @banafront.png
+@banaback → @banaback.png
+@blue → @blue.png
+@heightmainfamily → @heightmainfamily.png
+
+프롬프트
+--- BEGIN PROMPT ---
+2 shots, 6s, 16:9. 3D Disney/Pixar animation style, goofy dad showing off his ridiculous dance moves while kids watch and giggle.
+
+@hipdad3 DAD — identity ONLY (dark navy wavy hair, round black sunglasses, blue denim jacket open over white tee with gold star badge on left chest, medium blue clean straight-leg jeans — NO distressing, NO washing, NO rips, brown leather belt, cuffed hem, brown leather bracelet on wrist, red bandana in back pocket, white sneakers), preserve appearance exactly across all shots.
+@apple is APPLE — identity ONLY (round red bob hair with green leaf + brown stem on top, red pinafore dress over white tee, red mary jane shoes with green sole and yellow buckle), preserve appearance exactly.
+@bana_front@bana_back BANA — identity ONLY (small yellow baby, tiny yellow sprout on top of head, orange sweater with yellow zigzag pattern, yellow knit pants, bare feet), preserve appearance exactly.
+@blue is BLUE — identity ONLY (dark navy mushroom-cut hair with blueberry nub cluster on top, white tee + navy zip-up vest, navy shorts, navy sneakers with yellow star on side), preserve appearance exactly.
+@10_house_4-2 = environment ONLY — yellow house with red roof, green front lawn, clear blue sky — preserve unchanged, do NOT alter or reinterpret.
+Do NOT take pose, motion, or composition from any reference image.
+@38_c_15 is the actual song — let this audio drive shot timing.
+
+@height_mainfamily RATIO CRITICAL: DAD is approximately 1.8x the height of BLUE (the tallest child) — a normal tall adult, NOT a giant. DAD's head reaches roughly twice the height of BANA's head. BLUE slightly taller than APPLE > BANA (smallest, baby toddler proportions). This size relationship must be strictly maintained in every shot.
+
+DAD stands center on the front lawn facing the kids. APPLE, BANA, BLUE stand a few steps in front of DAD, all three facing DAD and watching him dance: BANA center, APPLE to Bana's left, BLUE to Bana's right. DAD's back is toward the house; kids face toward DAD. Positions never change across shots — only the camera angle varies.
+
+Shot 1 (0–3s): Single continuous bottom-up camera move — (0–1.5s) camera starts extremely low at ankle height looking up at DAD, DAD's feet and lower legs fill the frame: right knee swings out sideways and lifts high, body leans right — plants down; left knee swings out sideways and lifts high, body leans left — plants down; repeating left-right alternating knee swing in a loose floppy loop; medium blue clean jeans and white sneakers clearly visible; (1.5–3s) camera slowly tilts up in one smooth continuous move — revealing waist, then both arms: left arm swings up when right knee lifts, right arm swings up when left knee lifts, elbows softly bent throughout, arms are human arms only — no wings, no feathers, no extra appendages, no sharp gestures; continues tilting up to reveal DAD's wide open grin, round black sunglasses, head bobbing joyfully; yellow house with red roof fills the background throughout.
+Dialogue: DAD (gleeful): "Twist, twist, side to side"
+
+Shot 2 (3–6s): Hard cut. Reverse angle — camera positioned low on DAD's side, shooting through between DAD's two legs toward the kids: DAD's medium blue clean straight-leg jeans frame both left and right edges of the screen; DAD's knees continuously swinging side to side in the same goofy dance rhythm throughout — right knee swings out and lifts, body leans right, plants down; left knee swings out and lifts, body leans left, plants down — legs never stop moving; background behind the kids is open green lawn + bright blue sky only, NO house visible; centered between DAD's legs: BANA (smallest, giggling with both hands raised to cheeks), APPLE on Bana's left (covering mouth laughing), BLUE on Bana's right (pointing at DAD and cracking up); all three kids clearly facing toward the camera (toward DAD).
+Dialogue: APPLE, BANA, BLUE (giggling): "Twist with all your might"
+
+Lighting: bright warm midday sunlight from above, cheerful saturated colors, soft lawn shadows. Fun upbeat color grade.
+
+No 2D/flat/cel/anime, no live-action, no clay/plasticine texture, no text, subtitles, speech bubbles, logos, watermarks, no on-screen lyrics or symbols, no speed lines, no extra characters, no wings, no feathers, no extra appendages on arms, no distressed jeans, no ripped jeans, no washed-out denim.
+--- END PROMPT ---

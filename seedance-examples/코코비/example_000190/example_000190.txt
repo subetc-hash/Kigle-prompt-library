@@ -1,0 +1,67 @@
+﻿예제번호: example_000190
+참조 이미지: example_000190.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 11초 / 오디오 켜짐
+
+참조 매핑
+@러비기본22 → @러비기본22.mov
+@러비표정 → @러비표정.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @러비_기본_2_2 backward by 11 seconds.
+
+Subject:
+@러비_기본_2_2 — preserve this character's exact appearance, proportions, and pose baseline throughout.
+@러비_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout, character always facing camera directly at the same angle as @러비_기본_2_2.
+Plain green screen background (#00FF00), no shadows, no gradient. Static locked camera, no movement,
+no zoom, no reframing. Overall pacing is calm, gentle, and unhurried throughout — this is a soft,
+relaxed children's character, never rushed or snappy.
+
+Prelude (0-9s):
+0-2s (hello): COCO settles at @러비_기본_2_2's exact anchor pose and neutral expression, then at a relaxed
+  pace raises one hand and waves warmly, bright open smile from @러비_표정, and gently eases back to
+  @러비_기본_2_2's exact anchor pose AND neutral expression, settling there comfortably for a natural beat
+  before the next segment begins.
+2-4s (idle00): settles at @러비_기본_2_2's exact anchor pose and neutral expression, a slow, gentle up-and-
+  down head nod with soft breathing, then settles back at @러비_기본_2_2's exact anchor pose AND neutral
+  expression for a natural beat.
+4-6s (idle01): rests at @러비_기본_2_2's exact anchor pose AND neutral expression throughout, with only
+  minimal, slow idle breathing sway — a calm, restful moment, no large gesture.
+6-8s (idle02): settles at @러비_기본_2_2's exact anchor pose and neutral expression, then at an easy, relaxed
+  pace looks around casually, arms drifting naturally side to side, before gently settling back at
+  @러비_기본_2_2's exact anchor pose AND neutral expression for a natural beat.
+8-9s: COCO rests comfortably at @러비_기본_2_2's exact anchor pose AND neutral expression, then gradually
+  begins turning attention toward listening, easing into the start of listen01.
+
+Transition into original (9-11s, listen01):
+COCO's head tilts slightly forward at a gentle, natural pace, attentive listening expression from
+@러비_표정, then eases smoothly and gradually into @러비_기본_2_2's first frame — matching BOTH the exact
+anchor pose AND the exact anchor (neutral) expression by the very last frame, arriving calmly with no
+rush.
+
+Reference/Constraints:
+CRITICAL: motion itself must be fluid and continuous frame-to-frame — never choppy, stepped, staggered,
+or stop-motion-like. Every gesture (head nod, arm sway, hand rise, mouth movement) flows as one smooth,
+continuous curve from start to finish, with no jitter, no held/frozen mid-poses, and no discrete "steps."
+CRITICAL: pacing throughout is calm and unhurried — no segment should ever feel rushed, snappy, or
+sudden; every gesture has a soft, natural rhythm.
+CRITICAL: every transition — into an action, back to the anchor, and between consecutive segments — must
+be fluid and continuous, with smooth ease-in/ease-out motion curves. No segment may ever snap, freeze,
+jump-cut, or pause abruptly at a boundary.
+CRITICAL: every segment must return to BOTH @러비_기본_2_2's exact anchor pose AND its exact anchor expression
+— pose alone is not sufficient; eyes, mouth, and brow must also settle back to the neutral anchor look.
+CRITICAL: preserve @러비_기본_2_2's character appearance, clothing colors, and body shape exactly.
+Hands remain blunt/fingerless — no finger detail.
+Smooth 3D CG surface, no visible texture grain, no toy/vinyl-figure look.
+No lighting or color-tone changes from @러비_기본_2_2 source.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn,
+no back view, no snap-cut transitions, no rushed or hurried movement, no choppy or stepped motion.
+--- END PROMPT ---

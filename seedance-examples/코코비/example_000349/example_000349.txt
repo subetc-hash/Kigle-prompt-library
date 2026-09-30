@@ -1,0 +1,39 @@
+﻿예제번호: example_000349
+참조 이미지: example_000349.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 뒤로 연장
+생성 조건: 720p / adaptive / 13초 / 오디오 켜짐
+
+참조 매핑
+@러비표정 → @러비표정.png
+@러비캠핑22 → @러비캠핑22.mov
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @러비_캠핑_2_2 by 13 seconds. Lovi starts at the pose and expression shown in @러비_캠핑_2_2.
+
+0-2s: mouth opens and closes as if speaking, a small natural hand gesture as if chatting casually,
+bright expression from @러비_표정, then returns to the pose and expression shown in @러비_캠핑_2_2.
+
+2-4s: mouth opens and closes as if speaking, both hands stay lowered and sway gently side to side as
+if explaining something, bright expression from @러비_표정, then returns to the pose and expression
+shown in @러비_캠핑_2_2.
+
+4-7s: mouth opens and closes as if speaking, hands come together in front of the body while the torso
+turns slightly to one side and back, bright expression from @러비_표정, then returns to the pose and
+expression shown in @러비_캠핑_2_2.
+
+7-10s: mouth opens and closes energetically as if speaking excitedly, both hands rise partway with
+lively, eager gestures, an upbeat expression from @러비_표정, then returns to the pose and expression
+shown in @러비_캠핑_2_2.
+
+10-13s: mouth opens and closes as if speaking joyfully, a wide happy beaming smile from @러비_표정 as
+if hearing good news, one hand rises slightly as if delighted, then returns to the pose and expression
+shown in @러비_캠핑_2_2.
+
+Transitions flow smoothly, never choppy or abrupt. Green screen background, locked camera, character
+stays facing forward.
+--- END PROMPT ---

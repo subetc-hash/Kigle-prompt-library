@@ -1,0 +1,71 @@
+﻿예제번호: example_000191
+참조 이미지: example_000191.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 11초 / 오디오 켜짐
+
+참조 매핑
+@러비기본22 → @러비기본22.mov
+@러비표정 → @러비표정.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @러비_기본_2_2 backward by 11 seconds.
+
+Subject:
+@러비_기본_2_2 — preserve this character's exact appearance, proportions, and pose baseline throughout.
+@러비_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout, character always facing camera directly at the same angle as @러비_기본_2_2.
+Plain green screen background (#00FF00), no shadows, no gradient. Static locked camera, no movement,
+no zoom, no reframing. Overall pacing is calm, gentle, and unhurried throughout — this is a soft,
+relaxed children's character, never rushed or snappy.
+
+Prelude (0-8s):
+0-2s (think01): settles at @러비_기본_2_2's exact anchor pose and neutral expression, then at an easy pace
+  shows a bright/light thinking expression from @러비_표정, a small, slow pondering gesture (e.g. gentle
+  head tilt, hand drifting near chin), before gently settling back at @러비_기본_2_2's exact anchor pose AND
+  neutral expression for a natural beat.
+2-4s (think02): settles at @러비_기본_2_2's exact anchor pose AND neutral expression, then at a relaxed pace
+  shows a troubled/worried thinking expression from @러비_표정, a slightly deeper, slow pondering gesture
+  than think01, before easing back to the exact anchor pose AND neutral expression.
+4-6s (talk01): settles at @러비_기본_2_2's exact anchor pose and neutral expression, then naturally begins
+  speaking at an unhurried, comfortable pace. Bright expression, a small, easy conversational gesture,
+  calm mouth movement (not fast flapping), restrained gesture scale since this loops. Speech winds down
+  gently and naturally, easing back to @러비_기본_2_2's exact anchor pose AND neutral expression (mouth fully
+  closed) with a soft, unforced settle.
+6-8s (talk02): settles at the anchor pose and neutral expression, naturally begins speaking at an
+  unhurried pace, bright expression, hands gesture gently as if explaining something (slightly more
+  explanatory than talk01), small scale, winding down and easing back to @러비_기본_2_2's exact anchor pose
+  AND neutral expression.
+
+Transition into original (8-11s, talk03):
+COCO naturally begins speaking at a relaxed, unhurried pace, hands come together gently and body angle
+shifts subtly while talking, calm and easy energy, then gradually and smoothly eases into @러비_기본_2_2's
+first frame — matching BOTH the exact anchor pose AND the exact anchor (neutral, mouth closed) expression
+by the very last frame, arriving calmly with no rush.
+
+Reference/Constraints:
+CRITICAL: motion itself must be fluid and continuous frame-to-frame — never choppy, stepped, staggered,
+or stop-motion-like. Every gesture (head nod, arm sway, hand rise, mouth movement) flows as one smooth,
+continuous curve from start to finish, with no jitter, no held/frozen mid-poses, and no discrete "steps."
+CRITICAL: pacing throughout is calm and unhurried — no segment should ever feel rushed, snappy, or
+sudden; every gesture has a soft, natural rhythm.
+CRITICAL: every transition — into an action, back to the anchor, and between consecutive segments — must
+be fluid and continuous, with smooth ease-in/ease-out motion curves. No segment may ever snap, freeze,
+jump-cut, or pause abruptly at a boundary.
+CRITICAL: every segment must return to BOTH @러비_기본_2_2's exact anchor pose AND its exact anchor expression
+— pose alone is not sufficient; eyes, mouth, and brow must also settle back to the neutral anchor look.
+CRITICAL: preserve @러비_기본_2_2's character appearance, clothing colors, and body shape exactly.
+Hands remain blunt/fingerless — no finger detail.
+Smooth 3D CG surface, no visible texture grain, no toy/vinyl-figure look.
+No lighting or color-tone changes from @러비_기본_2_2 source.
+No torso-touching gestures (e.g. hand resting on belly) — natural conversational movement only.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn,
+no back view, no snap-cut transitions, no fast mouth flapping, no rushed or hurried movement, no choppy
+or stepped motion.
+--- END PROMPT ---

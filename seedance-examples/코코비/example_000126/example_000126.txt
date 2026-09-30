@@ -1,0 +1,59 @@
+﻿예제번호: example_000126
+참조 이미지: example_000126.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 뒤로 연장
+생성 조건: 720p / adaptive / 11초 / 오디오 켜짐
+
+참조 매핑
+@코코기본 → @코코기본 (원본 없음)
+@코코표정 → @코코표정.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_기본 by 11 seconds, continuing from the last frame of @코코_기본.
+
+Subject:
+@코코_기본 — preserve this character's exact appearance, proportions, and pose exactly as shown in
+@코코_기본's last frame throughout.
+@코코_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout (no close-up, no waist-up crop). Character always faces camera directly at
+the same angle as @코코_기본's last frame — never turns head, never shows side or back view. Plain green
+screen background, identical color/uniformity as @코코_기본, no shadows or gradient.
+
+Action:
+0-2s (hello): starts exactly at the last frame of @코코_기본, raises one hand and waves warmly, cheerful
+  open smile from @코코_표정. Returns exactly to the last frame of @코코_기본 by the final couple frames —
+  no snap-cut.
+2-4s (idle00): starts exactly at the last frame of @코코_기본, head nods gently up and down (listening-style
+  nod, not side tilt), ends back exactly at the last frame of @코코_기본. First frame = last frame for a
+  clean standalone loop.
+4-6s (idle01): starts and ends exactly at the last frame of @코코_기본, minimal idle breathing sway only, no
+  large gesture. First frame = last frame for a clean standalone loop.
+6-8s (idle02): starts exactly at the last frame of @코코_기본, looks around casually, arms move naturally
+  side to side, ends back exactly at the last frame of @코코_기본. First frame = last frame for a clean
+  standalone loop.
+8-11s (listen01): starts exactly at the last frame of @코코_기본, head tilts slightly forward, attentive
+  listening expression from @코코_표정, ends returning exactly to the last frame of @코코_기본 — no abrupt stop.
+
+Every segment above must both START and END exactly at the last frame of @코코_기본 — touched only for a
+few frames each time, never lingering, never a snap-cut.
+
+Camera:
+Static locked camera, full body kept in frame at all times, no camera movement, no zoom.
+
+Reference/Constraints:
+CRITICAL: every segment (hello, idle00, idle01, idle02, listen01) must both start AND end at the exact last
+frame of @코코_기본 — no exceptions, since each will be cut into an individual clip and spliced with any
+other clip in any order.
+CRITICAL: preserve @코코_기본's character appearance, clothing colors, and body shape exactly — no alteration.
+Hands remain blunt/fingerless exactly as in @코코_기본 — do not add finger detail.
+Smooth 3D surface material, no visible texture grain, no toy/vinyl-figure look.
+No lighting or color-tone changes from @코코_기본 source.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn,
+no back view, no snap-cut transitions.
+--- END PROMPT ---

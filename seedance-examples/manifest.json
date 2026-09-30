@@ -4,181 +4,430 @@
     "example_000021": {
       "files": {
         "seedance-examples/코코비/example_000021/example_000021.png": "8fa4dd26dce617ed870d185ab4e3a6570b63c21f",
-        "seedance-examples/코코비/example_000021/example_000021.txt": "1fdedfcb1e7b65e7ef02dc9d93a23f36f112d6f3"
+        "seedance-examples/코코비/example_000021/example_000021.txt": "94fb09b6bb46f129e19d49deb57ba057ec95dc0c"
       },
-      "project_name": "코코비 2024_28 코딱지맨vs휴지맨",
+      "ip": "코코비",
+      "project_name": "코코비 2024 28 코딱지맨vs휴지맨",
       "series": "코코비",
+      "series_name": "2024",
       "task_label": ""
     },
     "example_000045": {
       "files": {
         "seedance-examples/베베바나/example_000045/example_000045.png": "2fd106dd87e2a19415724fd93ee5e936ced3796d",
-        "seedance-examples/베베바나/example_000045/example_000045.txt": "49e7c10628e001a5617c82f8e612d35ee507d6c9"
+        "seedance-examples/베베바나/example_000045/example_000045.txt": "cfaceb51ba029d6ce32050aab1eeff4ba3ac200a"
       },
-      "project_name": "베베바나 32 까꿍놀이",
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 32 까꿍놀이",
       "series": "베베바나",
+      "series_name": "2026",
       "task_label": ""
     },
     "example_000051": {
       "files": {
         "seedance-examples/코코비/example_000051/example_000051.png": "5ea5abbe33effec5b4725a6d79fca76447e59233",
-        "seedance-examples/코코비/example_000051/example_000051.txt": "ddfa9e1a2eb73ad26740715cbe96c5db12e80a03"
+        "seedance-examples/코코비/example_000051/example_000051.txt": "65e24ec697ab6ab78d5285ca903eaac152d516c2"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000052": {
       "files": {
         "seedance-examples/코코비/example_000052/example_000052.png": "333a477bec0b805b52ccd6e92ecdc13dae145be7",
-        "seedance-examples/코코비/example_000052/example_000052.txt": "17ebe2db87482dca6de5d297d622fd5d1dc607ad"
+        "seedance-examples/코코비/example_000052/example_000052.txt": "9c104e3eaddf87c41b3bf2640dc5bb43239799a0"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000053": {
       "files": {
         "seedance-examples/코코비/example_000053/example_000053.png": "b18ca4c8cb31f75a68376bb50c52bd9e1476dea2",
-        "seedance-examples/코코비/example_000053/example_000053.txt": "0a2de84a02855c673a2bb1fbf6cc670f47675ae4"
+        "seedance-examples/코코비/example_000053/example_000053.txt": "8e9f65aed7a1871ae42ba2e9c478e18af6155144"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000074": {
       "files": {
         "seedance-examples/코코비/example_000074/example_000074.png": "2c5903e459914d1b868f199761dfa809799ebc8b",
-        "seedance-examples/코코비/example_000074/example_000074.txt": "d5d3a205c9af3624184672f533bcaffe37be0815"
+        "seedance-examples/코코비/example_000074/example_000074.txt": "87fd0a79c928a17323f6fa3d43ab4485efc251c4"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000083": {
       "files": {
         "seedance-examples/코코비/example_000083/example_000083.png": "35aed0fdc25169d5b9f4f5618fdb83d0f6a45b93",
-        "seedance-examples/코코비/example_000083/example_000083.txt": "a3c262321ad2c347d2cfaa864ade2ac625cbf61a"
+        "seedance-examples/코코비/example_000083/example_000083.txt": "081fb67ac89a93079a2777c3c4fb291c8d4e22c7"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000084": {
       "files": {
         "seedance-examples/코코비/example_000084/example_000084.png": "0b94b72921c2689f3445ba0c57b547054584cb60",
-        "seedance-examples/코코비/example_000084/example_000084.txt": "056860fb9d20934443382e8ca58b7a6f6806aaed"
+        "seedance-examples/코코비/example_000084/example_000084.txt": "c630acfb84d69dab11ba35bcc8db2b7b068aad01"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000085": {
       "files": {
         "seedance-examples/코코비/example_000085/example_000085.png": "62e36720c269ad8ef3a69bb0b14459bfd41ce804",
-        "seedance-examples/코코비/example_000085/example_000085.txt": "899232020f7066f8f222aa83bcbf01466082a78e"
+        "seedance-examples/코코비/example_000085/example_000085.txt": "0b64414011e769cef86f89ce31557beabfcda7be"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000086": {
       "files": {
         "seedance-examples/코코비/example_000086/example_000086.png": "94245bf01973455aafa129f89336329ab0599396",
-        "seedance-examples/코코비/example_000086/example_000086.txt": "2e5b19dd6dbd2737acb275b45c8765ba10b67a01"
+        "seedance-examples/코코비/example_000086/example_000086.txt": "5fa27a6c1cf9f6c0f91fb67842928483ada1a4c7"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000088": {
       "files": {
         "seedance-examples/코코비/example_000088/example_000088.png": "9f64e30514caddacd02b6bf9c9b7b4240d214e4b",
-        "seedance-examples/코코비/example_000088/example_000088.txt": "380468daa20d773a2d91f6f29a028db87cfa2595"
+        "seedance-examples/코코비/example_000088/example_000088.txt": "3bfaf85a93ecaff66d491801f5cf9985432ac4c7"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000089": {
       "files": {
         "seedance-examples/코코비/example_000089/example_000089.png": "759cf9da56c4ca73fb10912e915c0edfe00180ef",
-        "seedance-examples/코코비/example_000089/example_000089.txt": "b9aaf4c6842c2d361976dbb430722898f5d86042"
+        "seedance-examples/코코비/example_000089/example_000089.txt": "72c397154a286497b39e5b72382a5f95a627a3a8"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000090": {
       "files": {
         "seedance-examples/코코비/example_000090/example_000090.png": "fa59005af45d5cd3d42889173f5d070f8dee0a0a",
-        "seedance-examples/코코비/example_000090/example_000090.txt": "64ef9624ec9a8156aae88c34e0e31a14eba8a84e"
+        "seedance-examples/코코비/example_000090/example_000090.txt": "960e8022f82cc6f39e01edee7bf2624807ce0917"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
       "task_label": ""
     },
     "example_000094": {
       "files": {
-        "seedance-examples/베베바나/example_000094/example_000094.png": "a863de450c6e85f7e98b3a1527c25ad0ed1a724f",
-        "seedance-examples/베베바나/example_000094/example_000094.txt": "38f0730b5e76e0a05345aa17957a71ad497b5d11"
+        "seedance-examples/베베바나/example_000094/example_000094.png": "8273f888d7ea33e5ccf643a2ee94c3ea447198df",
+        "seedance-examples/베베바나/example_000094/example_000094.txt": "ccbbb929f487b1ea09f261634bc64a1f961e73c9"
       },
+      "ip": "베베바나",
       "project_name": "베베바나 99 테스트 1",
       "series": "베베바나",
+      "series_name": "",
       "task_label": "참조 생성"
     },
     "example_000095": {
       "files": {
-        "seedance-examples/베베바나/example_000095/example_000095.png": "7e2a69cca48a2a202cf54eb05f8c2fb3fd59b343",
-        "seedance-examples/베베바나/example_000095/example_000095.txt": "864c16fe00bf9d178235ca0da91a01b6147ad998"
+        "seedance-examples/베베바나/example_000095/example_000095.png": "dcbce4449ad826ff86d0ca0430512408ba9883c3",
+        "seedance-examples/베베바나/example_000095/example_000095.txt": "71cbb2d82a12f33edded4141d9b487044b08f19d"
       },
+      "ip": "베베바나",
       "project_name": "베베바나 99 테스트 1",
       "series": "베베바나",
+      "series_name": "",
       "task_label": "참조 생성"
     },
     "example_000102": {
       "files": {
         "seedance-examples/베베바나/example_000102/example_000102.png": "117b682c041b8d61b039378af1488a0996f563df",
-        "seedance-examples/베베바나/example_000102/example_000102.txt": "2508f4e377dad6fe19766883a87a10e0cbcc0aeb"
+        "seedance-examples/베베바나/example_000102/example_000102.txt": "e05431a1011cb13e6d5c4612dc2cf3bfd8aebf36"
       },
-      "project_name": "베베바나 32 까꿍놀이",
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 32 까꿍놀이",
       "series": "베베바나",
+      "series_name": "2026",
       "task_label": "참조 생성"
     },
     "example_000115": {
       "files": {
         "seedance-examples/베베바나/example_000115/example_000115.png": "b07f4b09c20331fae78e762f95b2e95975a6430f",
-        "seedance-examples/베베바나/example_000115/example_000115.txt": "ffdbabfb6f698658adf2aeb1a23d08555943336d"
+        "seedance-examples/베베바나/example_000115/example_000115.txt": "2dc804dd03af7a88f3b4a2e055fa745094dd04e0"
       },
-      "project_name": "베베바나 32 까꿍놀이",
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 32 까꿍놀이",
       "series": "베베바나",
+      "series_name": "2026",
       "task_label": "참조 생성"
     },
     "example_000119": {
       "files": {
         "seedance-examples/베베바나/example_000119/example_000119.png": "3f9b262399bfc2adbaf8723e507b2c4efbd7e785",
-        "seedance-examples/베베바나/example_000119/example_000119.txt": "1ec989b44520524c3759ed4f807866ed24044a1d"
+        "seedance-examples/베베바나/example_000119/example_000119.txt": "9962a0d2314f1464f61d0d0949b88d440036abee"
       },
-      "project_name": "베베바나 32 까꿍놀이",
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 32 까꿍놀이",
       "series": "베베바나",
+      "series_name": "2026",
       "task_label": "참조 생성"
+    },
+    "example_000123": {
+      "files": {
+        "seedance-examples/코코비/example_000123/example_000123.png": "60ab96a00eeef02e8d04876f511c91124051442b",
+        "seedance-examples/코코비/example_000123/example_000123.txt": "75c8e4f689de9aa9827971d54fb934ed6842a945"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "뒤로 연장"
+    },
+    "example_000126": {
+      "files": {
+        "seedance-examples/코코비/example_000126/example_000126.png": "f4f4df98f1f00213a51d6df9e35582b5dad10878",
+        "seedance-examples/코코비/example_000126/example_000126.txt": "cb7bf4cbb21ed2662d635d4d0a90e0a6bb6e3501"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "뒤로 연장"
+    },
+    "example_000131": {
+      "files": {
+        "seedance-examples/코코비/example_000131/example_000131.png": "8f503ce740bdbba61aa8ed27876d77ece9c85d47",
+        "seedance-examples/코코비/example_000131/example_000131.txt": "dd77814fbb3a53fc0fd6eb70d94180509a779b7e"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
     },
     "example_000132": {
       "files": {
-        "seedance-examples/코코비/example_000132/example_000132.png": "334c633901ec79290b6e553a6a7f4400b58e364f",
-        "seedance-examples/코코비/example_000132/example_000132.txt": "a59b646c86bfa8a36393161e062a675cc126beb4"
+        "seedance-examples/코코비/example_000132/example_000132.png": "f8abf77f4e3f796ffe91fd94956ca0491ac08c94",
+        "seedance-examples/코코비/example_000132/example_000132.txt": "eead058b3887b700b757cbd3476b9045ba8e2d31"
       },
-      "project_name": "코코비 전화놀이",
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
       "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000134": {
+      "files": {
+        "seedance-examples/코코비/example_000134/example_000134.png": "5c533f46a8c2b425b95f690faec4d0de2a0a0f3a",
+        "seedance-examples/코코비/example_000134/example_000134.txt": "b2ff777d3ffed25186a8aa137fda51d328184ff2"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
       "task_label": "앞으로 연장"
     },
     "example_000135": {
       "files": {
         "seedance-examples/베베바나/example_000135/example_000135.png": "9481b84c71bd37c7997ce10e19985caabf41fd1f",
-        "seedance-examples/베베바나/example_000135/example_000135.txt": "41e79c97997897e6079eb131c7099662a1d5eab6"
+        "seedance-examples/베베바나/example_000135/example_000135.txt": "5f1492b4b172ae860b30da7a7771e755c17b870a"
       },
-      "project_name": "베베바나 38 얼음땡댄스송",
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 38 얼음땡댄스송",
       "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000147": {
+      "files": {
+        "seedance-examples/코코비/example_000147/example_000147.png": "50675a15c51a7b54aa0f50be754401ad9232cac3",
+        "seedance-examples/코코비/example_000147/example_000147.txt": "a0dc64abc81f517df5621cf3c3fdf8a3a3a5ee2e"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000159": {
+      "files": {
+        "seedance-examples/코코비/example_000159/example_000159.png": "7b1c8fe888c59365bafd2c84547e84e27505c711",
+        "seedance-examples/코코비/example_000159/example_000159.txt": "8c2d4ee73b64c47a362fd52a204608c6001cb63b"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000164": {
+      "files": {
+        "seedance-examples/베베바나/example_000164/example_000164.png": "610da506942d4b0bbe250e88d390d7400e897d42",
+        "seedance-examples/베베바나/example_000164/example_000164.txt": "5734c9eeb278f4ee0a79c8f4855c3267f20d3162"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 35 아빠 동물 얼굴 송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000167": {
+      "files": {
+        "seedance-examples/코코비/example_000167/example_000167.png": "5db9b9f4169f31f6a64ee556a89c6af06a95eaf8",
+        "seedance-examples/코코비/example_000167/example_000167.txt": "a0896190acabfffc448f79bc7fb91a94c7e7f8e6"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000176": {
+      "files": {
+        "seedance-examples/코코비/example_000176/example_000176.png": "354d1708aeb7056b49140b9c73e3ed7ef1c1cd5c",
+        "seedance-examples/코코비/example_000176/example_000176.txt": "b2b8f229f26e54caa2dc77bf8ea15779a7f91c5c"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000188": {
+      "files": {
+        "seedance-examples/베베바나/example_000188/example_000188.png": "75e2bea7729ac394979ae1b1e27da40a2e643c0f",
+        "seedance-examples/베베바나/example_000188/example_000188.txt": "84435dbe33407cf2fa06012deb4fddd463098e09"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 35 아빠 동물 얼굴 송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000190": {
+      "files": {
+        "seedance-examples/코코비/example_000190/example_000190.png": "b56437511afe63cc3767cfe89d7d9ce985771746",
+        "seedance-examples/코코비/example_000190/example_000190.txt": "d1dae8af0fdb2500acda85fbae664151bd92925a"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000191": {
+      "files": {
+        "seedance-examples/코코비/example_000191/example_000191.png": "d7d066a216a18d334062a9941ecb6e000961fc61",
+        "seedance-examples/코코비/example_000191/example_000191.txt": "b26fe7e0d1e926cbbdf05df72e9ed9c32d6843cb"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000192": {
+      "files": {
+        "seedance-examples/코코비/example_000192/example_000192.png": "522306ee9e2c93f1aae940260237bf16b456c1e8",
+        "seedance-examples/코코비/example_000192/example_000192.txt": "7164f634d90e4d2fb4ce39585608b69519fd55c2"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000244": {
+      "files": {
+        "seedance-examples/코코비/example_000244/example_000244.png": "847fb301195df0d3218abefce3eef2e817d8e5b3",
+        "seedance-examples/코코비/example_000244/example_000244.txt": "57bb02b2a2f58b493e2a850ffc669dbec02bfd2b"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "뒤로 연장"
+    },
+    "example_000287": {
+      "files": {
+        "seedance-examples/코코비/example_000287/example_000287.png": "fd57057ca3d5b1b73e6f989335e1163adf619664",
+        "seedance-examples/코코비/example_000287/example_000287.txt": "3c7161a7f8fa63f8f697bf74886e5b6018513f02"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "뒤로 연장"
+    },
+    "example_000309": {
+      "files": {
+        "seedance-examples/베베바나/example_000309/example_000309.png": "12364ce978d3f0b2e5cbb24afb44365775027d5a",
+        "seedance-examples/베베바나/example_000309/example_000309.txt": "17b2baa69c74c86f380e2460682357bf9eb6dfc8"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 38 얼음땡댄스송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000349": {
+      "files": {
+        "seedance-examples/코코비/example_000349/example_000349.png": "dfd5471c9d7e332789eb7c4729ac7642891a3e44",
+        "seedance-examples/코코비/example_000349/example_000349.txt": "a6566d1e5da99fd591a25729c5fe2db6f807f186"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "뒤로 연장"
+    },
+    "example_000396": {
+      "files": {
+        "seedance-examples/베베바나/example_000396/example_000396.png": "53afcf2a3696248c9fb992f6ab71abef335a6667",
+        "seedance-examples/베베바나/example_000396/example_000396.txt": "42068f095e40e31c7ab016dcade0df9ac8a05278"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 38 얼음땡댄스송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000516": {
+      "files": {
+        "seedance-examples/베베바나/example_000516/example_000516.png": "c8cc6b340a2634294929d062f488e5f7fd206eea",
+        "seedance-examples/베베바나/example_000516/example_000516.txt": "c6bc62ab902a0bf2eeed31e5aefe4ea41469daab"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 38 얼음땡댄스송",
+      "series": "베베바나",
+      "series_name": "2026",
       "task_label": "참조 생성"
     }
   },

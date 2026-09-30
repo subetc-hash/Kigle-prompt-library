@@ -1,0 +1,51 @@
+﻿예제번호: example_000123
+참조 이미지: example_000123.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 뒤로 연장
+생성 조건: 720p / adaptive / 11초 / 오디오 켜짐
+
+참조 매핑
+@코코기본 → @코코기본 (원본 없음)
+@코코표정 → @코코표정.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_기본 by 11 seconds. Continue directly from @코코_기본's anchor pose (last frame).
+
+Subject:
+@코코_기본 — preserve this character's exact appearance, proportions, and pose baseline throughout.
+@코코_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout (no close-up, no waist-up crop). Character always faces camera directly at
+the anchor's exact angle — never turns head, never shows side or back view. Plain green screen background,
+identical color/uniformity as @코코_기본, no shadows or gradient.
+
+Action:
+0-2s (hello): raises one hand and waves warmly, cheerful open smile from @코코_표정, greeting gesture.
+  Returns to anchor pose within the final couple frames — no snap-cut.
+2-4s (idle00): stands at anchor pose, head nods gently up and down (listening-style nod, not side tilt).
+  First frame = last frame for a clean standalone loop.
+4-6s (idle01): stands at anchor pose, minimal idle breathing sway only, no large gesture.
+  First frame = last frame for a clean standalone loop.
+6-8s (idle02): looks around casually, arms move naturally side to side in small idle gestures.
+  First frame = last frame for a clean standalone loop.
+8-11s (listen01): head tilts slightly forward, attentive listening expression from @코코_표정.
+  Ends returning smoothly to anchor pose, no abrupt stop.
+
+Between every segment, touch the anchor pose for only a few frames — brief, never lingering, never a snap-cut.
+
+Camera:
+Static locked camera, full body kept in frame at all times, no camera movement, no zoom.
+
+Reference/Constraints:
+CRITICAL: preserve @코코_기본's character appearance, clothing colors, and body shape exactly — no alteration.
+Hands remain blunt/fingerless exactly as in @코코_기본 — do not add finger detail.
+Smooth 3D surface material, no visible texture grain, no toy/vinyl-figure look.
+No lighting or color-tone changes from @코코_기본 source.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn,
+no back view, no snap-cut transitions.
+--- END PROMPT ---

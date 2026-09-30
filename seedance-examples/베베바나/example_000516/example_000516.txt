@@ -1,0 +1,153 @@
+﻿예제번호: example_000516
+참조 이미지: example_000516.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 38 얼음땡댄스송
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 12초 / 오디오 켜짐
+
+참조 매핑
+@38_c_18 → @38_c_18.wav
+@banafront → @banafront.png
+@banaback → @banaback.png
+@bluefront → @bluefront.png
+@applefront → @applefront.png
+@mom → @mom.png
+@hipdad5 → @hipdad5.png
+@10_house_4-2 → @10_house_4-2.jpg
+@heightmainfamily → @heightmainfamily.png
+
+프롬프트
+--- BEGIN PROMPT ---
+4 shots, 16:9. Bright, high-saturation polished 3D kids animation. Clean crisp rendering, vivid cheerful colors, glossy toy-like character finish, soft shading, bright sunny outdoor lighting, premium broadcast-quality look. Keep the supplied Bebebana style, lighting, saturation, and rendering consistent across all shots.
+
+@bana_front @bana_back = BANA — preserve identity, appearance, proportions, costume, and size.
+@blue_front = BLUE — preserve identity, appearance, proportions, costume, and size.
+@apple_front = APPLE — preserve identity, appearance, proportions, costume, and size.
+@mom = MOM — preserve identity, appearance, proportions, costume, and adult scale.
+@hipdad5 = DAD — preserve identity, appearance, proportions, costume, black sunglasses, and adult scale.
+All characters's height is @height_mainfamily
+
+Use exactly one of each character only: 1 MOM, 1 APPLE, 1 BANA, 1 BLUE, 1 DAD. No duplicates, extra copies, repeated faces, or repeated bodies.
+
+BACKGROUND: @10_house_4-2
+Use the supplied background asset exactly as-is in every shot. Do not redesign, replace, simplify, or change the location.
+
+GROUP POSITION:
+Keep LEFT → RIGHT order:
+MOM → APPLE → BANA → BLUE → DAD.
+Do not swap positions during group shots.
+
+IMPORTANT:
+No lip sync.
+Everyone stays cheerful throughout: bright smiles, smiling eyes, playful expressions, fun happy family energy.
+Movement must feel like a simple cute nursery-rhyme dance, easy for toddlers to read and imitate.
+Keep camera motion smooth and gentle.
+
+MAIN DANCE MOTION:
+Simple LEFT-RIGHT side-step dance synced to the beat.
+
+LEFT beat:
+Take one small step LEFT.
+LEFT arm swings UP while RIGHT arm swings DOWN.
+At the same time, hips make one small cute wiggle toward the LEFT.
+
+RIGHT beat:
+Take one small step RIGHT.
+RIGHT arm swings UP while LEFT arm swings DOWN.
+At the same time, hips make one small cute wiggle toward the RIGHT.
+
+Repeat continuously:
+LEFT step → LEFT arm UP → hips wiggle LEFT.
+RIGHT step → RIGHT arm UP → hips wiggle RIGHT.
+
+The raised arm and hip direction must always match.
+Arms alternate clearly in an up-down pattern.
+Feet only step once left, then once right — no cross-step.
+Movement is soft, bouncy, rhythmic, simple, and continuous.
+
+BANA:
+Make BANA especially cute and appealing.
+Emphasize tiny bouncy side steps and an adorable soft side-to-side hip wiggle, like a cute baby “wiggle wiggle” dance.
+Keep BANA synchronized with the family.
+
+MOM & DAD:
+Use the exact same choreography, but keep the hip wiggle small, natural, and child-friendly.
+They should look like parents happily copying a simple kids dance.
+No exaggerated pelvic movement or awkward body twisting.
+
+SHOT 1 — “Dance, dance, all around”
+All five dance together in one horizontal line:
+MOM → APPLE → BANA → BLUE → DAD.
+
+Use the established soft 3/4 high-angle view, not straight frontal.
+Camera gently tracks along the family line.
+Everyone performs the LEFT-RIGHT side-step dance in sync.
+Keep spacing clean and readable.
+Everyone smiles brightly with happy smiling eyes.
+Make BANA’s little hip wiggle especially cute.
+
+SHOT 2 — “Dance with all your might!”
+Maintain the same group order.
+Use a clear 3/4 group shot with a mostly stable camera.
+
+During “Dance with all your,” all five perform exactly one synchronized 360-degree turn in place.
+The turn is smooth, simple, playful, and easy to read — only one rotation.
+
+On “might!”, all five finish facing forward and immediately do one small cheerful synchronized jump.
+Both feet briefly leave the ground and both arms lift naturally.
+Jump is cute and light, not high or athletic.
+Land softly while smiling.
+
+SHOT 3 — “Dance, dance, fast and slow”
+Use one continuous readable shot.
+
+All five return to the same LEFT-RIGHT side-step dance.
+
+For “fast,” perform the same pattern more quickly:
+LEFT step + LEFT arm UP + hip LEFT,
+RIGHT step + RIGHT arm UP + hip RIGHT.
+
+For “slow,” perform the exact same pattern slowly and playfully, stretching each step, arm swing, and hip wiggle.
+Keep the camera relatively stable so FAST → SLOW is very clear.
+Everyone keeps smiling.
+Make BANA’s slow hip wiggle especially cute and funny.
+
+SHOT 4 — “Ready, set, let’s freeze!”
+Camera gently widens to a clear full-body group shot.
+Maintain:
+MOM → APPLE → BANA → BLUE → DAD.
+
+On “Freeze!”, all five instantly stop together.
+
+NO snowflake FX.
+
+All five make a playful STOP pose:
+both arms reaching forward,
+both hands open,
+palms facing outward,
+fingers naturally spread.
+
+Keep the pose cute, friendly, and natural, not aggressive or exaggerated toward the lens.
+All five hold the pose with bright smiles and smiling eyes.
+
+NEGATIVE:
+No character duplication.
+No position swapping.
+No background change.
+No cross-step.
+No complicated choreography.
+No exaggerated adult hip shaking.
+No pelvic thrusting.
+No twerking.
+No large hip circles.
+No awkward body twisting.
+No robotic or jerky movement.
+No off-beat motion.
+No serious, angry, scared, or intense expressions.
+No dark lighting or low saturation.
+No snowflake FX in Shot 4.
+No rapid cuts, whip pans, or aggressive camera moves.
+--- END PROMPT ---

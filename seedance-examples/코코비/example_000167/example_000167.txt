@@ -1,0 +1,52 @@
+﻿예제번호: example_000167
+참조 이미지: example_000167.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 13초 / 오디오 켜짐
+
+참조 매핑
+@코코표정 → @코코표정.png
+@코코기본2 → @코코기본2.mov
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_기본_2 backward by 13 seconds.
+
+Subject:
+@코코_기본_2 — preserve this character's exact appearance, proportions, and pose baseline throughout.
+@코코_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout, character always facing camera directly at the same angle as @코코_기본_2.
+Plain green screen background (#00FF00), no shadows, no gradient. Static locked camera, no movement,
+no zoom, no reframing.
+
+Prelude (0-11s):
+0-3s (talk04): starts at the anchor pose, mouth moves immediately, excited/upbeat expression from
+  @코코_표정, more animated eager gestures than talk01-03 (restrained scale since this loops). Ends at
+  the anchor pose — no snap-cut.
+3-6s (talk05): starts and ends at the anchor pose, wide happy beaming smile from @코코_표정, mouth moves
+  immediately, delighted/joyful reaction as if hearing good news — gestures still restrained since this
+  loops.
+6-8s (fallback): starts and ends at the anchor pose, worried/concerned expression from @코코_표정, small
+  head tilt as if confused — NOT scrunched or exaggerated, just a gentle "huh?" puzzlement.
+8-11s (bye01): starts at the anchor pose, slightly wistful/reluctant expression from @코코_표정, gentle
+  small gesture (e.g. hand slowly lowering) as if regretfully saying time is up, ends back at the anchor
+  pose — no lingering pause on the wistful pose.
+
+Transition into original (11-13s, bye02):
+Bright cheerful smile from @코코_표정, one hand raises and waves side to side warmly, then ease smoothly
+and precisely into @코코_기본_2's first frame (anchor pose) by the very last frame — this final convergence
+must be exact, no snap-cut, no lingering on the wave before matching.
+
+Reference/Constraints:
+CRITICAL: preserve @코코_기본_2's character appearance, clothing colors, and body shape exactly.
+Hands remain blunt/fingerless — no finger detail.
+Smooth 3D CG surface, no visible texture grain, no toy/vinyl-figure look.
+No lighting or color-tone changes from @코코_기본_2 source.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn,
+no back view, no snap-cut transitions, no exaggerated frustrated expression on fallback.
+--- END PROMPT ---
