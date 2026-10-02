@@ -1,0 +1,39 @@
+﻿예제번호: example_000652
+참조 이미지: example_000652.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Kigle Seedance 2.5
+엔드포인트: ep-20260918174311-t879v
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 10초 / 오디오 켜짐
+
+참조 매핑
+@러비표정 → @러비표정.png
+@러비캠핑22 → @러비캠핑22.mov
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @러비_캠핑_2_2 backward by 10 seconds.
+
+Subject:
+@러비_캠핑_2_2 — preserve this character's exact appearance, proportions, and pose baseline throughout.
+@러비_표정 — expression reference sheet; use ONLY expressions shown here, never invent new ones.
+
+Context & Style:
+Full-body framing throughout, character always facing camera directly at the same angle as @러비_캠핑_2_2. Green screen background identical to @러비_캠핑_2_2, no shadows, no gradient. Static locked camera, no movement, no zoom, no reframing. Overall pacing is calm, gentle, and unhurried throughout — never rushed or snappy.
+
+Prelude (0-7s):
+0-2s (talk01): starts at @러비_캠핑_2_2's exact anchor pose and neutral expression, mouth opens and closes continuously as if speaking, mouth shapes strictly following @러비_표정's reference, a small natural hand gesture as if chatting casually, bright expression from @러비_표정, then eases back to the exact anchor pose AND neutral expression (mouth closed).
+2-4s (talk02): starts at the anchor pose AND neutral expression, mouth opens and closes continuously as if speaking, both hands stay lowered and sway gently side to side as if explaining something, bright expression from @러비_표정, then eases back to the exact anchor pose AND neutral expression.
+4-7s (talk03): starts at the anchor pose AND neutral expression, mouth opens and closes continuously as if speaking, hands come together in front of the body while the torso turns slightly to one side and back, bright expression from @러비_표정, then eases back to the exact anchor pose AND neutral expression.
+
+Transition into original (7-10s, talk05):
+Mouth opens and closes continuously as if speaking joyfully, a wide happy beaming smile from @러비_표정 as if hearing good news, one hand rises slightly as if delighted, then gradually and smoothly eases into @러비_캠핑_2_2's first frame — matching BOTH the exact anchor pose AND the exact anchor (neutral, mouth closed) expression by the very last frame, arriving calmly with no rush.
+
+Reference/Constraints:
+CRITICAL: every segment must return to BOTH @러비_캠핑_2_2's exact anchor pose AND its exact anchor expression — eyes, mouth, and brow must also settle back to the neutral anchor look.
+Every open-mouth frame must match @러비_표정's exact mouth/teeth design — upper teeth line only, no lower teeth, no additional tooth detail invented.
+Mouth movement stays calm and natural, never fast flapping. Motion is fluid and continuous, no snapping, freezing, or stepped movement at any boundary.
+Negative: no text, no subtitles, no watermark, no extra limbs, no duplicated character, no head turn, no back view, no rushed movement.
+--- END PROMPT ---

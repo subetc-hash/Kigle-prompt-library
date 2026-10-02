@@ -1,0 +1,30 @@
+﻿예제번호: example_000812
+참조 이미지: example_000812.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 참조 생성
+생성 조건: 720p / 9:16 / 20초 / 오디오 꺼짐
+
+참조 매핑
+@코코방 → @코코방.png
+
+프롬프트
+--- BEGIN PROMPT ---
+20s, 9:16. @코코방 is the first frame, and @코코방 is the last frame.
+
+Static locked-off camera, no movement, no zoom, no reframing — the exact same framing as @코코방 throughout all 20 seconds. No characters or figures enter the scene. The soft, even indoor lighting stays constant, with no lighting or color change.
+
+Pacing: the room feels quietly alive — calm and still, never slow-motion, never rushed. A soft, gentle motion runs through the scene; nothing moves sharply.
+
+Ambient motion only, everything else stays fixed in place:
+- A soft breath of air moves through the room: the yellow checkered shirt and the white shirt sway gently on their hangers and settle back by the end.
+- The star on the purple boombox glows softly, blinking gently once or twice — slow and calm, never rapid — and returns to its steady glow before the end.
+- The plush cat on the upper right shelf gives a small, gentle greeting — a slight wave of its paw — then settles back to its exact original pose before the end.
+- The wardrobe and all its contents, the shelves and all toys, the whiteboard, the table and all its items, the chair, and the floor stay completely static.
+
+SEAMLESS LOOP REQUIREMENT: the very first frame and the very last frame must be identical to @코코방, so this clip can loop back-to-back with no visible seam or jump. Any motion that appears mid-clip fully resolves before the final frame.
+
+No text, no logos, no watermark.
+--- END PROMPT ---

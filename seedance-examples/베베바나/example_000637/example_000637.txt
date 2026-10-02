@@ -1,0 +1,42 @@
+﻿예제번호: example_000637
+참조 이미지: example_000637.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 27 까꿍! 오싹오싹 할로윈
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / -1초 / 오디오 켜짐
+
+참조 매핑
+@banabone → @banabone.jpeg
+@applewitch → @applewitch.jpg
+@키차이2 → @키차이2.png
+@homehalloween1 → @homehalloween1.png
+@roomlivinghalloween1 → @roomlivinghalloween1.png
+@intro → @intro.wav
+
+프롬프트
+--- BEGIN PROMPT ---
+Story: Halloween night. Skeleton baby Bana and witch girl Apple open their Halloween party at home. Bana shows off his skeleton costume ("Look at me, I'm a skeleton!") and fires his signature gag at Apple ("Do I look spooky?") — she plays along, pretending to flee in comic terror. Warm, silly, never scary. (Blue the zombie joins the story later; not in this clip.)
+
+Floor plan: A Halloween house at night — warm windows, jack-o'-lantern by the door, starry sky. Inside, a Halloween-decorated living room with a glowing jack-o'-lantern and string lights. Bana and Apple start beside the jack-o'-lantern.
+
+| Shot | Camera | In frame | Eye-line | Action | Others | Light | Last frame |
+| 1 | Extreme wide, slow push-in | House exterior at night | — | Camera pushes toward the glowing windows | None | Warm window glow, deep blue night | Jack-o'-lantern prominent |
+| 2 | Medium-wide two-shot, eye level | Bana and Apple by the jack-o'-lantern | To camera | Wave and sing "Trick or Treat! Happy Halloween!" opening the party | None | Warm orange glow | Both waving, smiling |
+| 3 | Close-up, slight low angle | Bana's proud face | To camera | "Look at me, I'm a skeleton!" chin up, beaming | Apple clapping beside (soft) | Same warm glow | Bana's proud face |
+| 4 | Medium, eye level, gentle handheld | Bana creeping to Apple | Bana to Apple | "Do I look spooky?" — silly scary attempt, baby face unchanged — Apple runs off giggling, Bana chases | None | Same warm glow | Apple running, Bana chasing |
+
+@banabone controls Bana's identity — the front, full-body, and back views are the same single character; use the matching view per camera angle. @applewitch controls Apple's identity — all views are the same single character. @키차이_2 controls the Bana–Apple pairing and relative scale only. @homehalloween1 controls the night exterior environment and color mood only. @roomlivinghalloween1 controls the living room environment and color mood only. @intro controls tempo only.
+
+Shot 1. Extreme wide shot of the Halloween house exterior at night: warm light in the windows, a grinning jack-o'-lantern by the front door, stars in the deep blue sky. The camera pushes in slowly toward the house. Light: warm window glow against deep blue night. Camera: slow push-in, extreme wide.
+
+Shot 2. Hard cut to a medium-wide two-shot in the living room: Bana and Apple stand side by side next to the glowing jack-o'-lantern, waving cheerfully at the camera, singing "Trick or Treat! Happy Halloween!" with lip sync to @intro. Same light: warm orange glow from the string lights and jack-o'-lantern. Bana: skeleton baby, single blonde curl, black skeleton-print onesie, left of the jack-o'-lantern, facing the camera. Apple: witch girl, red bob, black witch hat with purple band, purple cape, right of the jack-o'-lantern, facing the camera. Camera at the children's eye level.
+
+Shot 3. Cut to a close-up of Bana's face at a slight low angle: chin up, chest out, beaming with pride as he declares "Look at me, I'm a skeleton!" with lip sync. Apple claps softly beside the jack-o'-lantern. Same light: warm orange glow. Bana: cute baby face unchanged, facing the camera. Camera: close-up, slight low angle.
+
+Shot 4. Cut to a medium shot with a gentle handheld feel: Bana makes his silliest attempt at a scary face — brows furrowed, cheeks puffed, mouth in a playful pouty frown — while his cute baby face stays EXACTLY the same: no monster mouth, no sharp teeth, no elongated jaw, no face distortion of any kind. He creeps toward Apple and asks "Do I look spooky?" with lip sync. Apple widens her eyes in playful terror and runs off giggling, Bana chasing proudly. Same light: warm orange glow. Bana: chasing, facing Apple, baby face intact. Apple: running, glancing back laughing. Camera at the children's eye level, medium shot.
+
+Sound: @intro; soft footsteps; front door creak in Shot 1; no added music, no subtitles.
+--- END PROMPT ---

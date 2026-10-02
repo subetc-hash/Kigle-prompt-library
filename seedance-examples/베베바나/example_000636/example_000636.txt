@@ -1,0 +1,59 @@
+﻿예제번호: example_000636
+참조 이미지: example_000636.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 27 까꿍! 오싹오싹 할로윈
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / -1초 / 오디오 켜짐
+
+참조 매핑
+@banabone → @banabone.jpeg
+@applewitch → @applewitch.jpg
+@키차이2 → @키차이2.png
+@homehalloween1 → @homehalloween1.png
+@roomlivinghalloween1 → @roomlivinghalloween1.png
+@intro → @intro.wav
+
+프롬프트
+--- BEGIN PROMPT ---
+4 shots, 13s, 16:9. Vibrant high-saturation 3D kids' animation rendering. Clean crisp rendering, sharp outlines, rich vivid character colors, smooth toy-figure surface quality, premium broadcast-quality 3D kids' animation.
+
+Storyline: Halloween night. Bana the skeleton baby and Apple the witch girl open their Halloween party at home. Bana is proud of his skeleton costume and hypes up the mood with his signature "Do I look spooky?" gag — Apple plays along with a comic flee. Their zombie friend Blue joins from the next part of the story onward; he does not appear in this clip. Tone: spooky and silly, fun never scary.
+
+@banabone is BANA — identity ONLY, preserve appearance exactly across all shots. The front, full-body, and back views in @banabone are the same single character.
+BANA: skeleton baby, single blonde curl, black onesie with white skeleton bone print.
+@applewitch is APPLE — identity ONLY, preserve appearance exactly across all shots. All views in @applewitch are the same single character.
+APPLE: witch girl, red bob haircut, black witch hat with purple band, purple cape.
+@키차이_2 shows BANA and APPLE together — use ONLY for their relative scale and pairing, not for individual identity details.
+Exactly two characters in this clip. No Blue. No duplicates.
+
+@homehalloween1 = night exterior background reference ONLY — use its house, windows, jack-o'-lantern, and starry sky as the environment reference only. Do NOT copy its camera angle, framing, or shot size.
+@roomlivinghalloween1 = living room background reference ONLY — use its layout, jack-o'-lantern, and warm lights as the environment reference only. Do NOT copy its camera angle, framing, or shot size.
+Do NOT take pose, motion, or composition from any reference image.
+@intro is the actual song — let this audio drive shot timing and lip-sync.
+
+Action:
+Shot 1 (0–2s): Wide night exterior of the Halloween house. Slow push-in toward the warm glowing windows and the grinning jack-o'-lantern by the door. Stars twinkle.
+HARD CUT — no dissolve.
+Shot 2 (2–6s): Medium-wide two-shot in the living room. Bana and Apple stand side by side next to the glowing jack-o'-lantern, waving cheerfully at the camera, opening the party.
+Dialogue: BANA and APPLE (cheerful, singing, lip-sync): "Trick or Treat! Happy Halloween!"
+HARD CUT — no dissolve.
+Shot 3 (6–9s): Close-up on Bana's face: chin up, chest out, beaming with pride. Apple claps softly beside the jack-o'-lantern.
+Dialogue: BANA (proud, lip-sync): "Look at me, I'm a skeleton!"
+HARD CUT — no dissolve.
+Shot 4 (9–13s): Medium shot. Bana turns to Apple and makes his silliest attempt at a scary face — brows furrowed, cheeks puffed, mouth in a playful pouty frown — while his cute baby face stays EXACTLY the same: no monster mouth, no sharp teeth, no elongated jaw, no face distortion of any kind. He creeps toward her comically — his signature gag.
+Dialogue: BANA (lip-sync): "Do I look spooky?"
+Apple widens her eyes in playful terror and runs off giggling. Bana chases proudly behind her.
+
+Camera:
+Shot 1: Extreme wide shot of the house exterior, slow push-in.
+Shot 2: Medium-wide two-shot at the children's eye level, static — both children and the jack-o'-lantern fully in frame.
+Shot 3: Close-up on Bana's proud face, slight low angle, static.
+Shot 4: Medium shot at the children's eye level with a gentle handheld feel, following the chase.
+
+NEGATIVE: No Blue in this clip. No 2D/flat/cel/anime, no live-action, no text, subtitles, speech bubbles, logos, watermarks. No muted colors, no dark moody lighting. No extra characters, no duplicated bodies. Keep it silly — never scary.
+
+Sound: @intro; soft footsteps on the wooden floor; front door creak in Shot 1. No added music.
+--- END PROMPT ---

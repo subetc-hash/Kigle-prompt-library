@@ -1,0 +1,48 @@
+﻿예제번호: example_000638
+참조 이미지: example_000638.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 27 까꿍! 오싹오싹 할로윈
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / -1초 / 오디오 켜짐
+
+참조 매핑
+@banabone → @banabone.jpeg
+@applewitch → @applewitch.jpg
+@키차이2 → @키차이2.png
+@homehalloween1 → @homehalloween1.png
+@roomlivinghalloween1 → @roomlivinghalloween1.png
+@intro → @intro.wav
+
+프롬프트
+--- BEGIN PROMPT ---
+@banabone defines Bana's facial features, hairstyle, and costume — the front, full-body, and back views are the same single character; use the matching view per camera angle. Do not use any background from this image.
+
+@applewitch defines Apple's facial features, hairstyle, and costume — all views are the same single character. Do not use any background from this image.
+
+@키차이_2 defines only the Bana–Apple pairing and relative scale. Do not use it for individual identity details.
+
+@homehalloween1 defines the night exterior of the Halloween house: warm glowing windows, jack-o'-lantern by the door, starry sky. Use as environment reference only; do not copy its camera angle, framing, or shot size. Do not use any person shown in the image.
+
+@roomlivinghalloween1 defines the Halloween-decorated living room: glowing jack-o'-lantern, warm string lights, cozy interior. Use as environment reference only; do not copy its camera angle, framing, or shot size. Do not use any person shown in the image.
+
+
+Halloween night at home. Bana the skeleton baby and Apple the witch girl open their Halloween party. Bana proudly shows off his skeleton costume and fires his signature "Do I look spooky?" gag at Apple, who plays along with a comic flee. Blue the zombie joins the story from the next part onward — he does not appear in this clip. Mood: spooky and silly, fun never scary.
+
+
+Bana corresponds to @banabone — skeleton baby, single blonde curl, black skeleton-print onesie. Use only the face, hair, and clothing.
+Apple corresponds to @applewitch — witch girl, red bob, black witch hat with purple band, purple cape. Use only the face, hair, and clothing.
+Do not exchange their appearance or clothes. Only these two characters appear.
+
+
+The night exterior uses only the house, windows, and sky from @homehalloween1.
+The living room uses only the space, furniture, and light from @roomlivinghalloween1.
+
+Bana and Apple open their Halloween night. Begin with an extreme wide shot outside the glowing house at night, pushing in slowly. Cut directly from the exterior to the interior with a hard cut — no door, doorway, or passage shown between them; the second shot opens directly on Bana and Apple in the living room, standing by the jack-o'-lantern, waving and singing "Trick or Treat! Happy Halloween!" Bana steps forward proudly, chin up and beaming: "Look at me, I'm a skeleton!" Then he makes his silliest attempt at a scary face — brows furrowed, cheeks puffed, playful pouty frown — while his cute baby face stays EXACTLY the same: no monster mouth, no sharp teeth, no face distortion. He creeps toward Apple: "Do I look spooky?" Apple pretends to be terrified and runs off giggling.
+
+The image has warm orange Halloween lighting with a cozy glow.
+Use an extreme wide shot for the exterior push-in, a medium-wide two-shot at the children's eye level, a close-up of Bana at a slight low angle, and a medium shot with a gentle handheld feel for the chase — hard cuts between all shots.
+Sound includes the song @intro with lip sync on all sung lines, soft footsteps, and a door creak. No added music, no subtitles.
+--- END PROMPT ---

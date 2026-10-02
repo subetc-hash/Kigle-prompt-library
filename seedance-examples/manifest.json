@@ -377,8 +377,8 @@
     },
     "example_000349": {
       "files": {
-        "seedance-examples/코코비/example_000349/example_000349.png": "dfd5471c9d7e332789eb7c4729ac7642891a3e44",
-        "seedance-examples/코코비/example_000349/example_000349.txt": "a6566d1e5da99fd591a25729c5fe2db6f807f186"
+        "seedance-examples/코코비/example_000349/example_000349.png": "4b74232738d8306f72d29844002f24da893a8526",
+        "seedance-examples/코코비/example_000349/example_000349.txt": "304c6f49ae827bb191928024e8f33a65063761a2"
       },
       "ip": "코코비",
       "project_name": "코코비 앱 전화놀이",
@@ -406,6 +406,138 @@
       "project_name": "베베바나 2026 38 얼음땡댄스송",
       "series": "베베바나",
       "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000607": {
+      "files": {
+        "seedance-examples/베베바나/example_000607/example_000607.png": "c9c0d2b4e3eb7bdbd93988b7d83b1a06e8b350c9",
+        "seedance-examples/베베바나/example_000607/example_000607.txt": "58a5d61c7c28c6ba852996e2d316df8639f80d6b"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 39_ABC 쿠키 송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000636": {
+      "files": {
+        "seedance-examples/베베바나/example_000636/example_000636.png": "4567dfe1e195fa3188e5d6c9c54834ee15c7069e",
+        "seedance-examples/베베바나/example_000636/example_000636.txt": "31cfd2da925ab0aa3e93f918fa8d3546552ee070"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 27 까꿍! 오싹오싹 할로윈",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000637": {
+      "files": {
+        "seedance-examples/베베바나/example_000637/example_000637.png": "505ea9bcd1639c7eeb7253e57fbb90c4668c6742",
+        "seedance-examples/베베바나/example_000637/example_000637.txt": "6b10444a36052bdd20f71469dd5e9ecb2698f360"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 27 까꿍! 오싹오싹 할로윈",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000638": {
+      "files": {
+        "seedance-examples/베베바나/example_000638/example_000638.png": "1dc90e2540d92120807d2c7a5ddb6ac9097496ab",
+        "seedance-examples/베베바나/example_000638/example_000638.txt": "59bf337c43ebb0fc05b8053fbcc4b7d2e4c13fd5"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 27 까꿍! 오싹오싹 할로윈",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000645": {
+      "files": {
+        "seedance-examples/베베바나/example_000645/example_000645.png": "13fb580a05aed1f09d26e3ab393f694fb21e86f4",
+        "seedance-examples/베베바나/example_000645/example_000645.txt": "b57c3a99d1e0a4e727ea883f7f226316a63313fe"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 39_ABC 쿠키 송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000652": {
+      "files": {
+        "seedance-examples/코코비/example_000652/example_000652.png": "9e71af49e977316f81a2821b35f8a0312f340f2d",
+        "seedance-examples/코코비/example_000652/example_000652.txt": "dd81c7405df1d5cff034b93ffd80f43c727a704d"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "앞으로 연장"
+    },
+    "example_000665": {
+      "files": {
+        "seedance-examples/베베바나/example_000665/example_000665.png": "edd9cbb221a74987ee03cf2750dc51250f804677",
+        "seedance-examples/베베바나/example_000665/example_000665.txt": "753d8e63ab6c9baeaf3545e5afa5977a8fac7395"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 39_ABC 쿠키 송",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000678": {
+      "files": {
+        "seedance-examples/베베바나/example_000678/example_000678.png": "f2a0d1d7eb8d0b69ad29379096a7b6e9b24e419a",
+        "seedance-examples/베베바나/example_000678/example_000678.txt": "9130c285da3b24891d2b0fca135e8bcbde39fb5a"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 41 크리스마스 쿠키 파티",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_000788": {
+      "files": {
+        "seedance-examples/코코비/example_000788/example_000788.png": "b91658436f337117beec04b263fbd861679d7167",
+        "seedance-examples/코코비/example_000788/example_000788.txt": "8144391008d80c7d61e1df360c06286404794ae6"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "참조 생성"
+    },
+    "example_000812": {
+      "files": {
+        "seedance-examples/코코비/example_000812/example_000812.png": "8f46f9a60f0b0d61108989e2df87f322bbfd8f19",
+        "seedance-examples/코코비/example_000812/example_000812.txt": "53b58ae1ffc72a0e7fb0419635a5b6f2d0ad17b6"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "참조 생성"
+    },
+    "example_000813": {
+      "files": {
+        "seedance-examples/코코비/example_000813/example_000813.png": "0255874d575ee9ba2dcc11098d4ca7a2ec4111cf",
+        "seedance-examples/코코비/example_000813/example_000813.txt": "70fea5d8d62730731800b25aa38c55a560ac416f"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
+      "task_label": "참조 생성"
+    },
+    "example_000820": {
+      "files": {
+        "seedance-examples/코코비/example_000820/example_000820.png": "efcacbfcdf111fe5493396d749fc9734d35448d5",
+        "seedance-examples/코코비/example_000820/example_000820.txt": "a8249d93ff7eea81755fa510b61e2837922d1708"
+      },
+      "ip": "코코비",
+      "project_name": "코코비 앱 전화놀이",
+      "series": "코코비",
+      "series_name": "앱",
       "task_label": "참조 생성"
     }
   },

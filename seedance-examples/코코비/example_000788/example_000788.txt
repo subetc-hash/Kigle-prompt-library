@@ -1,0 +1,32 @@
+﻿예제번호: example_000788
+참조 이미지: example_000788.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 참조 생성
+생성 조건: 720p / 9:16 / 10초 / 오디오 꺼짐
+
+참조 매핑
+@캠핑장 → @캠핑장.png
+
+프롬프트
+--- BEGIN PROMPT ---
+10s, 9:16. Create a seamless 10-second ambient loop of this campsite scene.
+
+Static locked-off camera, no movement, no zoom, no reframing — the exact same framing throughout all 10 seconds. No characters or figures enter the scene. The bright daylight stays constant, with no lighting or color change.
+
+Pacing: natural, comfortable ambient pacing throughout — alive and organic, never slow-motion, never rushed. The motions run at different rhythms and overlap across the 10 seconds, so nothing moves in sync.
+
+Ambient motion only, everything else stays fixed in place:
+- The campfire flames flicker naturally with an organic, lively rhythm, and a thin wisp of smoke curls upward and dissipates gently.
+- The tire swing sways back and forth on its own with a small, gentle pendulum motion at a natural pace, a few full swings across the 10 seconds, never freezing, and ends at rest in its exact starting position.
+- The hammock sways very gently between the trees, soft and slow, at a different rhythm from the tire swing.
+- The two green hanging lanterns sway lightly and their warm glow flickers faintly, and the string lights along the tent glow with a gentle, subtle shimmer.
+- Leaves on the large trees and the background pines rustle softly in a light breeze, the grass ripples faintly, with no net position change.
+- Clouds stay in the same position throughout, with only the faintest non-directional softness in their edges. The tent, the table and all its items, the chairs, the cooler, the grill, the signboard, the kettle, and the mountains stay completely static.
+
+SEAMLESS LOOP REQUIREMENT: the very first frame and the very last frame must be identical, so this clip can loop back-to-back with no visible seam or jump. Every motion (flame flicker, smoke curl, swing sway, hammock sway, lantern sway, leaf and grass rustle) completes its full cycle and returns to the exact starting state by the final frame.
+
+Match the reference image's art style, colors, and composition exactly. No text, no logos, no watermark.
+--- END PROMPT ---

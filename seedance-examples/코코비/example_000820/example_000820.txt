@@ -1,0 +1,22 @@
+﻿예제번호: example_000820
+참조 이미지: example_000820.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Kigle Seedance 2.5
+엔드포인트: ep-20260918174311-t879v
+작업 방식: 참조 생성
+생성 조건: 720p / 9:16 / 20초 / 오디오 꺼짐
+
+참조 매핑
+@코코방 → @코코방.png
+
+프롬프트
+--- BEGIN PROMPT ---
+20s, 9:16. @코코방 is the first frame, and @코코방 is the last frame. Follow the reference image exactly. Static camera, no movement.
+
+Very subtle motion:
+- Shirts sway slightly, cat waves once then rests.
+
+No text, no logos.
+--- END PROMPT ---

@@ -1,0 +1,72 @@
+﻿예제번호: example_000607
+참조 이미지: example_000607.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 39_ABC 쿠키 송
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 6초 / 오디오 켜짐
+
+참조 매핑
+@체크패턴_베이지_저 → @체크패턴_베이지_저.png
+@momc → @momc.png
+@표정_엄마 → @표정_엄마.png
+@알파벳_쿠키틀A → @알파벳_쿠키틀A.png
+@04_알파벳송6_MR제거 → @04_알파벳송6_MR제거.mp3
+
+프롬프트
+--- BEGIN PROMPT ---
+Single shot, 6 seconds, 16:9, continuous take (no cuts).
+
+ABSOLUTE LETTER RULE (highest priority):
+Exactly seven letter imprints appear on the dough in total: A, B, C, D on the top row and E, F, G on the bottom row. Nothing else. No eighth imprint, no H or any later letter, no numbers, no symbols, no extra marks, no partial or blank letter shapes, no stray cutter marks, no leftover dents.
+The dough surface has exactly 7 imprint positions and no more. Top row: 4 positions (A, B, C, D, left to right). Bottom row: 3 positions (E, F, G, left to right). The dough is otherwise smooth and blank.
+
+Subject:
+@momc is MOM. Preserve this character's appearance exactly.
+
+Context & Style:
+Simple, clean, flat-colored warm beige-and-white gingham-check background, with no kitchen set and no props beyond what is described. Bright, even, cheerful lighting with no strong shadows. Waist-shot framing (head, shoulders, arms, and torso down to the waist), with no legs or lower body visible. MOM appears at a moderate size, occupying roughly the left-center portion of the frame with comfortable empty space around her head and sides, so she does not fill the frame.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cheerful tone, Walt Disney Animation Studios quality, clean educational/explainer presentation feel.
+
+Layout:
+MOM is framed from the waist up on the left side of the frame, with her full arms and hands visible so her gestures read clearly. On the right side is one small, softly rounded piece of smooth, pale cookie dough, completely blank at the start. The dough is sized to fit exactly seven letter imprints and nothing more: a compact slab just large enough for a top row of four letters and a bottom row of three letters, with only a small, even margin around them. It is not a large sheet and has no extra empty area where an additional letter could fit. The dough does not change size or shape during the shot.
+Final layout on the dough:
+Top row: A  B  C  D
+Bottom row: E  F  G
+
+Action (audio-driven, one letter at a time):
+The audio track is the master clock. The song sings "A, B, C, D, E, F, G". Each stamp is triggered by the onset of its sung letter, never earlier and never later. The dough stays blank until MOM sings "A".
+
+Per-letter sync rule, identical for each letter:
+1. MOM's mouth forms the shape of that letter exactly when its sound begins in the audio.
+2. On that same beat, one small cookie cutter in the shape of that letter stamps down onto its designated spot. The impact lands exactly on the sound onset.
+3. Right after the stamp, the cutter dissolves away naturally and completely, softly fading out in place (or lifting slightly while fading) until it is fully gone. It never lingers, never pops out, and never stays on the dough. Only the clean letter-shaped imprint remains, permanently.
+4. MOM gestures on the same beat: an open palm presenting toward the dough, then a light pointing motion toward the newly stamped letter.
+5. Between letters, no stamp occurs, and no cutter is visible on screen.
+
+Order (approximate timing; the audio's actual timing overrides):
+- "A" (about 0.0–0.8s): stamp A, top row, position 1.
+- "B" (about 0.8–1.7s): stamp B, top row, position 2.
+- "C" (about 1.7–2.5s): stamp C, top row, position 3.
+- "D" (about 2.5–3.4s): stamp D, top row, position 4.
+- "E" (about 3.4–4.3s): stamp E, bottom row, position 1.
+- "F" (about 4.3–5.1s): stamp F, bottom row, position 2.
+- "G" (about 5.1–6.0s): stamp G, bottom row, position 3.
+
+At every moment, the number of imprints on the dough equals the number of letters sung so far. Each letter is stamped exactly once. After G, nothing else is stamped. The final frame shows exactly seven imprints: A B C D on top, E F G below, with no cutters visible.
+
+Camera:
+Fully locked-off static camera at a medium (waist-shot) distance. No push-in, no pan, no zoom, no shake, no reframing at any point. MOM on the left, the dough and its imprints clearly visible on the right, framing identical from the first frame to the last.
+
+Reference:
+Consistent character throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles, no floating letters, no letters anywhere except the seven imprints on the dough.
+Subtle, warm, teacherly acting, clear and expressive but not exaggerated. Gestures warm and natural, not stiff or robotic.
+Smooth natural motion, static camera only, gentle warm color grade.
+Every imprint must be a correct, clean, undistorted, non-mirrored version of its true letterform, with no merged, duplicated, or invented shapes.
+Cutters fade away smoothly and completely after each stamp, leaving only the imprint.
+Lip-sync each sung letter to the provided audio track, matching mouth shapes and timing precisely.
+--- END PROMPT ---

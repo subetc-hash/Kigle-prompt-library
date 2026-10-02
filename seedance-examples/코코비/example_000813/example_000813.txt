@@ -1,0 +1,31 @@
+﻿예제번호: example_000813
+참조 이미지: example_000813.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+작업 방식: 참조 생성
+생성 조건: 720p / 9:16 / 20초 / 오디오 꺼짐
+
+참조 매핑
+@거실 → @거실.png
+
+프롬프트
+--- BEGIN PROMPT ---
+20s, 9:16. @거실 is the first frame, and @거실 is the last frame.
+
+Static locked-off camera, no movement, no zoom, no reframing — the exact same framing as @거실 throughout all 20 seconds. No characters or figures enter the scene. The soft indoor daylight stays constant, with no lighting or color change.
+
+Pacing: a gentle ambient life runs through the whole scene — calm and natural, never slow-motion, never rushed. The motions run at different rhythms and overlap across the 20 seconds, so nothing moves in sync.
+
+Ambient motion only, everything else stays fixed in place:
+- A light breeze passes through the room and garden: the large monstera leaves rustle gently, the hanging pothos sways lightly, the small potted plant beside the sofa trembles faintly, and the bushes and small white flowers outside rustle softly, settling back by the end.
+- The TV screen plays a soft animation — the little airplane drifts in a slow, gentle circuit across the blue sky and returns to its exact starting position before the end, small clouds drifting gently past it, with a warm, calm glow. Quiet and seamless, never distracting.
+- The smiling sun outside blinks naturally once or twice — normal-paced blinks, eyes returning fully open, the smile unchanged.
+- The pink-and-white patio umbrella outside sways very slightly in the breeze, settling back by the end.
+- Clouds stay in the same position throughout. The bookshelf and all its items, the sofa, the armchair, the lamps, the mug, the framed pictures, the rug, the wooden bench, and the floor stay completely static.
+
+SEAMLESS LOOP REQUIREMENT: the very first frame and the very last frame must be identical to @거실, so this clip can loop back-to-back with no visible seam or jump. Any motion that appears mid-clip fully resolves before the final frame.
+
+No text, no logos, no watermark.
+--- END PROMPT ---

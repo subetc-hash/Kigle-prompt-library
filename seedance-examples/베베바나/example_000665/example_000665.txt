@@ -1,0 +1,372 @@
+﻿예제번호: example_000665
+참조 이미지: example_000665.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 39_ABC 쿠키 송
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 7초 / 오디오 켜짐
+
+참조 매핑
+@banac → @banac.png
+@표정_바나나 → @표정_바나나.png
+@쿠키_스프링클 → @쿠키_스프링클.png
+@07_알파벳송_mr_W → @07_알파벳송_mr_W.mp3
+@체크패턴_베이지_저 → @체크패턴_베이지_저.png
+
+프롬프트
+--- BEGIN PROMPT ---
+[Single shot, 7 seconds, 16:9, continuous take (no cuts).
+
+ABSOLUTE COOKIE RULE (highest priority):
+Exactly four alphabet cookies appear in the whole shot: W, X, Y, Z. Nothing else.
+
+No fifth cookie, no other letters, no numbers, no symbols, no extra marks, no duplicated or spare cookies, no crumbs shaped like letters.
+
+The four cookies are already present and floating next to BANA from the very first frame. They remain the same four cookies from the first frame to the last.
+
+Subject:
+@banac is BANA. Preserve this character's appearance exactly.
+
+Context & Style:
+Use the provided soft beige gingham-check background with fine fabric texture.
+
+No kitchen set and no props beyond what is described.
+
+Bright, even, cheerful lighting with a soft, bright overall look.
+
+Make BANA's face look bright, lively, and cheerful, with clear soft highlights in her eyes and a warm, radiant expression.
+
+3D Disney/Pixar-style animation, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cheerful tone, clean educational/explainer presentation feel.
+
+FRAMING & OVERALL COMPOSITION:
+The entire composition must be visually centered and balanced within the 16:9 frame.
+
+Do NOT let the composition feel pushed toward the left or right edge.
+
+BANA and all four cookies together should form one centered composition, similar to a balanced group arrangement.
+
+Keep comfortable but not excessive empty space around the complete group.
+
+The cookies should occupy the left and center portion of the frame, while BANA occupies the right-center portion of the frame.
+
+However, BANA must NOT be pushed all the way to the right edge.
+
+The cookie group must NOT be pushed all the way to the left edge.
+
+The visual center of the combined cookie-and-BANA composition should be close to the center of the screen.
+
+The four cookies and BANA should feel like they belong to one unified centered layout rather than two separate elements pushed to opposite sides.
+
+BANA is shown from the waist up.
+
+Her full upper body, both arms, and hands must remain visible.
+
+Her body should have enough space around it so she does not feel cramped against the edge of the frame.
+
+The cookies must also have enough space around them so none are cropped or too close to the frame edge.
+
+LAYOUT:
+Place the four alphabet cookies on the LEFT and CENTER-LEFT area of the frame.
+
+Arrange them in two neat rows:
+
+Top row: W  X
+Bottom row: Y  Z
+
+The four cookies should form a compact, visually balanced 2x2 group.
+
+The cookie group should be large enough to read clearly but not so large that it pushes BANA toward the edge.
+
+BANA is positioned on the RIGHT-CENTER area of the frame, next to the cookies.
+
+BANA should be slightly closer to the center of the frame than in the previous version.
+
+Do NOT place BANA directly against the right edge.
+
+Do NOT place the cookie group directly against the left edge.
+
+Maintain a balanced amount of negative space on both sides of the complete composition.
+
+All four cookies face directly toward the camera so their letter shapes are immediately readable.
+
+Every cookie is a thick, soft, rounded, correctly shaped, non-mirrored capital letter.
+
+COOKIE STATE:
+All four cookies are already baked and fully covered with colorful icing from the very first frame.
+
+The icing is glossy, smooth, thick, and colorful.
+
+At the start of the shot, there are NO sprinkles on any cookie.
+
+Only colorful sprinkles are magically added during the corresponding sung letter.
+
+The icing itself remains unchanged throughout the entire shot.
+
+FLOATING MOTION:
+Every cookie hovers naturally in place with a very gentle, slow, organic bob.
+
+Each cookie has a tiny up-and-down drift and a slight soft sway.
+
+Each cookie has its own slightly different rhythm so the movement feels natural and organic.
+
+The movement is subtle enough that the four cookies remain in their assigned positions.
+
+Cookies never drift away, never touch or overlap another cookie, never change size, and never rotate so far that the letter becomes difficult to read.
+
+Each cookie always faces the camera clearly.
+
+The floating motion continues smoothly and continuously throughout the entire shot.
+
+SPRINKLE MAGIC EFFECT:
+When each sung letter begins in the audio, the matching cookie gives off a soft magical glow.
+
+A subtle warm-white magical light briefly shimmers around that cookie.
+
+At the exact same moment, colorful small sprinkles magically appear above and gently fall onto the iced surface of that cookie.
+
+The sprinkles should feel as if they are being magically sprinkled onto the cookie from above.
+
+The sprinkle motion is smooth, playful, and natural.
+
+The sprinkles gently fall and settle onto the icing surface.
+
+The effect should be cute, magical, and cheerful.
+
+Do NOT use smoke.
+Do NOT use a white puff.
+Do NOT use an explosion.
+Do NOT use a burst effect.
+
+Do NOT make the sprinkles suddenly pop directly onto the cookie.
+
+Instead, show a brief magical glow followed by colorful sprinkles softly appearing above the cookie and falling naturally onto its icing.
+
+The magical glow stays small and local to the currently selected cookie.
+
+The effect must never cover the letter shape.
+
+The sprinkles remain attached naturally to the icing after they land.
+
+Each cookie receives sprinkles exactly once.
+
+ACTION (AUDIO-DRIVEN, ONE LETTER AT A TIME):
+The provided audio track is the master clock for ALL timing.
+
+The song sings:
+
+"W, X, Y, Z"
+
+The exact length of each letter and the exact moment each letter begins and ends must be determined ONLY by the provided audio track.
+
+Do NOT divide the 7-second shot into equal sections.
+
+Do NOT assume that each letter has the same duration.
+
+Follow the actual audio timing precisely.
+
+Each sprinkle transformation is triggered by the exact onset of its sung letter — never earlier and never later.
+
+BANA's lip-sync, pointing gesture, magical glow, and sprinkle action must all follow the exact timing of the provided audio.
+
+PER-LETTER SYNC RULE:
+For every letter, the following actions must happen at the exact same audio onset:
+
+1. BANA's mouth forms the appropriate mouth shape for the sung letter.
+
+2. BANA makes a light, friendly pointing gesture toward the matching cookie.
+
+3. The matching cookie gives off a brief soft magical glow.
+
+4. Colorful sprinkles magically appear above that cookie and gently fall onto its icing.
+
+All four events must be synchronized to the exact same moment in the audio.
+
+BANA continues lip-syncing naturally for the duration of the sung letter.
+
+BANA maintains a bright, joyful, cheerful expression throughout the entire alphabet sequence.
+
+Her eyes should look lively and sparkling, with a warm, happy expression.
+
+Her smile should be clearly brighter and more radiant than a subtle neutral smile.
+
+She should look genuinely delighted while presenting the cookies.
+
+Her expression should feel cute, friendly, energetic, and happy without becoming exaggerated.
+
+BANA's pointing gesture should clearly indicate the matching cookie.
+
+For the top row, her hand points slightly upward.
+
+For the bottom row, her hand points slightly downward.
+
+After each pointing gesture, her hand naturally relaxes and smoothly transitions toward the next gesture.
+
+ORDER:
+1. "W":
+W receives the magical sprinkle effect.
+Top row, position 1.
+
+2. "X":
+X receives the magical sprinkle effect.
+Top row, position 2.
+
+3. "Y":
+Y receives the magical sprinkle effect.
+Bottom row, position 1.
+
+4. "Z":
+Z receives the magical sprinkle effect.
+Bottom row, position 2.
+
+At every moment, only the currently sung letter's cookie receives the magical sprinkle effect.
+
+Each cookie receives sprinkles exactly once, strictly in this order:
+
+W → X → Y → Z
+
+ACTING & TRANSITIONS:
+BANA is already smiling brightly and naturally at the very first frame.
+
+Her smile should be warm, open, bright, and cheerful.
+
+Her eyes should have a lively, happy sparkle.
+
+She should look excited and pleased to show the alphabet cookies.
+
+Her facial expression and body movement must remain smooth and continuous from the beginning to the end.
+
+Do not make her movements abrupt, stiff, robotic, or disconnected.
+
+Her pointing gestures should flow naturally from one letter to the next.
+
+Her gaze should naturally follow the cookie she is pointing toward.
+
+Her facial expression should remain cheerful while lip-syncing.
+
+After saying the final letter "Z", BANA smoothly stops pointing and naturally turns her gaze toward the camera.
+
+She then gives an even brighter, cute, warm smile directly to the camera.
+
+The transition from pointing at Z to looking at the camera must be natural and fluid.
+
+ENDING BEAT:
+After the sung "Z" has completely finished, for the remaining time until the end of the 7-second shot:
+
+BANA looks directly into the camera.
+
+She gives a bright, cute, warm smile.
+
+Her smile should be noticeably cheerful and radiant, with happy eyes and a gentle natural expression.
+
+She maintains subtle natural breathing and a small natural blink.
+
+Her expression remains bright and adorable until the final frame.
+
+The four cookies remain floating gently in their original positions.
+
+W, X, Y, and Z all have their colorful sprinkles settled naturally on their icing.
+
+No additional magical effect occurs during the ending beat.
+
+No additional sprinkles appear.
+
+FINAL FRAME:
+The complete composition remains centered and balanced.
+
+BANA is positioned in the right-center area rather than against the right edge.
+
+The four cookies remain in a compact group on the left and center-left area.
+
+The combined composition of BANA and the four cookies is centered within the 16:9 frame.
+
+BANA is looking directly at the camera with a bright, happy, cute smile.
+
+All four alphabet cookies are fully iced and decorated with colorful sprinkles.
+
+W  X
+Y  Z
+
+All four cookies continue floating gently.
+
+CAMERA:
+Fully locked-off static camera at a medium waist-shot distance.
+
+No push-in.
+No pan.
+No zoom.
+No camera shake.
+No reframing at any point.
+
+Keep the framing and composition stable from the first frame to the last.
+
+IMPORTANT COMPOSITION RULE:
+Do not let the characters or cookies become horizontally stretched apart.
+
+Do not push BANA too far to the right.
+
+Do not push the cookies too far to the left.
+
+Keep BANA and the cookie group visually close enough to read as one centered composition.
+
+The overall visual balance should resemble a centered group shot, with the cookies and BANA occupying the central area of the frame.
+
+REFERENCE & CONSISTENCY:
+Preserve BANA's exact appearance from the provided character reference.
+
+Do not alter her face shape, hairstyle, headband, clothing, proportions, colors, or character design.
+
+No 2D flat animation.
+No anime style.
+No live-action realism.
+
+No text overlays.
+No speech bubbles.
+No subtitles.
+No floating letters.
+No letters anywhere except the four alphabet cookies.
+
+No extra cookies.
+No extra letters.
+No duplicate cookies.
+No missing cookies.
+
+Every cookie must keep a clean, correct, undistorted, non-mirrored version of its true letterform.
+
+The W, X, Y, and Z letterforms must remain clearly readable throughout the entire shot.
+
+The icing must remain unchanged and must not deform.
+
+The sprinkles must remain small, colorful, and clearly visible without obscuring the letter shapes.
+
+No sprinkles may appear on a cookie before its corresponding letter is sung.
+
+No multiple cookies receive sprinkles simultaneously.
+
+Only the currently sung letter's cookie receives the magical sprinkle effect.
+
+MOST IMPORTANT AUDIO SYNC RULE:
+The provided audio track is the ONLY timing reference.
+
+The exact onset of each sung letter W, X, Y, Z must control the following simultaneously:
+
+- BANA's mouth movement
+- BANA's pointing gesture
+- the matching cookie's magical glow
+- the beginning of the magical sprinkle effect
+
+These events must happen at the exact same moment for every letter.
+
+Do not use fixed timing.
+Do not evenly divide the 7-second shot.
+Do not anticipate the audio.
+Do not delay the action after the audio.
+
+Follow the actual provided audio timing precisely from W through Z.
+
+The shot must begin with BANA already naturally smiling brightly and must end with BANA naturally smiling brightly at the camera.
+
+All acting must remain smooth, continuous, and cheerful throughout the entire shot.
+]
+--- END PROMPT ---

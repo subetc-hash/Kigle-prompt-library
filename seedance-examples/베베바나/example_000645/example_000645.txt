@@ -1,0 +1,321 @@
+﻿예제번호: example_000645
+참조 이미지: example_000645.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 39_ABC 쿠키 송
+모델: Kigle Seedance 2.0 Fast
+엔드포인트: ep-20260918174006-9dp8x
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 6초 / 오디오 켜짐
+
+참조 매핑
+@06_알파벳송_mr_Q → @06_알파벳송_mr_Q.mp3
+@체크패턴_분홍 → @체크패턴_분홍.png
+@알파벳_쿠키Q → @알파벳_쿠키Q.png
+@표정_사과 → @표정_사과.png
+@applec → @applec.png
+
+프롬프트
+--- BEGIN PROMPT ---
+[Single shot, 6 seconds, 16:9, continuous take (no cuts).
+
+ABSOLUTE COOKIE RULE (highest priority):
+Exactly six alphabet cookies appear in the whole shot: Q, R, S on the top row and T, U, V on the bottom row. Nothing else. No seventh cookie, no W or any other letter, no numbers, no symbols, no extra marks, no duplicated or spare cookies, no crumbs shaped like letters.
+
+The six cookies are already present and floating next to APPLE from the very first frame. They are the same six pieces from the first frame to the last. Each one stays in its own fixed place in the air, and only its icing state changes, from a completely plain baked cookie to a fully iced cookie.
+
+Subject:
+@applec is APPLE. Preserve this character's appearance exactly.
+
+Context & Style:
+Use the provided soft pink gingham-check background with fine fabric texture. No kitchen set and no props beyond what is described.
+
+Bright, even, cheerful lighting with no strong shadows.
+
+Waist-shot framing of APPLE, showing her head, shoulders, arms, hands, and torso down to the waist, with her apron pocket visible. No legs or lower body visible.
+
+APPLE appears at a moderate size and does not fill the frame, with comfortable empty space around her head and shoulders.
+
+3D Disney/Pixar-style animation, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cheerful tone, clean educational/explainer presentation feel.
+
+LAYOUT:
+APPLE is positioned on the LEFT side of the frame.
+
+She is shown from the waist up, with both arms and hands visible so her pointing gestures are clear.
+
+She faces the camera, with her upper body turned slightly toward the cookies.
+
+On the RIGHT side of the frame, six alphabet cookies float in the air in front of the pink gingham background.
+
+Arrange them in two neat rows:
+
+Top row: Q  R  S
+Bottom row: T  U  V
+
+The top row of three is centered above the bottom row of three.
+
+All six cookies are the same size and evenly spaced.
+
+Each cookie faces directly toward the camera so its letter shape is immediately readable.
+
+Every cookie is a thick, soft, rounded, correctly shaped, non-mirrored capital letter.
+
+COOKIE STATE:
+All six cookies are already baked from the very first frame.
+
+They have a warm golden-brown baked cookie appearance with lightly golden edges, a soft slightly puffed body, and a natural baked-cookie texture.
+
+At the beginning of the shot, all six cookies are completely plain.
+
+There is NO icing, frosting, decoration, sprinkles, sugar coating, or topping on any cookie before its corresponding letter is sung.
+
+Each cookie receives colorful icing exactly once.
+
+FLOATING MOTION:
+Every cookie hovers naturally in place with a very gentle, slow, organic bob — a tiny up-and-down drift and a slight soft sway.
+
+Each cookie has its own slightly different rhythm so the motion feels natural and organic.
+
+The movement is small enough that each cookie stays in its own position.
+
+Cookies never drift away, never touch or overlap another cookie, never change size, and never rotate so far that the letter becomes difficult to read.
+
+Each cookie always faces the camera clearly.
+
+The floating motion continues smoothly and without interruption for the entire shot, both before and after receiving icing.
+
+ICING EFFECT:
+When each sung letter begins in the audio, a soft magical light effect appears around the matching cookie.
+
+There is NO smoke, NO white puff, NO explosion, NO burst effect, and NO sudden pop effect.
+
+Instead, a beautiful soft magical glow appears around the cookie with tiny sparkling light particles.
+
+The magical light gently shimmers around the surface of the cookie.
+
+At the same moment, the colorful icing begins to magically spread across the cookie.
+
+The icing should look as if it is being smoothly and magically painted onto the cookie surface.
+
+The icing spreads gradually and fluidly across the exact letter shape, following the contours of the letter.
+
+It should feel like a smooth magical coating motion, as if an invisible magical brush is gently applying the icing.
+
+The icing should NOT appear instantly.
+
+The viewer must clearly see the icing smoothly spreading across the cookie until the entire letter is covered.
+
+The magical glow and tiny sparkles softly follow the area where the icing is spreading.
+
+The effect is cute, gentle, playful, and magical, not dramatic or explosive.
+
+The icing is glossy, smooth, thick, colorful, and clearly visible against the golden baked cookie.
+
+Once the icing has completely covered the cookie, the magical glow and sparkles gradually fade away.
+
+The fully iced cookie remains exactly the same size, shape, position, and floating motion for the rest of the shot.
+
+The icing must never spill outside the cookie.
+
+The icing must never deform the letter.
+
+The original Q, R, S, T, U, and V letterforms must remain perfectly readable throughout the entire process.
+
+ACTION (AUDIO-DRIVEN, ONE LETTER AT A TIME):
+The provided audio track is the master clock for ALL timing.
+
+The song sings:
+
+"Q, R, S, T, U, V"
+
+The exact length of each letter and the exact moment each letter begins and ends must be determined ONLY by the provided audio track.
+
+Do NOT divide the 6-second shot into equal sections.
+
+Do NOT assume that each letter has the same duration.
+
+Follow the actual audio timing precisely.
+
+Each icing transformation is triggered by the exact onset of its sung letter — never earlier and never later.
+
+The order, timing, and duration of the sung letters in the provided audio must be followed exactly.
+
+PER-LETTER SYNC RULE:
+For every letter, all of the following must happen at the exact same audio onset:
+
+1. APPLE's mouth begins forming the mouth shape for that sung letter.
+
+2. APPLE points toward the matching cookie with a light, friendly pointing gesture.
+
+3. A soft magical glow and tiny sparkling light particles appear around that matching cookie.
+
+4. The colorful icing begins smoothly spreading across that cookie.
+
+These four actions must be synchronized to the exact same moment in the audio.
+
+APPLE's mouth continues moving naturally for the duration of the sung letter.
+
+APPLE maintains a happy, cheerful expression throughout the entire letter sequence.
+
+APPLE's pointing gesture should clearly indicate the matching cookie.
+
+For the top row, her hand points slightly upward.
+
+For the bottom row, her hand points slightly downward.
+
+After each brief pointing gesture, her hand naturally relaxes before the next letter.
+
+ORDER:
+1. "Q"
+Q receives icing.
+Top row, position 1.
+
+2. "R"
+R receives icing.
+Top row, position 2.
+
+3. "S"
+S receives icing.
+Top row, position 3.
+
+4. "T"
+T receives icing.
+Bottom row, position 1.
+
+5. "U"
+U receives icing.
+Bottom row, position 2.
+
+6. "V"
+V receives icing.
+Bottom row, position 3.
+
+At every moment, the number of fully iced cookies corresponds to the number of letters that have already been sung.
+
+The remaining cookies stay completely plain and baked.
+
+Each cookie receives icing exactly once, strictly in the order:
+
+Q → R → S → T → U → V
+
+BETWEEN LETTERS:
+No new icing appears between letters.
+
+No magical effect appears between letters.
+
+No cookie changes state between letters.
+
+The previously iced cookies remain fully iced.
+
+The remaining cookies stay completely plain.
+
+All six cookies continue their gentle floating motion.
+
+ENDING BEAT:
+After the sung "V" has completely finished, for the remaining time until the end of the shot:
+
+APPLE stops pointing toward the cookies.
+
+She naturally turns her gaze from the cookies toward the camera.
+
+She closes her mouth and gives a small, warm, happy smile.
+
+She holds this soft smile with subtle natural breathing and a slight natural blink until the final frame.
+
+No additional icing appears during the ending beat.
+
+No magical glow or sparkles appear during the ending beat.
+
+All six cookies remain fully iced and continue floating gently in their original positions.
+
+The final frame shows:
+
+Q R S on the top row
+T U V on the bottom row
+
+All six cookies are baked and fully covered with colorful icing.
+
+APPLE is smiling naturally and warmly toward the camera.
+
+CAMERA:
+Fully locked-off static camera at a medium waist-shot distance.
+
+No push-in.
+No pan.
+No zoom.
+No camera shake.
+No reframing at any point.
+
+APPLE remains on the left and all six floating cookies remain clearly visible on the right.
+
+Framing must remain identical from the first frame to the last.
+
+REFERENCE & CONSISTENCY:
+Preserve APPLE's exact appearance from the provided character reference.
+
+Do not alter her face shape, hairstyle, clothing, proportions, colors, or character design.
+
+No 2D flat animation.
+No anime style.
+No live-action realism.
+
+No text overlays.
+No speech bubbles.
+No subtitles.
+No floating letters.
+No letters anywhere except the six alphabet cookies.
+
+No extra cookies.
+No extra letters.
+No duplicate cookies.
+No missing cookies.
+
+Every cookie must keep a clean, correct, undistorted, non-mirrored version of its true letterform.
+
+The cookie letterforms must remain clearly readable before, during, and after icing.
+
+No merged shapes.
+No invented shapes.
+No distorted letterforms.
+
+The icing must follow the exact contours of each letter without changing its shape.
+
+The icing must never cover the cookie's letter opening in a way that changes the recognizable letterform.
+
+No icing may appear on a cookie before its corresponding letter is sung.
+
+No icing may appear on multiple cookies simultaneously.
+
+Only the currently sung letter's cookie receives the magical icing effect.
+
+ACTING:
+APPLE maintains a joyful, playful, enthusiastic expression while pointing to each cookie.
+
+Her gestures should feel warm, natural, and fluid, not stiff or robotic.
+
+Her movements should be clear enough for a child to understand which cookie she is pointing toward.
+
+Do not exaggerate the acting.
+
+The final smile should be small, natural, and gentle rather than a wide grin or laugh.
+
+MOST IMPORTANT AUDIO SYNC RULE:
+The provided audio track is the ONLY timing reference.
+
+The exact onset of each sung letter Q, R, S, T, U, V must simultaneously control:
+
+- APPLE's mouth movement
+- APPLE's pointing gesture
+- the appearance of the magical light
+- the beginning of the smooth icing application
+
+These events must happen at the exact same moment for every letter.
+
+Do not use fixed timing.
+Do not evenly divide the shot.
+Do not anticipate the audio.
+Do not delay the action after the audio.
+
+Follow the actual provided audio timing precisely from Q through V.
+]
+--- END PROMPT ---
