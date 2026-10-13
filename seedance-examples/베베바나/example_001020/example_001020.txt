@@ -1,0 +1,60 @@
+﻿예제번호: example_001020
+참조 이미지: example_001020.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 42 머리 배 다리 발
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 9초 / 오디오 켜짐
+
+참조 매핑
+@bana2 → @bana2.png
+@apple → @apple.png
+@blue → @blue.png
+@heightbab → @heightbab.png
+@크레용 → @크레용.jpg
+@playroom4 → @playroom4.png
+@크로마키 → @크로마키.png
+@표정_바나나 → @표정_바나나.png
+@표정_사과 → @표정_사과.png
+
+프롬프트
+--- BEGIN PROMPT ---
+2 shots, 9s, 16:9.
+
+Subject:
+@bana2 is BANA — preserve this character's appearance exactly. BANA is visible only in Shot 1; in Shot 2 the camera is BANA's point of view.
+@apple is APPLE — appears ONLY in Shot 2. Preserve this character's appearance exactly.
+@blue is BLUE — appears ONLY in Shot 2. Preserve this character's appearance exactly.
+@height_bab is the scale reference — maintain exact height ratio between characters throughout.
+
+Context & Style:
+Shot 1 takes place on a pure, flat, solid, vivid saturated chroma-key green background — an intensely bright, vibrant, electric neon green (approximately RGB 0, 255, 40, like a standard video chroma-key screen), completely uniform across the whole frame. It is NOT olive, NOT lime-yellow, NOT pale, NOT pastel, NOT yellowish; it must be clearly different from BANA's yellow-orange colors so it can be keyed out cleanly. No floor texture, no objects, no gradient, no vignette, no shadows, no horizon.
+Shot 2 takes place in the bright, cheerful indoor playroom @playroom_4, with a large sheet of white drawing paper spread out on the floor. The children are small relative to the room — realistic character-to-room scale. Full daytime, soft natural sunlight, bright daytime lighting only, no sunset or dusk tones.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, soft volumetric lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cozy atmosphere, cinematic depth of field, gentle heartwarming family tone, Walt Disney Animation Studios quality.
+
+Audio / lip-sync: the soundtrack is a cheerful children's song. Characters' mouth movements must match any sung or spoken lines exactly. In this scene the characters only laugh and smile — no lyrics are sung or spoken.
+
+Action:
+Shot 1 (0–5s): The shot opens on nothing but the pure vivid chroma-key green background — only green is visible at the very start. The camera is looking perfectly straight down (true top-down, bird's-eye view). From the right edge of the frame, a large rolled-up white drawing paper rolls in toward the left, unrolling as it goes. The roll is a tall vertical cylinder that is longer than the frame is tall: it runs past the top edge and the bottom edge of the frame, so the top end and the bottom end of the rolled paper are NEVER visible. The unrolled flat white paper is left behind it, spreading across the green background from right to left, until the paper covers 100% of the frame. The paper is far larger than the frame, so there is NO green left anywhere in the frame at the end of the unrolling — not above BANA's head, not below her chest, not along any edge. The rolled-up bundle keeps rolling to the left and fully exits the frame on the left side; by the end of the unrolling, no rolled paper, no tube, and no curled edge is visible anywhere, and the entire frame is flat white paper.
+While the paper unrolls, BANA enters from the right edge lying flat on her back on the unrolled white paper, with her head toward the top of the frame, both arms raised up in the air, rolling sideways across the paper in a cute log-roll. The camera is close, so the frame is a bust shot of BANA's upper body: her whole face (from the top of her hair to her chin), her neck, shoulders, and chest, with her raised arms — the frame ends at about the middle of her chest, and the rest of her body is cut off by the bottom edge of the frame. Her face must be fully visible and large, not cropped. White paper fills the frame all around her, with no gap, directly above her head and directly below her chest. It is NOT a full-body shot or a wide shot at any time. She smoothly slows down and stops at the center of the frame, still lying on her back with arms raised. Then she bursts into a joyful, delighted laugh with a big happy smile and sparkling eyes, looking up at the camera, as if having great fun. Movement is natural, gentle, and toddler-cute, never fast or exaggerated.
+
+Shot 2 (5–9s): BANA's first-person point of view, lying on her back. The camera lies flat on the white drawing paper in @playroom_4, with the lens pointing straight up at the ceiling — the camera IS BANA's eyes, looking up while lying on her back. BANA herself is not seen at all (no face, body, hands, nose, or shadow of BANA; no lying child in the frame). Composition: the ceiling of the room fills the background of the frame, and BLUE and APPLE lean right over the camera and look straight down into the lens from just above it. BLUE enters at the left and APPLE at the right; their faces and upper bodies are large in the frame and very close to the camera, seen from below at a steep upward angle — BLUE fills the left side of the frame and APPLE fills the right side, each with the head tilted toward the camera, with big shining eyes and warm smiles, leaving the center-top of the frame open to the ceiling between them. Each child holds an orange crayon in the hand nearest the lower corner of the frame, the crayon held upright near the chin, tip pointing up. Their actions in order:
+1. From the left and right edges of the frame, BLUE and APPLE naturally lean in and their upper bodies come into frame, seen from below, drawing on the paper around the camera with their orange crayons.
+2. They look at each other and share a short, cute giggle together.
+3. Then both lean over and look straight down into the lens (toward BANA), holding their orange crayons up, and with warm, playful smiles they slowly bring the orange crayons gradually closer to the camera, getting closer and closer until the shot ends.
+The crayons stay in proportion to the children's hands. They never cover the whole frame.
+
+Camera:
+Shot 1: Perfectly top-down overhead (bird's-eye) view looking straight down, held at exactly 90 degrees to the ground for the whole shot, no tilt. It begins as a close bust shot of BANA (face to chest) once she rolls into frame, and the camera smoothly and slowly zooms out the whole time, ending on a waist shot of BANA. Even after zooming out, BANA still appears large in the frame — her whole body must NOT be visible. Soft, gentle zoom speed, no fast movement. After the paper has unrolled, the frame is fully white paper around BANA at all times.
+Shot 2: Static, locked-off camera positioned at BANA's lying position, lens pointing straight up toward the ceiling (first-person POV from lying on the back), low and close to the paper. No camera movement; only BLUE, APPLE, and the crayons move.
+
+Reference:
+Hard cut between the two shots — no dissolve, no cross-fade, no blend transitions. Each shot is fully independent.
+Consistent characters and consistent room design throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Natural, smooth, gentle motion and expressions — cute and toddler-like, never over-the-top.
+Bright daytime lighting, warm gentle color grade.
+--- END PROMPT ---

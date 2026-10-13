@@ -1,0 +1,49 @@
+﻿예제번호: example_000983
+참조 이미지: example_000983.png
+IP: 코코비
+시리즈: 테스트
+프로젝트: 코코비 3D 플랫 테스트
+모델: Seedance 2.5
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 480p / 16:9 / 30초 / 오디오 켜짐
+
+참조 매핑
+@coco_sheet → @coco_sheet.png
+@coco_expressions → @coco_expressions.png
+@coco_back → @coco_back.png
+@lobi_sheet → @lobi_sheet.png
+@lobi_expressions → @lobi_expressions.png
+@lala_sheet → @lala_sheet.png
+@lala_expressions → @lala_expressions.png
+@height_coco_lobi_lala → @height_coco_lobi_lala.png
+@livingroom_master → @livingroom_master.png
+@livingroom_wall → @livingroom_wall.png
+@livingroom_side → @livingroom_side.png
+@livingroom_curtain → @livingroom_curtain.png
+
+프롬프트
+--- BEGIN PROMPT ---
+Using Coco, Lobi and Lala as the main subjects (their design, colors and materials must match their images exactly), in the living room of @livingroom_master, horizontal 16:9, stylized 3D cartoon whose characters move like 2D hand-drawn limited animation (held key poses that snap from one to the next, no smooth 3D interpolation), clean toy-like characters, flat areas of color, soft matte shading, bright diffuse daylight, generate a 30-second hide-and-seek short.
+@coco_sheet defines Coco's design, colors and materials. @coco_back defines Coco's back view. @coco_expressions defines Coco's facial expressions only. The three images together define one single Coco; only one Coco appears.
+@lobi_sheet defines Lobi's design, colors and materials. @lobi_expressions defines Lobi's facial expressions only. The two images together define one single Lobi; only one Lobi appears.
+@lala_sheet defines Lala's design, colors and materials. @lala_expressions defines Lala's facial expressions only. The two images together define one single Lala; only one Lala appears.
+@height_coco_lobi_lala defines the relative heights of Coco, Lobi and Lala, used only for size proportions: Coco 1.00, Lobi 0.69, Lala 0.47.
+@livingroom_master defines the living room's layout, colors and props. @livingroom_wall, @livingroom_side and @livingroom_curtain show the same room from other sides; they are used only for layout, colors and props, not for camera angle.
+Room layout stays fixed in every shot: window with the yellow curtain on the left, cabinet wall at the back center, green sofa on the right, open floor in the middle.
+Positions: at the start Coco stands at the back center one meter in front of the cabinet facing the wall, Lobi is at the floor center, Lala hides under the curtain on the left. Lobi will hide under the striped blanket on the sofa seat on the right. Every shot starts where the previous shot left each character, and positions change only through the moves described: Lobi walks to the sofa on the right and hides under the striped blanket on it (shot 2); Coco walks to the curtain on the left (shots 6 and 7) and stays there with Lala (shots 8 and 9); in shot 10 Lobi hops to the floor center and Coco and Lala run to him.
+Animation: the characters are 3D but they move like 2D hand-drawn limited animation. Animate on twos at 12 frames per second with no motion interpolation, no smooth 3D easing and no 3D-style secondary motion. Every movement is a sequence of discrete key poses; each key pose is held for two or more frames, and changing from one pose to the next is an instant snap with no in-between drawings. Head turns and body turns are snaps. Fast actions get one smear frame and short motion lines. Mouths and facial expressions change naturally. Characters stay in a fixed three-quarter view (body turned about 45 degrees toward the camera side); their eyes look at the person or thing they act on and never into the camera lens, except Lobi's glance in shot 2. Seen from behind only in shots 1 and 4.
+Camera: eye level and straight-on by default. A slight low or slight high angle is allowed only when the character's body and face are turned toward the camera. Never a strong high angle that shows the top of a head, never diagonal. Characters always look large in the frame: even in wide shots they fill at least one third of the frame height, no extreme wide shots. Hard cuts only, no dissolves. Moves may combine within a shot (follow, pan, whip pan, dolly in, quick pull-back) but never orbit, rotate or crane.
+Shot 1 (0-4s): Medium shot from behind, Coco at the back center faces the cabinet wall. Key pose 1: both hands over her eyes, hold. Key pose 2: her head tips down in one step as she counts, hold. Key pose 3: her head tips up in one step, hold. The camera slowly dollies in, {하나, 둘, 셋…}, dust motes drift in the window light.
+Shot 2 (4-7s): Medium shot, the camera follows Lobi from the front-left as he crosses from the floor center toward the sofa on the right; his body stays turned about 45 degrees toward the camera, both eyes visible, never in pure profile. Key pose 1: tiptoeing with one foot raised, hold. Key pose 2: the other foot raised, hold. Key pose 3: he stops, snaps to three-quarter view, looks straight into the camera lens at the viewer and puts a finger to his mouth, {쉿…}, hold. Then the camera whip-pans left to Coco at the back center, still covering her eyes and counting, {넷, 다섯…}, hold. <soft tiptoe steps>
+Shot 3 (7-9s): Static medium shot of the long yellow curtain on the left. Key pose 1: two small orange feet of Lala under the hem, hold. Key pose 2: the feet wiggle and the curtain shakes, hold. <muffled baby giggle>
+Shot 4 (9-12s): Close-up from behind Coco's head and shoulders at the back center, the cabinet wall beyond her. Key pose 1: she drops both hands with one smear frame, {열! 찾는다!}. Key pose 2: she snaps around instantly to a three-quarter view with a proud grin and holds for one second. The curtain on the left sways slightly.
+Shot 5 (12-15s): Close-up of Coco's face at the back center, filling the frame. Key pose 1: eyes wide, looking left, hold. Key pose 2: looking right, hold. {어디 있지?} Then the camera quickly pulls straight back to a medium-wide shot: Coco small at the back center, Lala's feet under the curtain on the left, a small lump under the striped blanket on the sofa on the right with the tip of Lobi's yellow head peeking out. Hold.
+Shot 6 (15-18s): Hard cut to a medium-wide shot, Coco at the back center in three-quarter view. Key pose 1: she snaps her gaze to the curtain on the left, hold. Key pose 2: she walks toward the curtain in held steps, the camera follows her and pans left, {어디 숨었지?} Dust motes drift in the sunbeam.
+Shot 7 (18-21s): Medium shot in front of the curtain on the left, the camera slowly dollies in. Key pose 1: Coco grabs the curtain with both hands, hold. Key pose 2: she yanks it open with one smear frame, proud face, {러비 찾았다!} Key pose 3: she sees Lala instead and her face changes naturally from proud to puzzled, {…어? 라라?}
+Shot 8 (21-24s): Close-up of Lala at the curtain, smiling with happy closed eyes (smiling expressions only), {히히!}, hold. The camera pulls straight back until Coco, holding the curtain open, stands beside her in the same frame, hold. <cheerful baby giggle>
+Shot 9 (24-27s): Medium shot of the sofa on the right, Coco and Lala small by the curtain in the left background. Key pose 1: Lobi pops up in one snap from under the striped blanket on the sofa, throwing it off his shoulders, big grin, {나 여기!} Key pose 2: Coco and Lala snap toward him and hold.
+Shot 10 (27-30s): Medium-wide shot of the room. Key pose 1: Lobi hops off the sofa to the floor center with one smear frame. Key pose 2: Coco and Lala run to him and line up from left to right as Coco, Lobi, Lala, each in three-quarter view. Key pose 3: all three laugh, hold, {한 번 더 하자!} The camera slowly pulls straight back and holds. <happy group laughter>
+Constraints: Lock the 3D look of the reference images and the 2D-style limited-animation movement; no drift to realism or to smooth cinematic 3D character animation; the faces, bodies and colors of Coco, Lobi and Lala must strictly match their images; no clones or extra characters; the room layout and props stay the same, and every shot starts from the positions where the previous shot ended.
+General constraints: Keep no subtitles; do not generate logo; do not generate watermarks; no background music; holds still show subtle breathing and blinking, not statues.
+--- END PROMPT ---

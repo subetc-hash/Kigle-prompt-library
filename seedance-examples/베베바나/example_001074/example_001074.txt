@@ -1,0 +1,92 @@
+﻿예제번호: example_001074
+참조 이미지: example_001074.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 43 고양이 강아지 까꿍
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 10초 / 오디오 켜짐
+
+참조 매핑
+@apple → @apple.png
+@cat → @cat.png
+@heightcba → @heightcba.png
+@bghall → @bghall.jpeg
+@bathroom1 → @bathroom1.jpg
+@sc01 → @sc01.wav
+@sc01_2 → @sc01_2.png
+@bana_6 → @bana_6.png
+
+프롬프트
+--- BEGIN PROMPT ---
+EXACTLY 2 SHOTS TOTAL. HARD CUT between Shot 1 and Shot 2. Total duration 9.7 seconds. NO other cuts, NO dissolves, NO extra shots.
+SHOT 1 is a CLOSE-UP throughout. SHOT 2 is a BUST-SHOT-LEVEL CLOSE-UP throughout (chest and above). NEVER a wide shot, NEVER a full-body shot, NEVER a long shot.
+
+## Subject
+Exactly 3 characters appear in the whole video, each exactly once, NEVER duplicated:
+- @apple: toddler girl with round red apple-shaped bob hair, green leaf and brown stem on top, white tee under red dungaree dress with yellow buttons, green shorts, red mary jane shoes. Keep her design exactly as the reference.
+- @bana_6: baby boy with blond hair and a curled banana-like tuft on top, big ears, yellow-and-orange chevron knit onesie with built-in feet. Keep his design exactly as the reference.
+- @cat: small gray tabby kitten with a purple collar and a gold bell, big green eyes, white chest and paws. Keep its design exactly as the reference.
+
+SCALE (follow @height_cba exactly): @apple is the tallest. @bana_6 is about 4/5 of Apple's height. @cat is the smallest, about half of Apple's height, its ear tips reaching roughly Bana's eye level. These ratios must stay constant in every frame. All characters are grounded on the floor, feet always touching the floor, NO floating, NO gliding.
+
+## Audio
+@sc01 is the audio track. Shot 1 = instrumental intro (0.0s - 4.0s), NO dialogue. Shot 2 = Apple's line "Kitty, where are you? It's bath time!" (4.0s - 9.7s).
+Lip sync ONLY for @apple, ONLY during her line. NO dialogue lip sync for @cat and @bana_6 at any time (they make no speech; @bana_6's "huh..?" is expression only, mouth slightly open, no talking). The cat's yowling in Shot 1 is an open-mouthed yowling expression and animation only, NOT speech and NOT lip sync to the audio track.
+
+## Context & Style
+High-quality 3D animated film style, soft cinematic lighting, warm pastel colors, children's animation look.
+Location: a bright indoor home hallway. Cream upper wall, olive-green lower wall panel, wooden floor. Mint-teal framed white bathroom door with frosted glass window and gold knob (see @bg_hall and @sc01_2). Inside the door is a blue bathroom (see @bathroom_1), visible through the open doorway as in @sc01_2, it does not need to be clearly seen.
+EXACTLY ONE DOOR exists in the whole video: the mint-teal bathroom door. There is NO second door, NO duplicate of the bathroom door, NO repeated door, NO other door of any kind, NO door-shaped frame, NO door-shaped panel, NO window, NO opening in the wall anywhere in either shot.
+The space to the RIGHT of the bathroom door is a plain, continuous, flat wall (cream upper wall, olive-green lower panel) running straight on to the right along an open hallway with a wooden floor. This wall is completely empty and plain: NO doors, NO door frames, NO windows, NO pictures, NO furniture, NOTHING on it, for as far as the camera can see.
+NOTHING else is visible in the frame: NO stairs, NO yellow door, NO blue door, NO arched door, NO bench, NO other doors, NO other furniture. The camera never shows anything beyond the plain continuing wall and floor.
+DAYTIME ONLY. Bright soft natural daylight indoors. NO golden hour. NO sunset. NO dusk. NO warm orange sky.
+Background furniture and doors are LOCKED AND FROZEN, NO EXCEPTIONS. Do NOT add, move, or change any furniture, door, or prop. Do NOT add any extra characters.
+
+## DOOR RULE (very important, applies to both shots, NO EXCEPTIONS)
+The bathroom door looks exactly like in @sc01_2: mint-teal door frame, white door leaf with a frosted glass window at the top and a mint-teal panel at the bottom, gold round doorknob. The door has its HINGES on its LEFT edge (the left side of the screen) and the doorknob on its RIGHT edge. The door opens OUTWARD, toward the hallway and toward the camera, NOT into the bathroom.
+How it moves (only once, in Shot 1): the door leaf pivots around its LEFT edge. Its RIGHT edge (the knob edge) swings OUT toward the hallway and the camera. The LEFT edge stays fixed at the left side of the door frame and never moves.
+How it looks when open, exactly like @sc01_2: the open door leaf stays on the LEFT side of the doorway, angled out into the hallway toward the camera, with the doorknob on its free outer edge. The doorway opening is on the RIGHT of the door leaf and shows the blue bathroom inside, and everyone passes through that opening on the right side of the leaf.
+The door leaf is NEVER seen on the right side of the doorway. The door NEVER swings open toward the left. The hinges are NEVER on the right. The doorknob is NEVER on the left edge. The door NEVER opens into the bathroom. The door is NEVER closed at any moment of the video.
+
+## DOOR CONSISTENCY LOCK (both shots, NO EXCEPTIONS)
+The door in Shot 2 is EXACTLY the same single door as in Shot 1 and @sc01_2: same design, same hinge side (LEFT), same opening direction (OUTWARD toward the hallway), same opening side (opening on the RIGHT of the leaf). At the start of Shot 2 the door is OPEN, in exactly the same open pose it had at the end of Shot 1 (the cat left it open). The door is NOT closed at the start of Shot 2. After the cat opens it in Shot 1, the door stays open and FROZEN for the rest of the video: nobody touches, pushes, pulls, closes or moves it again. There is only this ONE door, it is never duplicated.
+
+## Action
+SHOT 1 (0.0s - 4.0s), no dialogue, instrumental intro:
+The bathroom door starts SLIGHTLY open exactly like in @sc01_2: the door leaf is swung out a little toward the hallway, pivoting on its left hinged edge, with its right knob edge pulled out slightly toward the camera. The doorway opening is on the RIGHT side of the leaf and shows a sliver of the blue tiled bathroom (@bathroom_1) inside.
+- 0.0s - 1.2s: A short calm beat. ONLY the slightly open door, as in @sc01_2, is on screen. The door does not move. NOBODY and NOTHING comes out yet. The camera is already slowly moving.
+- ~1.2s (on the musical accent): @cat suddenly bursts out through the doorway opening on the RIGHT side of the door leaf in total panic, running on all four paws, with a few soap foam patches on its back and head, its fur slightly wet and damp. As it bursts out it lets out a long, drawn-out, startled yowl like "WEEEEEOOOWNG!!!": mouth wide open, head thrown slightly up and forward, eyes huge and wide, ears flattened back, a "NO WAY, I hate this!" look of pure dislike and total shock. It keeps yowling with its mouth open the whole time it runs, from bursting out until it passes the camera and leaves the frame. As the cat dashes through, it pushes the door open WIDER: the door leaf pivots on its LEFT hinged edge and its right knob edge swings further OUT toward the hallway and the camera, ending moderately open (roughly 60-70 degrees) and then staying open, still on the LEFT side of the doorway.
+- The camera is positioned just slightly to the RIGHT of the bathroom door, very close to it, at a low angle, looking at the door at a slight angle like in @sc01_2. @cat dashes out of the opening and runs to the RIGHT along the plain wall of the hallway, straight toward and right past the camera position, so it brushes by extremely close to the lens, right next to the camera (around 2.3s, on the big musical hit), with a strong sense of speed and proximity, growing larger in frame as it passes.
+- ~3.0s: @cat has exited the frame to the RIGHT side of the screen, completely out of frame.
+- 3.0s - 4.0s: a calm lingering beat on the empty close-up of the now open door area, the door staying open and still in the same pose, camera still slowly drifting, then the hard cut at 4.0s.
+Only @cat appears in Shot 1. @apple and @bana_6 do NOT appear in Shot 1.
+
+SHOT 2 (4.0s - 9.7s), HARD CUT:
+The EXACT SAME single bathroom door as Shot 1, ALREADY OPEN in the same open pose the cat left at the end of Shot 1 (leaf on the left side of the doorway, hinged on its left edge, swung out toward the hallway, opening on the right of the leaf), now seen from a different angle. The door is NOT closed. It is the ONLY door in the frame. To the right of it the wall is plain and empty, with no other door. At 4.0s NOBODY is on screen yet, only the open bathroom door and the plain hallway wall with the green lower panel continuing to the right.
+- ~4.0s: @apple walks OUT through the already open doorway, through the opening on the right side of the door leaf, WITHOUT touching, pushing, pulling, opening, or moving the door at all. The door stays exactly as it is. She is flustered and worried, both hands with a little soap foam on them, chasing the cat. She comes out heading to the RIGHT, along the plain hallway wall.
+- 4.1s - 4.7s "Kitty,": @apple, lip synced, raises one foam-covered hand and cups it beside her mouth like calling loudly for someone, the other hand slightly raised, soap foam visible. She calls toward the right along the hallway (the direction the cat ran).
+- ~4.5s: @bana_6 toddles out through the SAME already open doorway right behind @apple, without touching the door, fast baby waddle steps, with a confused "huh..?" expression (eyebrows up, mouth slightly open, NO LIP SYNC).
+- 4.9s - 5.9s "where are you?": @apple, lip synced, keeps her hand cupped at her mouth and looks around. @bana_6 stops just behind her and looks around left and right (two clear head turns), searching for the cat.
+- 5.9s - 6.6s: short pause, @apple keeps scanning, @bana_6 keeps looking around.
+- 6.6s - 7.8s "It's bath time!": @apple, lip synced, starts running toward the RIGHT along the hallway and runs OUT of the frame through the RIGHT EDGE of the screen during the final word "time!" (around 7.5s), outrunning the camera. At about 7.2s @bana_6 notices her and runs after her with quick toddler waddle steps, searching for the cat too, and also runs out through the RIGHT EDGE of the screen by about 8.2s, outrunning the camera. Both clearly leave the frame to the right, they are NOT kept in frame by the camera.
+- 8.2s - 9.7s: close-up of the plain empty hallway wall and floor, the same single open bathroom door still open and still in the same pose at the left edge, and the plain wall continuing to the right with NO other door, both characters fully out of frame, camera still gently drifting until the end.
+Only @apple and @bana_6 appear in Shot 2. @cat does NOT appear in Shot 2. Both exit to the RIGHT, same direction as the cat in Shot 1. The door never moves, is never closed, and is never duplicated in Shot 2.
+
+## Camera
+The camera is NEVER completely still. It always keeps a slow, smooth, continuous movement.
+SHOT 1: Camera placed slightly to the RIGHT of the bathroom door, very close to the door, at a LOW-ANGLE (near floor level) with a DUTCH ANGLE, matching the look of @sc01_2. Starts as a tight close-up on the slightly open bathroom door and its opening (on the right side of the door leaf), then zooms/dollies out only VERY SLIGHTLY and SLOWLY and SMOOTHLY through the whole shot, always staying a close-up (never widening into a medium, full, or wide shot). When @cat bursts out yowling and races to the right, it passes extremely close to the camera, brushing right beside the lens, then leaves the frame on the right. The camera keeps a gentle continuing drift after the cat leaves. The camera itself does NOT get hit or shaken by the cat.
+SHOT 2: A semi-side (3/4 profile) BUST-SHOT-LEVEL close-up: the frame shows the characters from about the chest up, heads and upper bodies clearly visible, never full body, never a wide shot. The open bathroom door is at the left edge of the frame at the start, and the plain empty wall continues on the right side of the frame. From 4.0s to 6.6s the camera does only a very slight, very slow lateral drift to the right over a SHORT distance with a very gentle push-in, keeping @apple and @bana_6 in this chest-up close-up as they walk out of the doorway, call out, and look around, so that no new part of the hallway is revealed. From 6.6s, when @apple starts running, the camera does NOT follow them anymore: it slows to an almost-still, very slow gentle drift (still never completely frozen), so @apple and then @bana_6 run past the camera's framing and exit through the RIGHT EDGE of the frame. The camera does NOT chase them and does NOT pan to keep them in frame. After they leave, the camera keeps drifting very slowly on the plain empty wall until the end. The camera never reveals anything other than the plain wall, the floor and the one bathroom door (no stairs, no other doors, no second door).
+Smooth, no shaking, no sudden whip moves.
+
+## Reference
+@apple = Apple character sheet. @bana_6 = Bana character sheet. @cat = Cat character sheet.
+@sc01_2 = the exact look of the bathroom door and its SLIGHTLY OPEN starting pose in Shot 1: hinges on the LEFT, knob on the RIGHT, leaf on the LEFT side of the doorway swung slightly out toward the hallway, opening on the RIGHT of the leaf, blue bathroom visible inside. In Shot 1 the cat pushes it wider in this same direction (left edge hinged, right knob edge swinging out toward the hallway). In Shot 2 the same door stays open in the pose the cat left it, never closed.
+@bg_hall = hallway background, use ONLY the single mint-teal bathroom door and the cream/olive-green wall and wooden floor from it; the blue arched door and the bench in @bg_hall must NOT appear. To the right of the bathroom door there is only a plain empty wall, NO other door.
+@bathroom_1 = interior of the bathroom behind the door (reference only, visible through the doorway as in @sc01_2; it must NOT dictate camera framing).
+@height_cba = height comparison, cat < bana < apple, keep these ratios in every frame.
+Keep door, wall, floor, lighting identical in both shots. DAYTIME ONLY, NO golden hour, NO sunset.
+DOOR RULE reminder: only ONE door exists in the whole video (the bathroom door), never duplicated, no other door anywhere. It opens only in Shot 1 (by the cat), hinges LEFT, knob RIGHT, swinging OUTWARD toward the hallway, NEVER to the left, NEVER into the bathroom. In Shot 2 the door is ALREADY OPEN in the same pose, NEVER closed, nobody touches it.
+@sc01 is the audio track — sync shot transitions to lyric timing: hard cut at 4.0s, Apple's line starting at 4.1s.
+--- END PROMPT ---

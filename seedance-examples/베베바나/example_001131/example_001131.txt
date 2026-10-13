@@ -1,0 +1,72 @@
+﻿예제번호: example_001131
+참조 이미지: example_001131.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 42 머리 배 다리 발
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 4초 / 오디오 켜짐
+
+참조 매핑
+@apple → @apple.png
+@blue → @blue.png
+@heightbab → @heightbab.png
+@playroom4 → @playroom4.png
+@표정_바나나 → @표정_바나나.png
+@표정_사과 → @표정_사과.png
+@bana2 → @bana2.png
+@07_춤2 → @07_춤2.mp3
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 4s, 16:9.
+
+Subject:
+@bana2 is BANA, a 1-year-old toddler — the smallest and chubbiest, with a big round head and short stubby limbs — preserve this character's appearance exactly.
+@apple is APPLE, a 3-year-old child — preserve this character's appearance exactly.
+@blue is BLUE, a 5-year-old child — preserve this character's appearance exactly.
+@height_bab is the scale reference — maintain the exact height ratio shown in that image throughout: BANA is the smallest, APPLE is about 1.4 times BANA's height, and BLUE is the tallest at about 1.7 times BANA's height (BLUE is about 1.2 times APPLE's height). BANA's head top reaches about BLUE's chest and just below APPLE's shoulders. APPLE's and BLUE's heads are each about 1.4 to 1.5 times as wide as BANA's head.
+
+Context & Style:
+The scene takes place inside the bright, cheerful indoor playroom @playroom_4. The room is uniformly bright, with soft, even indoor lighting that fills every corner equally. No sunlight enters the room at all. A large white sheet of paper is spread flat on top of the round rainbow carpet, covering its center. All three children stand ON TOP OF THE WHITE PAPER, with the soles of their shoes and feet fully on the paper surface. The paper lies on the carpet, so the children are standing on the paper, not directly on the carpet and not on the bare floor. The children are small relative to the room — realistic character-to-room scale, never oversized. No sunlight, no sunbeams, no light rays, no light shafts, no sun patches or bright spots on the floor or walls, no window light streaming in, no strong directional light, no sunset or dusk tones.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, soft even lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cozy atmosphere, cinematic depth of field, gentle heartwarming family tone, Walt Disney Animation Studios quality.
+
+Audio / lip-sync: the soundtrack is a cheerful children's song about body parts. All three characters — BANA, APPLE and BLUE — sing the lyrics together, and their mouth movements must match every sung word exactly.
+Lyrics: "Head, tummy, legs and feet"
+No other lines are spoken.
+
+Formation: the three children stand in a row on the white paper that lies on the rainbow carpet. From the viewer's left to right: BLUE, BANA, APPLE. BANA stands in the center, slightly in front of the other two. BLUE and APPLE stand on either side of BANA, each slightly behind BANA. All three stay on the paper the whole time and never step off it onto the carpet or floor. They keep their heights in the ratio of @height_bab (BLUE tallest, APPLE in the middle, BANA smallest).
+
+Start frame / End frame:
+Start frame: a full shot from a front, child-eye-level view. All three children stand in a row on the white paper that lies on the rainbow carpet, BLUE on the left, BANA in the center slightly forward, APPLE on the right. All three have both index fingers pointing at their head, with big open-mouth smiles, singing "Head". The whole room, the arched doorway and the wall decorations are visible behind them.
+End frame: the camera has arced about 30 degrees around the children and moved slightly closer and a little lower, still a full shot with all three visible from head to toe. All three are still standing on the white paper, pointing down at their feet with both index fingers, with happy smiles. BLUE bends forward slightly with both index fingers pointing at his shoes, BANA stands upright with both index fingers pointing down toward her feet, and APPLE leans forward slightly with both index fingers pointing down toward her feet. The paper, crayons on the paper and the rainbow carpet around it are visible in the foreground.
+
+Dance motion: the three children do the same cute, simple body-part pointing dance, exactly in sync with the lyrics. Each lyric word has ONE fixed pointing pose, made with the index fingers of BOTH hands:
+"Head" → both index fingers point to the top of the head.
+"tummy" → both index fingers point to the tummy.
+"legs" → both index fingers point to the KNEES.
+"feet" → both index fingers point to the FEET, bending forward slightly.
+Hand rule: on each word, the hands move quickly and cleanly into that pose and then HOLD it completely still, with no wiggling, no waving, no tapping, no extra hand or finger movement, until the next word begins. The hands only move during the brief transition between one word and the next.
+Hip rule (dance-style alternating sway): the hips move as a slow, smooth, dance-like step to one side per lyric, alternating direction each time, from the viewer's perspective: on "Head" the hips sway to the RIGHT, on "tummy" the hips sway to the LEFT, on "legs and" the hips sway to the RIGHT, on "feet" the hips sway to the LEFT. Each sway is ONE gentle, smooth shift of the hips to that side, held through the word, like a cute toddler dance step. It is NOT a fast shake, NOT a quick wiggle and NOT a repeated bounce. The sway is small and gentle, never big or exaggerated, and the upper body and hands stay stable while the hips move. Their feet stay planted on the paper. They keep a happy, joyful expression the whole time, smiling while they sing.
+
+Action:
+Full shot of all three children standing on the white paper that lies on the carpet, singing "Head, tummy, legs and feet" together with matching lip-sync. It begins exactly like the start frame (all three pointing at their head) and ends exactly like the end frame (all three pointing at their feet). One beat per second:
+0–1s "Head": both index fingers point to the head, held still. Hips sway gently to the RIGHT.
+1–2s "tummy": both index fingers point to the tummy, held still. Hips sway gently to the LEFT.
+2–3s "legs and": both index fingers point to the knees, held still. Hips sway gently to the RIGHT.
+3–4s "feet": both index fingers point to the feet, bending forward slightly, held still. Hips sway gently to the LEFT.
+Hands do not move at all between word changes except to switch to the next pose. All three smile happily. BANA is in the center slightly forward, BLUE on the left and APPLE on the right, slightly behind BANA.
+
+Camera:
+Full shot of all three children, kept as a full shot the whole time (all three visible from head to toe). The camera does a clear, visible ARC move around them, circling smoothly by about 30 degrees from the first frame to the last, while at the same time slowly zooming in a little and lowering slightly, steady and soft, never fast. BLUE stays on the left and APPLE stays on the right throughout the arc.
+
+Reference:
+Consistent characters and consistent room design throughout. The children keep the same height ratio from @height_bab.
+Negative: no children standing on the bare carpet or floor, no children standing outside the white paper, no feet off the paper, no stepping off the paper, no paper missing under the children, no sunlight, no sunbeams, no light rays, no sun patches on the floor, no window light streaming in, no strong directional light, BANA is not the same size as the other children, no oversized BANA, no characters out of sync with the lyrics, no mouths moving without matching the words, no exaggerated or fast dancing, no hip movements too big, no sad or serious expressions, no static camera (the arc must be visible), no cropping of the children's heads or feet, no hand movement or finger wiggling between pointing poses, no hands drifting away from the pointed body part during a word, no pointing with only one hand, no pointing to the wrong body part, no pointing out of sync with the lyric, no fast hip shaking, no rapid hip wiggling, no repeated hip bouncing, no hip sway in the wrong direction or out of order, no hip movement that breaks the pointing pose.
+No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles, no lyrics shown on screen.
+Natural, smooth, gentle motion and expressions — cute and toddler-like, never over-the-top.
+Bright, even indoor lighting with no sunlight entering the room, warm gentle color grade.
+--- END PROMPT ---

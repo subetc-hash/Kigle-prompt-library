@@ -1,0 +1,61 @@
+﻿예제번호: example_001047
+참조 이미지: example_001047.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 42 머리 배 다리 발
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 5초 / 오디오 켜짐
+
+참조 매핑
+@bana2 → @bana2.png
+@apple → @apple.png
+@blue → @blue.png
+@heightbab → @heightbab.png
+@playroom4 → @playroom4.png
+@outline_ref → @outline_ref.png
+@크레용 → @크레용.jpg
+@표정_바나나 → @표정_바나나.png
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 5s, 16:9.
+
+Subject:
+@bana2 is BANA, a 1-year-old toddler — the smallest and chubbiest, with a big round head and short stubby limbs — preserve this character's appearance exactly.
+@apple is APPLE, a 3-year-old child — preserve this character's appearance exactly.
+@blue is BLUE, a 5-year-old child — preserve this character's appearance exactly.
+@height_bab is the scale reference — maintain the exact height ratio shown in that image: BANA is the smallest, APPLE is about 1.4 times BANA's height, and BLUE is the tallest at about 1.7 times BANA's height (BLUE is about 1.2 times APPLE's height). When standing, BANA's head top reaches about BLUE's chest and just below APPLE's shoulders. APPLE's and BLUE's heads are each about 1.4 to 1.5 times as wide as BANA's head.
+@outline_ref is the reference for the orange crayon outline line on the paper: copy its exact shape, orange color and rough crayon texture. The shape is a toddler body lying with arms stretched out sideways and legs apart: a small topknot bump on top of a round head, small ear bumps on both sides of the head, short arms, and two stubby feet. Use it ONLY as the look of the line (shape, color, texture), not as the camera angle or the scale.
+
+Context & Style:
+The scene takes place in the bright, cheerful indoor playroom @playroom_4. Match the lighting, brightness, wall colors and color palette of the @playroom_4 asset exactly: a bright, evenly lit indoor room with soft, clean, shadow-light ceiling lighting, fresh light-green walls, a clean bright white paper and a warm, cheerful, high-key look from the first frame to the last. The whole room stays equally bright in every frame.
+This shot continues directly from the previous shot, which was filmed from directly above: BANA was lying on her back on a gigantic sheet of white paper with her arms and legs spread wide, and APPLE and BLUE had just finished tracing her whole body with orange crayons. In that previous shot the outline's head end was at the top of the frame and its feet end at the bottom, with APPLE beside BANA's head and BLUE beside BANA's legs.
+In this shot the camera looks from the HEAD side of the outline toward its feet side, so the outline is seen UPSIDE DOWN (turned 180°): the topknot and head end of the outline is nearest the camera, at the bottom of the frame, and the two feet of the outline point away from the camera toward the children. The outline must clearly read as upside down in every frame.
+The white paper is thin and perfectly flat like real paper, lying on the round rainbow rug. Seen from the low camera, the paper fills the FOREGROUND along the bottom of the frame as a wide, flat white band, with its far edge running horizontally across the lower part of the frame right at the edge of the rainbow rug, and the left and right edges of the paper curled into small soft rolls at the sides of the frame. The orange outline sits in the foreground on the paper, small compared with the paper, with a vast empty white margin around it. The children are small relative to the room — realistic character-to-room scale, never oversized.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, soft even lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cozy atmosphere, cinematic depth of field, gentle heartwarming family tone, Walt Disney Animation Studios quality.
+
+Audio / lip-sync: the soundtrack is a cheerful children's song. BANA says a single cute, amazed "Woah~!" (toddler voice) once, at about 2.5 seconds, with her mouth movement matching it exactly. After that she says nothing. No other lyrics or lines are spoken by any character.
+
+Action (0–5s):
+Layout at the start: the camera is low, at the children's eye level, just beyond the paper's near side, looking straight across the flat paper toward the far side of the room. Continuing from the previous shot, BLUE (who was beside BANA's legs) stands on the LEFT and APPLE (who was beside BANA's head) stands on the RIGHT, both standing on the rainbow rug just beyond the paper's far edge (not on the paper), both holding their orange crayons in their hands for the entire shot, from the first frame to the last, and nothing else. The arched doorway is centered in the background between them. Both look down toward the paper with proud smiles and stay mostly still, only smiling and breathing gently, so that BANA is the one who moves.
+BANA starts lying on her back on top of the white paper, exactly inside the orange outline, with her arms and legs spread wide, lying naturally on top of the paper (not sunk into it), in the same pose the outline was drawn around. Her head end is toward the camera and her feet end is toward the children. Because she is closer to the camera than the other two at the start, she appears a little larger for a moment purely from perspective — she is not oversized.
+0–1.5s: BANA pushes herself up with both arms and sits up on the spot where she was lying. From the camera she is seen from BEHIND, so the back and top of her round head fills the lower center of the frame while she faces the children. She then rolls forward onto her hands and knees and gets to her feet, wobbly and toddler-cute, never fast.
+1.5–2.5s: BANA steps forward off the far edge of the paper onto the rainbow rug and walks into the gap between BLUE and APPLE. She then turns around to face the camera and looks down at the place where she was just lying. Now the inside of the upside-down outline is completely EMPTY blank white paper with no BANA in it, only the thin orange line.
+2.5–3.5s: Seeing the outline she left behind, her eyes go wide, her mouth opens in a round "o" of wonder, and she says one cute "Woah~!" as if it is magical.
+3.5–5s: In silence, BANA stays standing in the center and keeps gazing down at the outline in fascination; her amazed look slowly softens into a happy, wondering smile with her mouth open in a little grin, she tilts her head slightly, blinks, and gives a small toddler-like bounce of her shoulders and little arm movements in place, her arms slightly out to her sides. She does not walk away and does not look away from the outline.
+From 2.5s on, the three children stand side by side in a row on the rainbow rug with BLUE on the left, BANA in the center and APPLE on the right, all facing the camera and looking down at the outline that lies on the paper in front of them. Their eyes stay open and attentive, looking down at the outline. The outline stays UPSIDE DOWN from the camera's point of view for the whole shot (head end nearest the camera, feet end toward the children) and never rotates or flips. The inside of the outline stays completely empty: no BANA, no doll, no body, no hair, no clothes inside it. The orange line is never drawn on BANA and never colored in. The three children stay small relative to the room.
+
+Camera:
+Eye-level with the children (low camera at child height), full shot that keeps BANA, APPLE, BLUE, the arched doorway and the outline line on the paper in frame. The paper stays as a flat white band in the foreground at the bottom of the frame. The camera slowly and smoothly zooms out for the whole 5 seconds, steady and gentle, no fast movement. As it zooms out, more of the room appears around the children, and by the end the paper's near edge and a strip of the rainbow rug in front of it become visible at the very bottom of the frame, with the small curled paper rolls at the left and right edges.
+
+Reference:
+Consistent characters and consistent room design. The orange outline line keeps the same shape and the same orange color for the whole shot. The room brightness and color grade stay identical to the @playroom_4 asset throughout.
+Negative: no night, no evening, no dim or dark lighting, no dark or moody color grade, no sunlight beams, no light rays, no strong shadows, no right-side-up outline (the outline is never shown with its head at the top of the frame), no BANA left inside the outline after she stands up, no copy of BANA lying on the paper after she gets up, no BANA sunk into, buried in or covered by the paper, no flattened or melted BANA, no speech from BANA other than the single "Woah~!", BANA is not the same size as the other children, no oversized BANA, APPLE and BLUE never stand on the paper, APPLE and BLUE never hold anything other than an orange crayon, no coloring in the outline, no filled areas, no crayon touching BANA, no half-closed or sleepy eyes on any character.
+No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Natural, smooth, gentle motion and expressions — cute and toddler-like, never over-the-top.
+Bright, even indoor lighting, warm gentle color grade.
+--- END PROMPT ---

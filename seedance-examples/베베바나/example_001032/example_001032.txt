@@ -1,0 +1,54 @@
+﻿예제번호: example_001032
+참조 이미지: example_001032.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 42 머리 배 다리 발
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 4초 / 오디오 켜짐
+
+참조 매핑
+@apple → @apple.png
+@blue → @blue.png
+@heightbab → @heightbab.png
+@크레용 → @크레용.jpg
+@playroom4 → @playroom4.png
+@표정_사과 → @표정_사과.png
+@표정_블베 → @표정_블베.png
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 4s, 16:9.
+
+Subject:
+@apple is APPLE — preserve this character's appearance exactly.
+@blue is BLUE — preserve this character's appearance exactly.
+@height_bab is the scale reference — maintain exact height ratio between characters throughout.
+BANA is never visible in this shot; the camera is BANA's point of view.
+
+Context & Style:
+The bright, cheerful indoor playroom @playroom_4, with a large sheet of white drawing paper spread out on the floor. The children are small relative to the room — realistic character-to-room scale. Lighting is soft, even, diffused indoor ambient light only. NO sunlight entering the room: no sunbeams, no light shafts, no sun patches or bright light spots on the floor, walls, or paper, no window glare, no strong directional light, no hard shadows. No sunset or dusk tones.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, soft diffused lighting, expressive cartoon eyes with catchlights, smooth rounded character design, rich saturated color palette, warm cozy atmosphere, cinematic depth of field, gentle heartwarming family tone, Walt Disney Animation Studios quality.
+
+Audio / lip-sync: the soundtrack is a cheerful children's song. Characters' mouth movements must match any sung or spoken lines exactly. In this scene the characters only giggle and smile — no lyrics are sung or spoken.
+
+Action:
+BANA's first-person point of view, lying on her back. The camera lies flat on the white drawing paper in @playroom_4, with the lens pointing straight up at the ceiling — the camera IS BANA's eyes, looking up while lying on her back. BANA herself is not seen at all (no face, body, hands, nose, or shadow of BANA; no lying child in the frame).
+Composition: the ceiling of the room fills the background of the frame, and BLUE and APPLE lean right over the camera and look straight down into the lens from just above it. BLUE is on the left and APPLE on the right; their faces and upper bodies are large in the frame and very close to the camera, seen from below at a steep upward angle — BLUE fills the left side of the frame and APPLE fills the right side, each with the head tilted toward the camera, with big shining eyes and warm smiles, leaving the center-top of the frame open to the ceiling between them. Each child holds an orange crayon in the hand nearest the lower corner of the frame, the crayon held upright near the chin, with the sharpened, pointed tip end pointing up.
+Their actions in order:
+1. (0–1.2s) From the left and right edges of the frame, BLUE and APPLE naturally lean in and their upper bodies come into frame, seen from below, drawing on the paper around the camera with their orange crayons.
+2. (1.2–2.2s) They look at each other and share a short, cute giggle together.
+3. (2.2–4s) Both lean over and look straight down into the lens (toward BANA), and with warm, playful smiles they slowly extend their orange crayons toward the camera, pointed tip first — the sharpened, pointed end of each crayon is the part that reaches toward the lens, while the flat blunt end stays back in their hands. The pointed tips get gradually closer and closer to the camera until the shot ends.
+The crayons stay in proportion to the children's hands. They never cover the whole frame.
+
+Camera:
+Static, locked-off camera positioned at BANA's lying position, lens pointing straight up toward the ceiling (first-person POV from lying on the back), low and close to the paper. No camera movement; only BLUE, APPLE, and the crayons move.
+
+Reference:
+Consistent characters and consistent room design. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Natural, smooth, gentle motion and expressions — cute and toddler-cute, never over-the-top.
+Bright, evenly lit indoor lighting with no direct sunlight, warm gentle color grade.
+--- END PROMPT ---

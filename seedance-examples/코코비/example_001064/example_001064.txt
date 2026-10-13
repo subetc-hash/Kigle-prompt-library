@@ -1,0 +1,44 @@
+﻿예제번호: example_001064
+참조 이미지: example_001064.png
+IP: 코코비
+시리즈: 앱
+프로젝트: 코코비 앱 전화놀이
+모델: Seedance 2.5
+엔드포인트: Kigle
+작업 방식: 앞으로 연장
+생성 조건: 720p / adaptive / 7초 / 오디오 켜짐
+
+참조 매핑
+@코코표정 → @코코표정.png
+@코코기본2 → @코코기본2.mov
+
+프롬프트
+--- BEGIN PROMPT ---
+Extend @코코_기본_2 backward by 7 seconds.
+
+Subject:
+@코코_기본_2 - preserve this character's exact appearance, proportions, and pose baseline throughout.
+@코코_표정 - expression reference sheet; use only expressions shown here.
+
+Context & Style:
+Full-body framing throughout, character always facing camera directly at the same angle as @코코_기본_2.
+Plain flat, evenly lit green screen background (#00FF00). One continuous take with a static locked camera and fixed framing. Overall pacing is calm, gentle, and unhurried throughout - this is a soft,
+relaxed children's character.
+
+Prelude (0-7s), 3 separate actions in order, each one starts at the anchor pose and ends at the anchor pose:
+0-2s (think02): settles at @코코_기본_2's exact anchor pose and neutral expression, then at an easy, unhurried pace shows a cute, focused thinking expression from @코코_표정, relaxed raised brows, bright round eyes, lips in a tiny soft pursed smile, a slightly deeper but still gentle pondering gesture than think01 (slow small head tilt) - adorable, calm concentration with a smooth, relaxed brow, before easing back to @코코_기본_2's exact anchor pose AND neutral expression (mouth closed) with a soft, unforced settle.
+2-4s (fallback): settles at @코코_기본_2's exact anchor pose and neutral expression, then at an easy, unhurried pace shows a curious, smiling expression from @코코_표정, eyes bright and wide with interest, eyebrows lightly raised, a small, slow head tilt as if wondering "hm, what's this?" - cute and playful, brows relaxed and eyes perky, before easing back to @코코_기본_2's exact anchor pose AND neutral expression (mouth closed) with a soft, unforced settle.
+4-7s (bye01): settles at @코코_기본_2's exact anchor pose and neutral expression, then at an easy, unhurried pace shows a bright, cheerful smiling expression from @코코_표정, one hand rises and gives a small, gentle goodbye wave side to side as if happily saying "see you soon" - warm, sweet and sunny, before the hand lowers and easing back to @코코_기본_2's exact anchor pose AND neutral expression (mouth closed) with a soft, unforced settle.
+Each action ends fully back at the anchor before the next begins. The last frame matches @코코_기본_2's first frame exactly - both the anchor pose AND the anchor (neutral) expression - so it joins the original and loops seamlessly.
+
+Reference/Constraints:
+CRITICAL: motion is fluid and continuous frame-to-frame. Every gesture flows as one smooth, continuous curve from start to finish.
+CRITICAL: pacing is calm and unhurried; every transition between actions uses smooth ease-in/ease-out, so each segment blends softly into the next.
+CRITICAL: every action must return to BOTH @코코_기본_2's exact anchor pose AND its exact anchor expression - eyes, mouth, and brow must settle back to the neutral anchor look.
+CRITICAL: preserve @코코_기본_2's character appearance, clothing colors, and body shape exactly.
+Hands stay blunt and fingerless, as in the source.
+Clean, smooth 3D CG surface.
+Keep lighting and color tone identical to @코코_기본_2 source.
+Gestures stay in the air, away from the torso - natural movement only.
+Negative: text, subtitles, watermark.
+--- END PROMPT ---
