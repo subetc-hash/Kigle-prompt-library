@@ -1,0 +1,124 @@
+﻿예제번호: example_001326
+참조 이미지: example_001326.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 46 경찰차 구급차 소방차
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 10초 / 오디오 켜짐
+
+참조 매핑
+@apple → @apple.png
+@blue → @blue.png
+@ambulance → @ambulance.jpg
+@policecar → @policecar.png
+@playroom1 → @playroom1.jpg
+@carroadmap1 → @carroadmap1.jpg
+@sc01 → @sc01.wav
+@height_cbab_3 → @height_cbab_3.png
+@bana_7 → @bana_7.png
+
+프롬프트
+--- BEGIN PROMPT ---
+EXACTLY 2 SHOTS TOTAL. Total duration 9.5 seconds. HARD CUT between Shot 1 and Shot 2. No dissolve, no other transitions. The hard cut happens exactly when Apple's "Beep beep!" begins (~1.2s).
+
+[SUBJECT]
+Apple and Blue are in both shots. Bana appears only in Shot 2, from about 5.8s. Total character count never exceeds 3. NO duplicates, NO extra characters, NO adults.
+- @apple: toddler girl, round red apple-shaped bob haircut with green leaf and brown stem on top, white tee under red dungaree dress with yellow buttons, green shorts, red and yellow mary jane shoes.
+- @blue: toddler boy, round blue bowl-cut hair with a small crown-like tuft on top, white tee under blue zip-up vest, dark navy shorts, navy sneakers with yellow stars. His face, eyes, ears, hair shape and outfit stay EXACTLY as in @blue in every frame, with NO distortion.
+- @bana_7: baby, yellow hair with a curled topknot, yellow knit footed outfit with an orange zigzag stripe and orange sleeves.
+
+[HAND-HELD TOYS — EXACTLY TWO]
+There are EXACTLY TWO hand-held toy vehicles in the whole video:
+1) ONE toy police car (@policecar), held ONLY by Apple.
+2) ONE toy ambulance (@ambulance), held ONLY by Blue.
+Apple holds ONLY the police car. Apple NEVER holds an ambulance. Blue holds ONLY the ambulance. Blue NEVER holds a police car. There is exactly ONE police car and exactly ONE ambulance in the children's hands. NEVER two ambulances, NEVER two police cars. Each child holds their one toy with ONE hand only; the other hand is empty, resting lightly on the mat edge or the rug.
+Both hand-held toys keep their exact design, colors, and shape at all times. NO morphing.
+
+[OTHER TOY CARS ON THE MAT — FIXED]
+The other small toy cars that are placed on the road-map mat in @car_road_map1 (including the small white van) are real toy cars arranged on the mat. They are FIXED ELEMENTS: they stay exactly where they are, in the same position, with the same colors and shapes, throughout both shots. They are NOT ambulances and NOT police cars. Apple and Blue NEVER touch, pick up, push, or move them. They never move by themselves. They are never duplicated, never removed, and never replaced.
+
+[AUDIO]
+@sc01 is the audio track. Lip sync and shot transitions MUST follow the dialogue timing exactly.
+- 0.0s–~1.2s: short instrumental intro. NO LIP SYNC.
+- ~1.3s and ~2.2s: Apple says "Beep beep!" Her voice is heard, but her face is NOT visible (the camera is on the toy cars), so NO visible lip sync here.
+- ~2.6s–5.3s: Apple says "Here comes the police car!" Her mouth movement matches each syllable of the audio exactly.
+- ~5.9s–7.1s: Blue says "I'm the ambulance!" His mouth movement matches each syllable exactly.
+- After 7.1s: no more dialogue. NO LIP SYNC for anyone. Bana never speaks and his mouth stays closed or in a small smile. Blue's mouth is closed and he smiles.
+
+[CONTEXT & STYLE]
+A natural, charming scene of two small children kneeling on the floor and playing with toy cars on a toy car road-map mat, holding the toy cars in their hands and going "vroom vroom".
+High-quality 3D animated film style, professional feature animation quality, soft cinematic lighting, vivid but gentle colors, cheerful toddler-friendly mood.
+DAYTIME ONLY. NO golden hour. NO sunset. NO dusk. NO warm orange sky. Bright natural daylight coming through the windows, exactly as in @playroom1.
+The setting is the playroom in @playroom1.
+BACKGROUND ELEMENTS ARE LOCKED AND FROZEN. NO EXCEPTIONS. The rainbow wall decorations, arched window, slide, steps, ball pit, cloud-shaped chairs, green playhouse, round table with chairs, bouncy unicorn toy, sun-shaped ceiling light, the round rug and the road-map mat with the toy cars placed on it all stay in the exact same position, shape, and color throughout both shots. NEVER move, add, remove, or redesign anything in the background.
+
+[RUG AND MAT — IMPORTANT]
+There is exactly ONE round pink-and-yellow rug in the room, and the toy car road-map mat (@car_road_map1) lies flat in the exact CENTER of that rug, exactly as in @playroom1. The mat sits ON TOP of the rug. The rug is NOT a separate object behind the mat. In close-ups, the rug appears ONLY as a narrow pink and yellow rim bordering the edges of the mat. NEVER create a second rug, NEVER show a rug, carpet or rainbow carpet behind the mat or the characters as a separate item, and NEVER duplicate or move the rug or the mat.
+
+[CHARACTER POSITIONING]
+Apple and Blue kneel SIDE BY SIDE, close together, at the same edge of the road-map mat, directly facing the mat. From the camera's point of view in Shot 2, Apple is on the LEFT and Blue is on the RIGHT, with the mat right in front of them. Their order never changes. They kneel on the rug at the edge of the mat.
+Bana (Shot 2 only) stands directly BEHIND Apple and Blue and pops his head up between them.
+
+[PLAY POSTURE — IMPORTANT]
+Apple and Blue are KNEELING with their knees on the rug, UPPER BODY LEANED FORWARD over the road-map mat, one arm reaching down to the road, exactly like real toddlers playing with toy cars on the floor. They NEVER stand upright while playing. Their knees stay on the floor and they do not float.
+If a car needs to travel forward, Apple and Blue move it forward ONLY by shuffling forward on their knees a little at a time, keeping their hand on the car, so the car moves forward together with the child's arm. Their hands never stretch away from the cars and never let go.
+
+[SCALE]
+Follow @height_cbab_3 exactly for relative size. Bana is the smallest, Apple is a bit taller, Blue is the tallest. The toy police car and toy ambulance are small hand-held toys, roughly the size shown in @height_cbab_3 (a toy car is only about as tall as a toddler's hand and much smaller than the characters' heads). Characters are small toddlers and must NOT look large compared to the playroom. Keep the room, the rug, the road-map mat, and the characters in realistic proportion to each other as in @playroom1.
+
+[HAND-HOLD RULE — MOST IMPORTANT, HIGHEST PRIORITY]
+Apple's one hand HOLDS the police car in EVERY frame of BOTH shots. Her fingers are wrapped firmly around it, her hand always touching it.
+Blue's one hand HOLDS the ambulance in EVERY frame of BOTH shots. His fingers are wrapped firmly around it, his hand always touching it.
+Neither child EVER lets go, releases, drops, throws, or lifts the car away, not even for one frame. Neither car EVER moves by itself or rolls away. This stays true even when the cars are out of frame (cropped by the camera): the children keep holding and gently moving the cars below the frame the whole time.
+The cars move slowly, smoothly and playfully, with small cute wobbles, going "vroom vroom". NO fast movement, NO drifting, NO racing.
+
+[ACTION]
+SHOT 1 (0.0s–~1.2s) — Beep beep starts at the end of this shot
+- Camera: a COMPLETE TOP VIEW, looking straight DOWN from directly above, in an EXTREME CLOSE-UP on the toy car road-map mat. The mat surface (roads, small buildings, trees, and the toy cars placed on it) fills almost the entire frame, and the outer edges of the mat are beyond the frame. This is NOT a wide shot. Bana is NOT in this shot.
+- On the mat in the frame: the police car held in Apple's hand (left) and the ambulance held in Blue's hand (right), moving slowly side by side in the same direction along the road. Their hands, wrists and forearms reach into the frame from the top edge. The children's bowed heads and shoulders are only partly visible at the very top edge of the frame, the rest of their bodies is cropped by the frame. The other toy cars placed on the mat stay still in their fixed positions. The rug is not visible, or only a sliver of rim at the very edge.
+- The camera performs an extremely SLOW, SMOOTH, STEADY ZOOM IN for the entire shot, at a perfectly CONSTANT, CONSISTENT speed from the first frame to the last frame. NO acceleration, NO deceleration, NO sudden speed change, NO shake, NO pan, NO tilt, NO rotation. The camera stays straight down.
+- Short instrumental intro, NO lip sync.
+
+SHOT 2 (~1.2s–9.5s)
+- HARD CUT exactly as Apple's "Beep beep!" begins. A LOW-ANGLE EXTREME CLOSE-UP on the two toy cars on the road-map mat. Apple's police car (left) and Blue's ambulance (right) move SIDE BY SIDE, in the SAME direction, VERY SLOWLY toward the camera, each held by one child's hand (the hands and fingers gripping the cars are visible). The road of the mat is below them, and only the cars, the hands, and the mat surface are in frame. The children advance the cars by shuffling forward on their knees little by little, hands always on the cars. The other toy cars placed on the mat stay still in their fixed positions.
+- ~1.2s–2.4s: "Beep beep!" is heard while the camera holds on the two cars. NO visible lip sync.
+- ~2.5s–5.5s: As Apple says "Here comes the police car!", the camera slowly TILTS UP from the toy cars to a close-up of Apple's face. While the camera tilts up, the toy cars and the road-map mat go OUT OF FRAME below, cropped away. Apple and Blue are STILL kneeling, leaning forward, and STILL holding and slowly moving the cars below the frame, with their hands never letting go. Apple's face is in close-up, tilted slightly down toward the mat, with a bright smile, sparkling eyes, and happy bobbing movements as she plays. Her lip sync matches the audio exactly. Blue is partly visible at the right edge of the frame beside her.
+- ~5.6s–9.5s: As Blue says "I'm the ambulance!" (~5.9s–7.1s), the camera performs a smooth ARC SHOT, curving around the two children from Apple's side to Blue's side, ending with Blue as the main subject at the same close-up size. THE SHOT SIZE DOES NOT CHANGE during the arc (no zoom in, no zoom out, no dolly forward or back). The arc is slow and smooth. Blue says "I'm the ambulance!" with perfect lip sync, with a joyful excited face, still kneeling, leaning forward and holding the ambulance below the frame, his hand never letting go. The cars and mat stay out of frame.
+- From about ~5.8s: Bana comes from behind Apple and Blue and peeks his face out between the two of them, appearing in the gap between Apple and Blue. He looks down at the toy road-map and the toy cars below the frame, with wide sparkling eyes, a delighted "wow!!" expression, and a big bright smile. His mouth does NOT speak, NO LIP SYNC for Bana. He stays between Apple and Blue until the end of the shot. Bana appears only ONCE, one single Bana.
+- After Blue's line (7.1s–9.5s): the arc continues gently and ends with Blue and Bana in frame with Apple at the edge. The cars remain below the frame, still held by the children's hands.
+
+[CAMERA]
+SHOT 1: Complete top view (straight-down, bird's-eye) EXTREME CLOSE-UP on the road-map mat, with an extremely slow, smooth zoom in at a constant, consistent speed from start to end.
+SHOT 2: Low-angle extreme close-up on the two cars moving side by side toward the camera, then a slow TILT UP to Apple's face, then a slow ARC SHOT to Blue with the shot size staying the same.
+Camera movement is smooth and cinematic. NO shaking.
+
+[CONSTRAINTS]
+EXACTLY ONE POLICE CAR AND EXACTLY ONE AMBULANCE IN THE CHILDREN'S HANDS. APPLE HOLDS ONLY THE POLICE CAR. BLUE HOLDS ONLY THE AMBULANCE. NEVER TWO AMBULANCES. NEVER TWO POLICE CARS. EACH CHILD HOLDS THEIR TOY WITH ONE HAND ONLY.
+THE OTHER TOY CARS PLACED ON THE ROAD-MAP MAT (INCLUDING THE SMALL WHITE VAN) ARE FIXED ELEMENTS. THEY STAY EXACTLY WHERE THEY ARE, NEVER MOVE, ARE NEVER TOUCHED OR PICKED UP BY THE CHILDREN, AND ARE NOT AMBULANCES OR POLICE CARS.
+SHOT 1: TOP VIEW EXTREME CLOSE-UP ON THE ROAD-MAP MAT, NOT A WIDE SHOT. ONLY A VERY SLOW, SMOOTH, CONSTANT-SPEED ZOOM IN. NO OTHER CAMERA MOVEMENT.
+APPLE'S HAND NEVER LEAVES THE POLICE CAR, NOT EVEN FOR ONE FRAME, EVEN WHEN THE CAR IS OUT OF FRAME. BLUE'S HAND NEVER LEAVES THE AMBULANCE, NOT EVEN FOR ONE FRAME, EVEN WHEN THE AMBULANCE IS OUT OF FRAME. THE CARS NEVER MOVE BY THEMSELVES. NO LIFTING THE CARS UP TO SHOW THEM.
+THE POLICE CAR AND THE AMBULANCE ALWAYS MOVE SIDE BY SIDE IN THE SAME DIRECTION. NO FAST SPEEDING, NO DRIFTING, NO RACING.
+APPLE AND BLUE ALWAYS KNEEL SIDE BY SIDE WITH THEIR UPPER BODIES LEANED FORWARD OVER THE MAT. NEVER STANDING UPRIGHT. FORWARD MOVEMENT ONLY BY SHUFFLING ON THEIR KNEES.
+DURING THE ARC SHOT THE SHOT SIZE STAYS THE SAME.
+ONLY ONE ROUND RUG EXISTS, AND THE ROAD-MAP MAT LIES ON ITS CENTER. NO SECOND RUG, NO SEPARATE CARPET BEHIND THE MAT OR THE CHARACTERS.
+Bana is NOT in Shot 1. Bana appears only once in Shot 2 between Apple and Blue. NO duplicate characters. Order stays Apple (left), Blue (right).
+NO background changes. NO furniture movement. DAYTIME ONLY, NO sunset or golden hour.
+Characters must NOT float: knees and feet stay on the floor.
+Toy cars stay small and keep their design. NO morphing.
+Lip sync ONLY for Apple's "Here comes the police car!" and Blue's "I'm the ambulance!". NO lip sync at any other time and none for Bana.
+Characters are small toddlers. DO NOT make them too large compared to the room and the mat.
+No subtitles, no text on screen.
+
+[REFERENCE]
+@apple is the Apple character reference.
+@blue is the Blue character reference.
+@bana_7 is the Bana character reference.
+@playroom1 is the background image. Keep it exactly as it is, with no changes. It contains exactly ONE round rug with the road-map mat in its center.
+@car_road_map1 is the toy car road-map mat that lies in the center of the round rug in @playroom1. The other toy cars placed on it are fixed elements that stay still and are not the hand-held toys.
+@policecar is the toy police car reference. It is the ONLY toy Apple holds, and there is only ONE.
+@ambulance is the toy ambulance reference. It is the ONLY toy Blue holds, and there is only ONE.
+@height_cbab_3 is the size comparison reference. Match the relative sizes of the characters and toy cars exactly. It is for size only and must NOT dictate camera framing.
+@sc01 is the audio track — sync shot transitions to lyric timing.
+--- END PROMPT ---

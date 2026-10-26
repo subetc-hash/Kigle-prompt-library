@@ -1,0 +1,369 @@
+﻿예제번호: example_001192
+참조 이미지: example_001192.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 43 고양이 강아지 까꿍
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 9초 / 오디오 켜짐
+
+참조 매핑
+@apple → @apple.png
+@blue → @blue.png
+@cat → @cat.png
+@dog → @dog.png
+@height_cdbab → @height_cdbab.png
+@sc19 → @sc19.wav
+@bg_puppy6 → @bg_puppy6.jpg
+@bana_6 → @bana_6.png
+
+프롬프트
+--- BEGIN PROMPT ---
+EXACTLY 1 SHOT TOTAL. ONE CONTINUOUS TAKE. NO CUTS. NO TRANSITIONS. EXACTLY 8 SECONDS.
+
+## [SUBJECT — EXACTLY 5 CHARACTERS]
+
+Exactly 5 characters: BLUE (@blue), BANA (@bana_6), APPLE (@apple), the gray tabby CAT (@cat), and the beagle DOG (@dog).
+
+No other characters. No duplicates.
+
+Preserve the exact character designs from the reference images, including faces, eyes, hair, clothing, body proportions, fur patterns, collars, accessories, and colors.
+
+The CAT wears a purple collar with a gold bell. The DOG wears a green collar with a gold bone-shaped tag.
+
+Maintain the exact relative height ratios from @height_cdbab, from smallest to tallest: CAT, DOG, BANA, APPLE, BLUE.
+
+BANA is a BABY. APPLE is a toddler girl. BLUE is a young boy. The CAT and DOG are much smaller than the children.
+
+## [AUDIO AND LIP SYNC]
+
+@sc19 is the original audio track. Use the supplied audio without replacing, extending, or adding dialogue. Synchronize all actions to the audio.
+
+ONLY BLUE speaks. BLUE's lip movements must match the audio precisely.
+
+- BLUE says "Oh!" at the exact time this word occurs in @sc19, with a wide-open surprised mouth.
+- BLUE then says "They're running away!" at the exact timing of the supplied audio.
+- "They're": approximately 2.30s–2.52s.
+- "running": approximately 2.55s–3.00s.
+- "away": approximately 3.02s–3.50s.
+
+BLUE's face must be visible and turned toward the camera by 1.20s. He must already be pointing toward the CAT and DOG when he speaks.
+
+BLUE's mouth stays closed outside his spoken lines, including during the chase.
+
+APPLE and BANA never speak and have no lip sync. They may open their mouths silently in surprise.
+
+The CAT and DOG never speak.
+
+Preserve the original footsteps and sound effects in @sc19. Do not add dialogue or extra vocalizations.
+
+## [VISUAL STYLE AND LIGHTING]
+
+High-quality 3D animated children's film. Smooth polished materials, appealing character animation, natural body mechanics, and clean rendering.
+
+DAYTIME ONLY. Bright blue sky visible through the window. Soft natural daylight illuminates the room.
+
+No sunset, golden hour, dusk, orange sky, horror lighting, or dramatic lighting changes.
+
+## [BACKGROUND LOCK — @bg_puppy6]
+
+Use @bg_puppy6 as the exact living-room background.
+
+The background is a completely locked, static set. Preserve every object's exact shape, size, color, texture, and position throughout the entire video.
+
+The walls, window, curtains, bookshelves, fireplace, sofa, floor lamp, picture frame, plant, backpack, rug, coffee table, and all three bean bags remain perfectly rigid and unchanged.
+
+No bending, stretching, melting, warping, wobbling, movement, duplication, or disappearance of any background object. All vertical lines remain straight.
+
+The three bean bags are ordinary inanimate objects. They must never transform into characters.
+
+## [RUG LOCK]
+
+There is exactly ONE rug: the original cream-white rectangular rug from @bg_puppy6.
+
+It remains a single continuous piece of fabric, lying flat on the wooden floor beneath the coffee table. Preserve its original size, shape, position, and straight front edge.
+
+At the beginning, exactly two small bumps are visible on the rug's surface near the straight front edge, slightly left of the coffee table's center. The larger bump is caused by the DOG; the smaller bump is caused by the CAT.
+
+There is no tunnel, hole, hollow space, or gap beneath the rug.
+
+The CAT and DOG slide out from beneath the straight front edge onto the bare wooden floor. The rug returns to its original flat shape and remains unchanged afterward.
+
+Never duplicate or split the rug.
+
+## [COFFEE TABLE LOCK]
+
+The wooden coffee table stays in its original position on the rug and remains visible throughout the entire shot.
+
+It never disappears, moves, tips over, or changes shape.
+
+No character passes through or over the table. All children must travel around the same end of the table before entering the shared forward-running route.
+
+## [ROOM LAYOUT]
+
+The camera is positioned at the front of the living room, facing the large window.
+
+From the camera's point of view:
+- The yellow banana bean bag is in the front-left area.
+- The rug and wooden coffee table occupy the center.
+- The blue bean bag is behind and to the left of the coffee table.
+- The red bean bag is behind and to the right of the coffee table.
+- The large window is behind the narrow gap between the two bean bags.
+
+At the beginning, BLUE, BANA, and APPLE stand side by side in the narrow gap between the blue and red bean bags, directly behind the coffee table and in front of the window.
+
+Their exact left-to-right order is BLUE, BANA, APPLE.
+
+Their bodies initially face the window, with their backs toward the camera. Their feet are grounded. The coffee table partially obscures their lower bodies from the low camera angle.
+
+Their initial positions must never be swapped.
+
+## [SCALE LOCK]
+
+The room is full-size, and all characters remain small relative to the background.
+
+BLUE is only slightly taller than the bean bags. While standing in the background, his head remains below the middle of the large window.
+
+APPLE is toddler-sized. BANA is a baby. The CAT is shorter than the coffee table, and the DOG is approximately as tall as the coffee table legs.
+
+The window, sofa, bookshelves, and other furnishings remain much larger than the characters.
+
+Never enlarge characters artificially. Their apparent size increases naturally only when they physically approach the stationary camera.
+
+## [MOVEMENT STYLE]
+
+BLUE, APPLE, and BANA are small children, not athletes.
+
+Their running consists of short, quick toddler steps, gentle bouncing, loose arm swings, and slightly clumsy but believable balance.
+
+BLUE leads and runs fastest, but only at a light toddler trot. APPLE follows slightly more slowly. BANA follows last with tiny, wobbly baby steps and a gentle rocking waddle.
+
+Keep all three children clearly separated, with a visible gap between each child.
+
+The CAT and DOG run naturally on all fours, with believable paw contact.
+
+All feet and paws remain grounded. No floating, sliding without foot contact, unnatural acceleration, or abrupt changes of direction.
+
+## [CRITICAL MOVEMENT PATH — ONE SHARED ROUTE]
+
+This section overrides any conflicting movement instructions elsewhere in the prompt.
+
+The CAT and DOG establish the forward exit path first. BLUE, APPLE, and BANA must follow that same path, in the same direction, one after another.
+
+There is ONE continuous forward-running route for the entire chase.
+
+The route is:
+
+THE FRONT EDGE OF THE RUG → THE OPEN WOODEN FLOOR IN FRONT OF THE COFFEE TABLE → A STRAIGHT APPROACH TOWARD THE CAMERA → A CLOSE PASS IMMEDIATELY BESIDE THE CAMERA → CONTINUED MOVEMENT BEHIND THE CAMERA AND OUT OF FRAME.
+
+### The CAT and DOG
+
+The CAT and DOG begin side by side and run forward together.
+
+They follow a natural, direct route across the wooden floor toward the camera-side exit. Their path does not weave from side to side.
+
+They approach the camera, pass immediately beside it, and continue behind the camera until completely out of frame.
+
+They never turn around or change direction.
+
+### The children
+
+BLUE, APPLE, and BANA begin behind the coffee table.
+
+BLUE moves first. APPLE follows BLUE. BANA follows APPLE.
+
+All three children go around the SAME end of the coffee table, using the available open floor beside the yellow banana bean bag. APPLE must not go around the opposite end of the table.
+
+Once BLUE clears the table, he smoothly joins the forward-running lane established by the CAT and DOG.
+
+APPLE follows the exact same route as BLUE and joins the same lane. BANA follows the exact same route as APPLE.
+
+Do not create separate running routes for the children.
+
+Do not send BLUE and BANA left while sending APPLE right. Do not make the children cross paths.
+
+Once each child joins the shared running lane, the direction of travel remains fixed.
+
+They run forward continuously toward the same physical camera-side exit point. No zigzagging, weaving, side-to-side movement, unnecessary curves, or sudden changes of direction.
+
+The children maintain their original running order: BLUE first, APPLE second, BANA third.
+
+### Natural camera-side pass-by
+
+The camera is a stationary viewpoint in the room.
+
+Every character physically runs past the immediate side of the camera and continues into the space behind the camera.
+
+The final approach must remain smooth and continuous. Characters do not suddenly turn when they reach the foreground.
+
+The CAT and DOG determine which physical side of the camera is used for the exit. BLUE, APPLE, and BANA use that same side.
+
+Characters pass close beside the lens as if running past a stationary person in the room. They do not run directly into the lens or through the camera.
+
+Do not make their faces fill the entire image. Do not create extreme close-ups, artificial enlargement, distorted anatomy, or collision with the lens.
+
+As a character passes the near edge of the camera's field of view, it continues beyond the viewpoint and disappears naturally because it has physically moved behind the camera.
+
+No teleportation, fading, sudden vanishing, clipping, or artificial disappearance.
+
+Once a character is out of frame, it remains gone. It never re-enters.
+
+## [ACTION TIMELINE — 8 SECONDS]
+
+### 0.00s–0.30s — Opening
+
+The scene begins with two small bumps already visible on the single rug's straight front edge, slightly left of the coffee table's center. The larger bump is the DOG; the smaller bump is the CAT. Both wriggle toward the front edge.
+
+BLUE, BANA, and APPLE stand side by side behind the coffee table in the narrow gap between the blue and red bean bags, in the exact order BLUE, BANA, APPLE.
+
+Their bodies face the window. BLUE looks outside with a worried, puzzled expression and a closed mouth.
+
+BANA and APPLE turn only their heads slightly toward each other, looking concerned and puzzled. No one smiles.
+
+At 0.10s, BLUE suddenly freezes as if he senses something behind him.
+
+### 0.20s–0.60s — Animals emerge
+
+The CAT and DOG slide out from beneath the rug's straight front edge, heads first and then bodies, onto the bare wooden floor.
+
+The rug returns to its original flat shape.
+
+Both animals stay low to the floor, on all fours, and glance nervously left and right.
+
+### 0.30s–0.70s — BLUE notices them
+
+BLUE quickly turns his head over his shoulder and discovers the CAT and DOG.
+
+His expression changes from puzzled to shocked.
+
+BANA and APPLE are still looking at each other and have not noticed the animals.
+
+### 0.70s–1.20s — BLUE turns
+
+BLUE turns his whole body away from the window toward the room and camera side. His face becomes clearly visible.
+
+He raises his right arm and points toward the CAT and DOG.
+
+At 0.90s, the CAT and DOG begin running toward the camera along their shared exit route.
+
+### 1.20s–1.50s — Anticipation
+
+BLUE holds his pointing pose, eyes wide and mouth closed until his spoken audio begins.
+
+His face remains visible. He does not begin chasing prematurely.
+
+### 1.50s–1.95s — Surprise
+
+BLUE says "Oh!" in sync with @sc19, with a wide-open shocked mouth while pointing toward the animals.
+
+BANA and APPLE turn toward the CAT and DOG and react with wide eyes and silently open mouths.
+
+The CAT and DOG continue running forward and pass immediately beside the stationary camera, continuing behind it.
+
+### 1.95s–3.50s — Warning
+
+BLUE says "They're running away!" in sync with @sc19, sounding urgent and surprised.
+
+He keeps pointing toward the escape route. BANA and APPLE stare in the same direction.
+
+The CAT and DOG continue their uninterrupted movement and are completely out of frame by approximately 2.40s.
+
+Neither animal stops, turns, or reappears.
+
+### 3.50s–7.20s — Chase
+
+After his dialogue ends, BLUE closes his mouth and starts running.
+
+BLUE follows the designated end of the coffee table, joins the same straight forward-running lane used by the CAT and DOG, and continues without changing direction.
+
+BLUE runs past the immediate side of the camera and continues behind it, fully exiting by approximately 5.40s.
+
+APPLE follows BLUE after a slight delay. She uses the exact same route around the same end of the table, then follows the same straight lane.
+
+APPLE passes immediately beside the camera and continues behind it, fully exiting by approximately 6.10s.
+
+BANA follows APPLE at a slower baby pace. BANA uses the same route and the same exit direction.
+
+BANA passes immediately beside the camera and continues behind it, fully exiting by approximately 6.90s.
+
+Maintain visible separation between the children. Each character remains fully animated and moves continuously until it has physically passed the camera.
+
+Do not make the characters zigzag, weave, cross each other's paths, change lanes, collide, teleport, or disappear abruptly.
+
+The exit times are approximate pacing targets. Natural, continuous movement takes priority over forcing an abrupt disappearance to meet a timestamp.
+
+### 7.20s–8.00s — Empty room
+
+All five characters are completely out of frame.
+
+Hold on the empty living room. The background remains unchanged. The rug is flat, the coffee table remains in its original position, and all three bean bags remain stationary.
+
+No character returns.
+
+## [CAMERA — COMPLETELY STATIC]
+
+EXACTLY ONE CONTINUOUS SHOT.
+
+The camera remains completely fixed in its original physical position and orientation for the entire 8-second video.
+
+CAMERA MOVEMENT: NONE.
+
+NO DOLLY OUT. NO ZOOM IN. NO ZOOM OUT. NO PAN. NO TILT. NO TRACKING. NO ROTATION. NO HANDHELD SHAKE.
+
+Camera height is approximately the height of the coffee table's tabletop, tilted only very slightly upward. Use natural lens perspective, no fisheye, no extreme wide-angle distortion, and straight vertical lines.
+
+### Start framing
+
+Begin with a low-angle view of the two small bumps near the rug's straight front edge, in front of the coffee table.
+
+The rug's front edge, coffee table and legs, the two bean bags beside it, and BLUE, BANA, and APPLE behind the table in front of the window must all be visible in the same frame.
+
+Clearly establish that the rug is one continuous piece extending beneath the coffee table.
+
+The children are small in the background, slightly out of focus but recognizable.
+
+### Framing continuity
+
+The camera framing, viewing angle, perspective, and position remain unchanged from the first frame to the final frame.
+
+The camera never moves to follow the animals or children.
+
+The characters move through the physical space beside the stationary camera. The camera does not rotate or follow them when they pass.
+
+After all characters exit, the same fixed camera continues showing the empty room.
+
+## [REFERENCE PRIORITY]
+
+@bg_puppy6: exact living-room background and layout.
+
+@blue, @bana_6, @apple: exact child character references.
+
+@cat: exact gray tabby cat reference.
+
+@dog: exact beagle dog reference.
+
+@height_cdbab: exact relative height comparison, from smallest to tallest: CAT, DOG, BANA, APPLE, BLUE.
+
+@sc19: original audio track.
+
+Do not use reference-image framing as the camera framing.
+
+## [FINAL NON-NEGOTIABLE RULES]
+
+- Exactly 1 continuous shot, exactly 8 seconds, exactly 5 characters.
+- Preserve all character designs, relative sizes, and initial positions.
+- Preserve the background, rug, coffee table, and bean bags exactly.
+- Only BLUE speaks. No lip sync for APPLE or BANA.
+- No text, subtitles, logos, or watermarks.
+- No smiling during the worried or shocked discovery sequence.
+- The camera remains completely static for all 8 seconds.
+- The CAT and DOG establish the forward exit route first.
+- BLUE, APPLE, and BANA follow the same route, in that order, with visible separation.
+- All children go around the same end of the coffee table. No opposite-side detours.
+- After joining the shared lane, all characters run continuously in one forward direction.
+- No zigzagging, weaving, side-to-side running, abrupt turns, or route changes.
+- Every character physically passes immediately beside the camera and continues behind it.
+- No running into the lens, no passing through the camera, no artificial enlargement, no sudden disappearance, and no re-entry.
+- The final 0.80 seconds show only the empty, unchanged living room.
+--- END PROMPT ---

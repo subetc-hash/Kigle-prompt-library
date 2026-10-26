@@ -1,0 +1,69 @@
+﻿예제번호: example_001267
+참조 이미지: example_001267.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 44 잘자바나
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 15초 / 오디오 켜짐
+
+참조 매핑
+@mom → @mom.png
+@banasl → @banasl.png
+@monkey → @monkey.jpg
+@heightbmsl → @heightbmsl.png
+@banaroomn2 → @banaroomn2.jpg
+@banaroomn1 → @banaroomn1.jpg
+@02_자장가1_0_0-15_0s → @02_자장가1_0_0-15_0s.wav
+@표정_바나나 → @표정_바나나.png
+@표정_엄마 → @표정_엄마.png
+@light_ref3 → @light_ref3.png
+
+프롬프트
+--- BEGIN PROMPT ---
+3 shots, 15s, 16:9.
+
+Subject:
+@banasl is BANA. Preserve this character's appearance exactly across all shots.
+@mom is MOM. Preserve this character's appearance exactly across all shots.
+@monkey is BANA's plush monkey doll. Preserve its appearance exactly. Its size is fixed at two-thirds of BANA's height. Keep this size ratio in every shot.
+@height_bmsl is the scale reference. Maintain exact height ratio between BANA and MOM throughout, including while MOM holds BANA.
+
+Context & Style:
+Nighttime inside BANA's cozy bedroom. Shots 1 and 2 match @banaroom_n2 for layout, objects and wall color, with an arched pale-yellow door with a yellow frame, a banana-shaped window on the left wall, a wooden crib with a star-and-cloud mobile, a toy box with a teddy bear, a banana ride-on toy, and a round cream carpet with colorful blocks. Shot 3 matches @banaroom_n1 for layout, objects and wall color, the same room seen from the opposite angle, with a wooden crib with a star-and-cloud mobile on the left, a banana night light, a yellow dresser, a mint armchair, a round cream carpet, a banana-shaped window on the back wall in the center, and a second banana-shaped window on the right wall.
+Room layout: the banana-shaped window on the left wall in @banaroom_n2 is the same window as the banana-shaped window on the right wall in @banaroom_n1. This window is on the opposite side of the room from the crib. MOM and BANA walk toward this window in Shots 1 and 2. In Shot 3, MOM and BANA are at this same right-wall window and walk from it straight across the room to the crib. The banana-shaped window in the center of the back wall in @banaroom_n1 is NOT used. MOM never goes to it, never stops at it, and never walks along the back wall.
+Outside the banana-shaped window is a starry navy-blue night sky with a thin, glowing white crescent moon. Whenever the moon is visible, it is always a slim crescent shape, like a curved sickle, and never a full moon, a half moon or a round moon. In Shot 2 the moon is out of frame and not visible, and only its soft moonlight is seen falling on the characters. Calm, sleepy, tender bedtime mood. This scene continues directly from the previous one: on the round carpet, BANA sits on the left and MOM sits on the right.
+
+Lighting and exposure: keep the room's original colors from @banaroom_n2 and @banaroom_n1, with the same pale banana-yellow walls, mint green and wood furniture, and cream carpet. Do NOT shift the wall color to olive, khaki, green or gray. Only lower the exposure and saturation, so the yellow walls look like the same soft yellow in a dim night room, slightly deeper and less vivid. Match the lighting, brightness, contrast and light mood of @light_ref3 exactly. The scene is low-key and dim, like a quiet room lit only by moonlight at night, about one stop darker than the room references. The key light is a soft, cool blue moonlight coming from the window side, with gentle rim light on the hair, cheeks and shoulders of the characters. Shadows fall off softly, and the room background is slightly darker than the characters. Skin keeps a warm, soft tone with subtle subsurface scattering, and faces are readable but never glowing or overexposed. Keep this exact lighting and color grade identical across all shots. No bright ceiling light, no overhead lighting, no bright fill light, no high-key look.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, expressive cartoon eyes with catchlights, smooth rounded character design, rich color palette, warm cozy domestic atmosphere, cinematic depth of field, gentle heartwarming family tone, Walt Disney Animation Studios quality.
+
+Action:
+MOM sings continuously from the first second to the very last second of the 15-second video, following the song's lyrics and rhythm. Her mouth never stops moving in time with the song, even where the supplied audio ends.
+
+Shot 1, 0 to 5 seconds: Background is @banaroom_n2, with the arched pale-yellow door with its yellow frame clearly visible on the wall directly behind BANA and MOM. On the round carpet, BANA sits on the left, hugging @monkey in her arms, and MOM sits on the right, seated on the carpet with her legs folded to the side, as in the composition of the start frame reference. BANA is wide awake and alert, with big round bright eyes wide open, curious and sparkling, looking up at MOM. MOM looks down at BANA with a soft, warm smile. The shot opens on this seated two-person composition, then MOM's upper body in half-profile bows her head toward BANA and reaches down with both hands to lift her. BANA rises into the frame from below as MOM lifts her up, her eyes still wide open and bright. MOM sings the lyric line "Sleepy or not, it's time for bed" with a soft, warm smile, with lip-sync to the audio. As she is lifted, BANA naturally and gently sets @monkey down on the carpet floor. @monkey stays on the carpet floor from this moment on and is not carried by BANA or MOM. MOM holds BANA securely in both arms, cradled close against her chest, with BANA's hands free and resting on MOM. BANA stays alert and wide-eyed in MOM's arms, with no sleepy expression. MOM rises to her feet and immediately walks, without pausing, toward the moonlit banana-shaped window on the left wall, which is the window on the opposite side of the room from the crib. The shot ends with MOM and BANA near the window, seen from behind at a half-profile angle. If the night sky is visible through the window, the moon in it is a thin crescent.
+
+Shot 2, 5 to 10 seconds: MOM stands at the window cradling BANA in both arms, holding her securely against her chest. Both gaze upward and out as if looking at the moon, which is out of frame and not visible on screen. They are only bathed in its soft moonlight. MOM and BANA are positioned inside the banana-shaped window frame, fully framed by it. Behind them, in the background of the room, the wooden crib with the star-and-cloud mobile is partially visible. MOM sings the lyric line "Moonlight is shining in your room" with a soft, gentle smile, with lip-sync to the audio. BANA is wide awake, held in MOM's arms, with big round bright eyes wide open and sparkling with moonlight catchlights, looking up toward the moon with curious wonder. She does not look sleepy, her eyelids are fully open, and she does not yawn or blink slowly. Her hands are free and empty. MOM gently lifts and sways BANA in a soft rocking motion. Soft blue moonlight glows gently on both of them.
+
+Shot 3, 10 to 15 seconds: Background is @banaroom_n1. MOM stands at the banana-shaped window on the RIGHT WALL, the window at the right edge of the frame and not the center window on the back wall, with BANA in her arms, both looking outside, seen from behind in half-profile. The night sky outside the window shows a thin glowing white crescent moon. MOM sings the lyric line "Baby baby, it's time for bed" with lip-sync to the audio. MOM gently and naturally turns around away from the right-wall window with BANA still cradled in her arms. Then she walks slowly and steadily in one continuous path from the right side of the room straight across the room, past the round cream carpet, toward the wooden crib on the left side of the frame. She goes directly from the right-wall window to the crib, without detouring to the center window, the back wall, the dresser or the armchair, and without stopping on the way. She approaches the crib step by step in a calm, unhurried pace, softly lifting and swaying BANA in a soothing rocking motion with each step. The shot ends with MOM close to the crib, still holding BANA. The supplied audio ends at 13 seconds, but from 13s to 15s MOM keeps singing the lyric in the same gentle tempo and soft melodic rhythm, with her mouth moving naturally in time with the song, and does not stop or go silent until the final frame. Throughout Shot 3, BANA is drowsy but stays awake. She is on the verge of falling asleep but never does. Her eyes stay half-open with heavy, sleepy eyelids, and she blinks very slowly, with each blink lowering the eyelids partway and then lifting them again. Her eyes never fully close and never stay closed. Her head stays upright, resting lightly against MOM, and her expression is soft and relaxed. Her hands are free and empty.
+
+Camera:
+Shot 1: Starts on a medium shot of BANA and MOM seated side by side on the carpet, BANA on the left and MOM on the right, with the arched door visible behind them, framed like the start frame reference. The camera then moves in slightly to a medium close shot of MOM's upper body in half-profile, head bowed, with BANA entering the frame from the bottom as she is lifted. As MOM stands up with BANA, the camera smoothly tilts up, then gently follows MOM from behind as she walks toward the banana-shaped window. It ends on a medium shot from behind and slightly to the side, framing MOM and BANA in half-profile at the window. The camera is never a solo shot of BANA. All movement is slow and smooth, never fast.
+Shot 2: The camera is positioned outside the banana-shaped window, looking in through the window at MOM and BANA, who face the camera and gaze upward as if looking at the moon. BANA's bright wide-open eyes and upturned face are clearly readable. The moon itself is not shown anywhere in the frame, only soft moonlight on their faces and bodies. Medium shot, steady, with a very subtle slow push-in. MOM and BANA are both placed inside the banana-shaped window frame, with the crib slightly visible in the room behind them.
+Shot 3: The camera is inside the room at the @banaroom_n1 viewpoint. It opens on a medium shot of MOM and BANA at the right-wall window at the right side of the frame, seen from behind, with the crib on the left side of the frame. As MOM turns around and walks across the room toward the crib, the camera smoothly pans and tracks leftward with her, keeping both in a medium shot as she crosses the room from right to left. MOM's face is visible and singing in the final 2 seconds as she nears the crib. Slow and smooth, never fast.
+
+Reference:
+Hard cuts only between all shots. No dissolve, no cross-fade, no blend transitions. Each shot is a fully independent cut.
+In Shot 1, the opening composition matches the start frame reference: BANA on the left, MOM on the right, both seated on the round carpet, with the arched door visible behind them.
+@monkey is left on the carpet floor after BANA is lifted and does not appear in BANA's or MOM's arms in any later shot.
+The window MOM walks to in Shots 1 and 2 is always the one opposite the crib, the left wall in @banaroom_n2 and the right wall in @banaroom_n1. In Shot 3 she starts at that same window and walks straight to the crib. The center back-wall window is never used. Keep this spatial layout consistent.
+The moon is always a thin crescent whenever it is visible, never a full, half or round moon. In Shot 2 the moon is not visible on screen, and only its soft moonlight is shown on the characters.
+In Shots 1 and 2, BANA is wide awake and never sleepy. Her eyes are big, round, bright and fully open, with no drooping eyelids, no slow blinks and no yawning. In Shot 2 she is held in MOM's arms and looks up toward the moon with bright curious eyes.
+In Shot 3, BANA is drowsy but never falls asleep. Her eyes are never fully closed, never shut for more than an instant, and her head never droops or goes limp. She stays half-awake with slow, heavy blinks until the final frame.
+Room colors stay true to the room references, with no olive, khaki, green or gray color shift. Lighting brightness and mood follow @light_ref3 in every shot, with no changes in brightness or tone between shots. The scene stays dim, low-key and moonlit. Do not brighten the room.
+Lip-sync MOM's mouth to the supplied audio for the first 13 seconds, with natural mouth shapes matching each line. For the last 2 seconds without audio, MOM keeps singing in the same rhythm. MOM's gaze is warm and soft, with no stiff expressions.
+Consistent characters and a consistent room throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Cute, soft, gentle acting and expressions. Smooth natural motion.
+--- END PROMPT ---

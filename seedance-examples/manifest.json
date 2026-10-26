@@ -671,6 +671,94 @@
       "series": "베베바나",
       "series_name": "2026",
       "task_label": "참조 생성"
+    },
+    "example_001192": {
+      "files": {
+        "seedance-examples/베베바나/example_001192/example_001192.png": "d6c72ee0ae390e7aa194afb5261cb2dc3beb2d15",
+        "seedance-examples/베베바나/example_001192/example_001192.txt": "5e91ae37c59861922eff37c1e8c658faaf092530"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 43 고양이 강아지 까꿍",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001267": {
+      "files": {
+        "seedance-examples/베베바나/example_001267/example_001267.png": "f1a3451b2c132d3c54b183b1b7b6868a18bf3497",
+        "seedance-examples/베베바나/example_001267/example_001267.txt": "4ff0f6801338bc514c5e2b6328d7a7be6f422ad0"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 44 잘자바나",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001326": {
+      "files": {
+        "seedance-examples/베베바나/example_001326/example_001326.png": "c157b23a6382168f37e54c665ed7e552e7f14cae",
+        "seedance-examples/베베바나/example_001326/example_001326.txt": "ecaedaaed1e637837aba1afe7229c91dd049f893"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 46 경찰차 구급차 소방차",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001356": {
+      "files": {
+        "seedance-examples/베베바나/example_001356/example_001356.png": "2cd29685c5e33d58b21648b5dd8d4a249d27513b",
+        "seedance-examples/베베바나/example_001356/example_001356.txt": "408a70ce4a3a63ac7fb45b23a36d8a76dfae5a39"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 44 잘자바나",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001373": {
+      "files": {
+        "seedance-examples/베베바나/example_001373/example_001373.png": "904035e25eeb4d0e89f52a97b0c3c77980a2b2f4",
+        "seedance-examples/베베바나/example_001373/example_001373.txt": "da8386a203ba6bf618578f16cb7c0ebe8e3887c2"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 44 잘자바나",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001457": {
+      "files": {
+        "seedance-examples/베베바나/example_001457/example_001457.png": "3a1b4fe49c3ad95c1e3c339d79b0aa48c872ce92",
+        "seedance-examples/베베바나/example_001457/example_001457.txt": "3a7b2c435d64e7db31106799562584a4d4c7b5f7"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 46 경찰차 구급차 소방차",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001489": {
+      "files": {
+        "seedance-examples/베베바나/example_001489/example_001489.png": "0ab6d461c414ed5f8f952bb3504b4acb460a7eae",
+        "seedance-examples/베베바나/example_001489/example_001489.txt": "2ca0aa10a44f82ba9372f62350f0f091e74d144c"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 46 경찰차 구급차 소방차",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
+    },
+    "example_001597": {
+      "files": {
+        "seedance-examples/베베바나/example_001597/example_001597.png": "f2d206cd5af385d00f8c61ee40e041ebcaa5c199",
+        "seedance-examples/베베바나/example_001597/example_001597.txt": "048680f44d7a2e9c1251cfdd5152bdb3a9d3839c"
+      },
+      "ip": "베베바나",
+      "project_name": "베베바나 2026 47 뜨거워 차가워 놀이터",
+      "series": "베베바나",
+      "series_name": "2026",
+      "task_label": "참조 생성"
     }
   },
   "reset_id": "874883a2-9468-42b1-80af-04995fda1ae7",

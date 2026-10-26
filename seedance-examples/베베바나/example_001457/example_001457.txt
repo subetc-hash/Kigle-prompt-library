@@ -1,0 +1,74 @@
+﻿예제번호: example_001457
+참조 이미지: example_001457.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 46 경찰차 구급차 소방차
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 8초 / 오디오 켜짐
+
+참조 매핑
+@car_police → @car_police.jpg
+@bana_p_2 → @bana_p_2.png
+@height_pbpc → @height_pbpc.png
+@sc06 → @sc06.wav
+@village → @village.jpg
+
+프롬프트
+--- BEGIN PROMPT ---
+EXACTLY 2 SHOTS TOTAL. HARD CUT between Shot 1 and Shot 2. No dissolve, no other transitions. The hard cut happens at ~3.7s, in the pause right before the lyric "Beep beep beep!" begins. Total duration 7.5 seconds.
+
+[SUBJECT]
+Only ONE character appears in this whole video: @bana_p_2, Bana as a baby police officer, with yellow hair, big brown eyes, and big ears, wearing EXACTLY the outfit in the @bana_p_2 reference: a navy blue police cap with a gold badge, a light blue short-sleeve police shirt with a navy tie, a silver whistle on a chain, a gold badge on the chest, a star patch on each sleeve, a black belt with pouches, navy trousers, and black shoes. He keeps this exact outfit and exact face in every frame, with NO distortion. He wears NO cardboard costume of any kind.
+Bana is the ONLY character in every frame. NO other characters, NO other children, NO babies, NO adults, NO duplicates of Bana. The cars in the scene have NO visible drivers or passengers.
+@car_police is a rounded, cartoon-style police car (navy blue and white, yellow star on the door, red and blue siren bar on the roof, four doors). Keep its exact design, colors, and shape. NO morphing. ONLY ONE police car.
+Prop: a short RED GLOWING TRAFFIC BATON (a light baton that glows bright red) held in Bana's hand in Shot 2.
+
+[OTHER CARS — DIFFERENT CAR TYPES, POLICE-CAR-SIZED]
+All the other cars in the scene (the jammed cars, the orange car, and the light green car) are ordinary civilian cars, each one a DIFFERENT CAR TYPE with its own different body shape, NOT the body of @car_police. They are NOT police cars, and they must NOT look like repainted police cars. They have NO siren bar, NO star, NO navy-and-white two-tone paint, NO police markings, and they do NOT copy the body, grille, or headlights of @car_police.
+Their DESIGN STYLE is the same as the cars in @village: rounded, glossy, cheerful cartoon civilian cars with simple shapes, big windows, and bright single-color paint.
+SIZE: Every one of these cars is scaled up to be about THE SAME SIZE AS @car_police. Use ONLY @height_pbpc for the size of the cars.
+
+[SCALE & FOREGROUND CAR PASSING — EXTREMELY CLOSE TO CAMERA]
+In Shot 2, the passing cars (orange car and light green car) MUST DRIVE IN THE EXTREME FOREGROUND, DIRECTLY IN FRONT OF BANA AND EXTREMELY CLOSE TO THE CAMERA LENS.
+When the orange car and light green car cross the frame, they pass between Bana and the camera lens, so close to the camera that each car completely blocks and covers Bana's body for a brief split second as it zooms past. They are larger in frame than Bana due to camera perspective.
+
+[AUDIO & MOVEMENT CHOREOGRAPHY — CRISP RHYTHMIC DANCE-LIKE SNAP]
+@sc06 is the audio track (~7.5 seconds). Bana's movements MUST be crisp, sharp, synchronized, and dance-like, with ZERO clumsy or chaotic wiggling (NO messy movement).
+- Shot 1 (0.0s–~3.7s): "Fire truck, on the way".
+- Shot 2 (~3.7s–7.5s): "Beep beep beep!" and "Honk honk honk!".
+- Bana NEVER sings, speaks, or lip syncs. Mouth stays strictly closed in a proud, confident smile.
+
+[ACTION AND TIMELINE]
+SHOT 1 (0.0s–~3.7s) — lyric "Fire truck, on the way" — OVER-THE-SHOULDER CLOSE-UP
+- ~0.0s–0.8s: Starts with Bana getting out of @car_police through the left door. Steps down onto the road, back to camera.
+- ~0.8s–1.4s ("Fire truck,"): Stands beside open left door, looking ahead at a massive TRAFFIC JAM filling the road ahead. All jammed cars face away from camera.
+- ~1.5s–1.9s: Stands still in shock, pushing cap up slightly.
+- ~2.0s–3.7s ("on the way"): Camera slowly rises to a high-angle view of the traffic jam extending forward into the distance.
+
+SHOT 2 (~3.7s–7.5s) — lyric "Beep beep beep! Honk honk honk!" — CRISP RHYTHMIC TRAFFIC DIRECTION WITH DYNAMIC OPPOSITE DUTCH ANGLES
+- HARD CUT at ~3.7s. Camera: BANA-CENTERED CLOSE-UP in a CLEAR RIGHT-TILTED DUTCH ANGLE (+20 degrees).
+- ~3.7s–3.9s: Bana performs a snappy, sharp 360-degree spin flourish on the spot, twirling the glowing red baton like a synchronized rhythm dance.
+- ~3.9s (BEAT SNAP): AT THE VERY FIRST BEEP, Bana SNAPS INSTANTLY into a crisp frozen pose, pointing the glowing red baton sharply to the RIGHT. His pose FREEZES RIGID AND CONFIDENT.
+- ~4.0s–5.2s ("Beep beep beep!"): An ORANGE compact hatchback zooms from LEFT TO RIGHT across the EXTREME FOREGROUND, passing directly in front of Bana and EXTREMELY CLOSE TO THE CAMERA LENS, temporarily wiping/obscuring Bana from view before frame-out to the right. Bana holds his frozen pointing pose to the right with a proud beaming smile.
+- ~5.4s–5.65s (pause & TILT SHIFT): Bana breaks pose and executes ANOTHER crisp, snappy 360-degree spin flourish with the glowing baton. DURING THIS SPIN, THE CAMERA CONTINUOUSLY TILTS/SHIFTS TO THE OPPOSITE SYMMETRICAL LEFT-TILTED DUTCH ANGLE (-20 degrees).
+- ~5.7s (BEAT SNAP): AT THE VERY FIRST HONK, Bana SNAPS INSTANTLY into a sharp frozen pose, pointing the glowing red baton sharply to the LEFT. His pose FREEZES RIGID AND CONFIDENT.
+- ~5.8s–7.0s ("Honk honk honk!"): A LIGHT GREEN sedan zooms from RIGHT TO LEFT across the EXTREME FOREGROUND, passing directly in front of Bana and EXTREMELY CLOSE TO THE CAMERA LENS, temporarily wiping/obscuring Bana from view before frame-out to the left. Bana holds his frozen pointing pose to the left under the LEFT-TILTED DUTCH ANGLE.
+- ~7.0s–7.5s: Holds the sharp, proud pointing pose to the left with glowing baton, camera steady in left-tilted Dutch angle.
+
+[CRITICAL CONSTRAINTS]
+FOREGROUND CAR POSITION: CARS MUST PASS IN THE EXTREME FOREGROUND, BETWEEN BANA AND THE CAMERA LENS, TOUCHING/WIPING NEAR THE LENS AREA.
+CRISP DANCE-LIKE SNAP POSES: NO CLUMSY OR CHAOTIC WOBBLING. Bana spins crisply and SNAPS INSTANTLY into a completely frozen, sharp pointing pose on beat (~3.9s and ~5.7s).
+SHOT 2 CAMERA TILTS: RIGHT-TILTED DUTCH ANGLE (+20 deg) FOR PART 1, CONTINUOUSLY SHIFTING TO LEFT-TILTED DUTCH ANGLE (-20 deg) DURING THE SPIN AT ~5.5s FOR PART 2.
+NO LIP SYNC: Bana's mouth remains closed in a proud confident smile.
+NO CARDBOARD COSTUME. BANA IS THE ONLY CHARACTER.
+DAYTIME ONLY. No subtitles, no text on screen.
+
+[REFERENCE]
+@bana_p_2: Bana police officer character.
+@car_police: Police car reference.
+@village: Background location and car design style reference.
+@height_pbpc: Size scale reference.
+@sc06: Audio track for timing.
+--- END PROMPT ---

@@ -1,0 +1,46 @@
+﻿예제번호: example_001489
+참조 이미지: example_001489.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 46 경찰차 구급차 소방차
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 4초 / 오디오 켜짐
+
+참조 매핑
+@car_ambulance → @car_ambulance.jpg
+@apple → @apple.png
+@height_tadba → @height_tadba.png
+@teddy_bear_2 → @teddy_bear_2.jpg
+@ambulance_in → @ambulance_in.jpg
+
+프롬프트
+--- BEGIN PROMPT ---
+SINGLE SHOT (~2.5s, 16:9). Location: Inside @ambulance_in.
+
+[BACKGROUND LOCK]
+- The interior layout and stretcher bed of @ambulance_in are STRICTLY FROZEN and UNCHANGED. Absolutely NO moving or turning the bed.
+
+[SUBJECTS & EXTREME CLOSE-UP SCALE]
+1. @teddy_bear_2: Unconscious teddy bear with spiral eyes, lying on the bed. MUST BE AN EXTREME CLOSE-UP filling over 50% of the camera frame in the immediate foreground.
+2. @apple: Apple sits behind the bed in the background, looking directly down at @teddy_bear_2 with clasped hands and an anxious face.
+- SCALE: Follow @height_tadba.
+
+[CAMERA & ACTION]
+- Camera Position: Extreme close-up high-angle camera placed inches away from @teddy_bear_2 on the bed.
+- Focus: @teddy_bear_2 is huge in the foreground; @apple is in the soft background looking at the bear.
+- Motion: Subtle vehicle vibration rumble.
+
+[CRITICAL CONSTRAINTS]
+FIXED BED: The bed position MUST NOT change from @ambulance_in.
+HUGE TEDDY BEAR: @teddy_bear_2 must be framed extremely close and large to the lens.
+GAZE: Apple looks down at the bear.
+NO LIP SYNC: Mouths closed.
+
+[REFERENCE]
+@teddy_bear_2: Teddy bear reference[cite: 9].
+@apple: Apple reference[cite: 4].
+@height_tadba: Scale reference[cite: 6].
+@ambulance_in: Interior reference[cite: 7].
+--- END PROMPT ---

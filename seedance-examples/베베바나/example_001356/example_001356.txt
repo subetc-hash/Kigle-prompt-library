@@ -1,0 +1,52 @@
+﻿예제번호: example_001356
+참조 이미지: example_001356.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 44 잘자바나
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 10초 / 오디오 켜짐
+
+참조 매핑
+@mom → @mom.png
+@banasl → @banasl.png
+@heightbmsl → @heightbmsl.png
+@표정_바나나 → @표정_바나나.png
+@표정_엄마 → @표정_엄마.png
+@banaroomn1 → @banaroomn1.jpg
+@light_ref3 → @light_ref3.png
+@03_바나눕_2 → @03_바나눕_2.mp3
+
+프롬프트
+--- BEGIN PROMPT ---
+2 shots, 10s, 16:9. Hard cut only between the two shots, no dissolve or cross-fade.
+
+Subject:
+@banasl is BANA — preserve this character's appearance exactly across all shots.
+@mom is MOM — preserve this character's appearance exactly across all shots.
+@height_bmsl is the scale reference — maintain exact height ratio between BANA and MOM.
+
+Context & Style:
+Nighttime inside BANA's cozy bedroom. Both shots use @banaroom_n1. Follow the background's room structure exactly; object positions never change between shots.
+The crib is always the same wooden crib with green trim, slatted rails, curved headboard and footboard, olive-yellow mattress and a small blue pillow, pushed flat against the wall with no gap (wall on the left of the crib). The star-and-cloud mobile hangs perfectly vertical from the ceiling above the crib. The banana night light glows softly at the crib's head end.
+Lighting: use @light_ref3 as the lighting and color-mood reference in every shot (soft, warm, evenly diffused light, golden-yellow walls, cool blue-gray tint on the ceiling and in shadows, low-contrast soft shadows). Use it only for lighting. Characters are always clearly visible, never dark or muddy.
+3D Disney/Pixar animation style, subsurface scattering on skin, expressive cartoon eyes with catchlights, smooth rounded character design, warm cozy atmosphere, cinematic depth of field, Walt Disney Animation Studios quality. No 2D, no anime, no live-action realism. No text, no subtitles.
+
+Action:
+Shot 1 (0-5.5s, one continuous take, lyrics "Lie down to sleep" 0-2s, "Good night good night" 2-4s, instrumental pause 4-5.5s, background @banaroom_n1):
+Frontal high-angle, near top-down view of the crib filling the frame. The crib's long rails run vertically, top to bottom, along the left and right edges of the frame. The pillow end of the crib is at the TOP of the frame with the blue pillow centered at the top; the foot end is at the BOTTOM of the frame; the wall is on the left. Steady, no cut inside the shot.
+MOM's hands and arms, holding BANA, frame in from the right edge, reach over the right rail and gently lay her on the mattress. One hand supports BANA's shoulder and upper arm, the other hand supports her legs and feet near the bottom. BANA is held in the crib's own orientation from the very first frame: her head toward the top of the frame (pillow end), her feet toward the bottom of the frame. She is never turned, rotated or held sideways, and never lies across the crib. Only MOM's hands and arms are visible; her head and body never appear. MOM sings the lyrics softly off-screen from 0 to 4s.
+BANA ends lying flat on her back, vertically in the frame along the crib's center line: head on the blue pillow at the top of the frame, body running straight down the mattress, legs and feet toward the bottom of the frame, arms relaxed beside her. Her whole body stays parallel to the long rails, never diagonal or across the crib. As she is laid down, her eyes are still slightly open and sleepy; she slowly blinks, her eyelids grow heavy and gradually close, and she drifts into sleep with a soft peaceful face.
+The shot continues smoothly through the final instrumental section (4-5.5s) without any change in framing or pace: there is no singing, MOM's hands slowly and gently withdraw toward the right edge, and BANA lies fast asleep with eyes closed, only her chest rising and falling softly. The shot ends on this calm, sleeping frame. No dolls in the crib.
+
+Shot 2 (5.5-10s, lyric "Shh.. good night baby" starting exactly at 5.5s, the very first frame of the shot, background @banaroom_n1):
+Eye-level follow shot of MOM's upper body only, framed from head to waist, same framing size from first frame to last. The camera stays level (no tilt, no pan) and moves backward ahead of her in a straight line at the same height, smooth and slow. Floor and feet never appear. BANA and the door never appear.
+Opening frame: MOM stands on the left-center of the frame beside the crib in a three-quarter side view, head tilted down, eyes gazing tenderly down at BANA sleeping in the crib. Behind her: the yellow wall, the glowing banana night light, the yellow dresser, the banana-shaped window on the right, the crib and star-and-cloud mobile at the left. She begins singing from the very first frame, with no silent lead-in: "Shh.. good night baby", softly, with lip-sync.
+She keeps looking at BANA while singing. Near the end of the line she closes her mouth in a soft smile, turns away from the crib and walks steadily toward the camera, which is on the door side, with light quiet steps. Her gaze lifts from the crib to look ahead, and she drifts to the center of the frame, her body turning from side view to facing the lens. Her expression stays calm, soft and content throughout; no surprise, no startled look. She keeps walking toward the camera until the end of the shot.
+
+Rules:
+Lyrics stay inside their own shot; do not shift any lyric across the cut. Shot 2's lyric begins at the first frame of Shot 2, not before. Lip-sync MOM only in Shot 2 (Shot 1 is off-screen voice).
+BANA's head is always at the pillow end by the banana night light wall. In Shot 1 the pillow end is the top of the frame, so BANA's head is always at the top and her feet at the bottom, with her body parallel to the long rails; she is never sideways, rotated or across the crib.
+Consistent characters, room and lighting in both shots; lighting identical to @light_ref3 with no brightness shifts between shots.
+--- END PROMPT ---

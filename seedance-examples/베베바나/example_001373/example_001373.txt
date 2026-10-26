@@ -1,0 +1,70 @@
+﻿예제번호: example_001373
+참조 이미지: example_001373.png
+IP: 베베바나
+시리즈: 2026
+프로젝트: 베베바나 2026 44 잘자바나
+모델: Seedance 2.0 Fast
+엔드포인트: Kigle
+작업 방식: 참조 생성
+생성 조건: 720p / 16:9 / 11초 / 오디오 켜짐
+
+참조 매핑
+@mom → @mom.png
+@banasl → @banasl.png
+@heightbmsl → @heightbmsl.png
+@표정_바나나 → @표정_바나나.png
+@표정_엄마 → @표정_엄마.png
+@banaroomn1 → @banaroomn1.jpg
+@light_ref3 → @light_ref3.png
+@monkey → @monkey.jpg
+@05_자장가3 → @05_자장가3.mp3
+
+프롬프트
+--- BEGIN PROMPT ---
+1 shot, 11s, 16:9. One single continuous shot with no cuts. The two lyric lines are sung back to back inside this one shot.
+
+Subject:
+@banasl is BANA — preserve this character's appearance exactly for the whole shot. There is exactly ONE BANA in the entire video: the single baby cradled in MOM's arms. BANA never appears twice — no second BANA, no duplicate, no twin, no clone, no reflection or mirrored copy, no baby standing, sitting or lying anywhere else. Only one baby exists in the scene. BANA never falls asleep: her eyes stay wide open, round, bright and sparkling, even while she laughs.
+@mom is MOM — preserve this character's appearance exactly for the whole shot. There is exactly ONE MOM.
+@monkey is BANA's plush monkey doll, called Mr. Monkey — preserve its appearance exactly. There is exactly ONE Mr. Monkey, held in BANA's arms. Its size is fixed at two-thirds of BANA's height, a size BANA can comfortably hold and hug with both arms. Keep this size ratio throughout. @monkey's eyes stay closed the whole time, as it is fast asleep. BANA holds @monkey naturally with both arms wrapped around its body, resting low on her chest and tummy, so that @monkey never covers BANA's face.
+@height_bmsl is the scale reference — maintain exact height ratio between BANA and MOM throughout, including while MOM holds BANA.
+
+Context & Style:
+@banaroom_n1 is the background environment — preserve it exactly, unchanged, for the whole shot. Do NOT alter, replace, redesign or reinterpret it. The video only shows the back-right corner of this room, and only these elements are visible: the mint armchair (the sofa in this scene) tucked into the corner where the back wall meets the right wall, with its back flush against the back wall and its right side right next to the right wall, facing forward; the warm yellow textured walls with the white baseboard; the corner between the two walls; the wooden floor in front of the armchair; and part of the banana-shaped window with a white cross frame on the right wall, showing the deep navy-blue night sky with a few small twinkling stars. The armchair never moves: it is never in the middle of the room and never pulled away from the corner. Do not add any other furniture, objects or decorations to the frame. There is no moon in the sky or in any window.
+Scale: MOM and BANA must look like they are really inside the room, at a natural, realistic scale compared with the armchair, never oversized against the background, and lit by the room's light.
+Lighting: use @light_ref3 as the lighting and color-mood reference — soft, warm, evenly diffused light that falls gently on the faces, warm golden-yellow wall tones, a cool soft blue-gray tint in the shadow areas, soft shadows with low contrast and no harsh highlights. Use @light_ref3 only for the lighting, and do not copy its objects, characters or layout. The gentle night-sky light from the window subtly lights the characters. Keep the same lighting from the first frame to the last. Do not restyle, darken or change the lighting. The characters are always clearly visible and never dark or muddy.
+Calm, cozy bedtime mood with a playful, cute twist: MOM is gently rocking BANA, trying to put her to sleep, but BANA stays wide awake and giggles happily.
+
+3D Disney/Pixar animation style, subsurface scattering on skin, expressive cartoon eyes with catchlights, smooth rounded character design, rich color palette, warm cozy domestic atmosphere, cinematic depth of field, gentle heartwarming family tone, Walt Disney Animation Studios quality.
+
+Action:
+How MOM holds and rocks BANA: MOM cradles the single BANA lying back in her arms, in a more reclined, nearly horizontal position, with BANA's head resting in the crook of MOM's arm and her body stretched across MOM's arms, like cradling a sleepy child, not held upright against her chest. MOM's arms support BANA's head, back and legs securely and tenderly, and one hand softly pats or strokes BANA now and then. As if trying to lull BANA to sleep, MOM rocks her very gently and only very slightly: a tiny, slow, rhythmic side-to-side rock of her arms and upper body, just a few centimeters, in the calm tempo of a lullaby. BANA's body moves only a little with each soft rock, along with MOM's arms. The rocking is subtle, smooth and natural, never big, never bouncy, never jerky, never up and down, and BANA is never shaken or tossed.
+How BANA holds @monkey: BANA hugs @monkey naturally with both arms wrapped around its body, both little hands clearly visible gripping it softly, the plush resting on her chest and tummy and leaning against her body, with @monkey's head resting low on her chest below her chin. @monkey lies along BANA's body and also rests on MOM's arms, so it looks comfortable and supported. @monkey never rises up in front of BANA's face and never covers her chin, mouth, cheeks or eyes; BANA's whole face stays fully visible and unobstructed from the camera at all times. @monkey moves only slightly along with BANA's body as she giggles and as MOM rocks.
+BANA's expression and acting: BANA gazes up at MOM's face naturally and lovingly, with big, round, wide-open, sparkling eyes full of catchlights, her eyes following MOM's face and softly tracking MOM's gentle rocking, as if completely absorbed by her mommy. She is wide awake, bright-eyed and delighted. She bursts into cheerful baby giggles: her mouth opens wide in a happy laughing smile, her chubby cheeks lift and bounce, and her little shoulders and legs wiggle with joy while she keeps hugging @monkey with both arms. Her eyes always stay wide open and bright, never squeezed shut or narrowed, even while laughing; only tiny quick natural blinks are allowed, never droopy or closed eyes. The giggles come in soft playful bursts, with relaxed happy smiles in between. She never looks confused, puzzled, blank, lost or sleepy.
+0–1.5s: The shot starts with the empty armchair in the corner and MOM already stepping into the frame from the left edge, carrying BANA reclined in her arms. Her back is visible only for a very brief moment, less than a second, as she steps in. She immediately turns and sits down on the armchair within the first second and a half, facing the camera, with BANA cradled lying back in her arms. The armchair does not move when she sits. BANA is already looking up at MOM with bright wide eyes and a happy smile, holding @monkey in both arms low on her chest.
+1.5–5s: MOM is seated on the armchair with her face fully visible. As soon as she settles, she begins to rock BANA very softly and slowly in her arms, while singing the lyric "Baby baby, it's time for bed" softly and tenderly, with lip-sync to the audio, a soft, warm smile and her eyes looking lovingly at BANA. BANA looks straight into MOM's eyes with sparkling wide eyes and a happy smile, then lets out a first cheerful giggle, wiggling a little while holding @monkey in both arms, whose eyes stay closed.
+5–10s: MOM keeps sitting on the armchair, continuing the same gentle, slight rocking of BANA in her arms in the same slow lullaby rhythm, and sings the lyric "Have sweet dreams Good night, good night" softly and tenderly, with lip-sync to the audio, a soft, gentle smile, her eyes looking lovingly at BANA. BANA keeps her wide, sparkling eyes on MOM's face, following the soft rocking, and giggles playfully with her mouth open in a big happy laugh, cheeks bouncing, little feet kicking softly, still holding @monkey in both arms, and never falls asleep. @monkey's eyes stay closed.
+10–11s: If any time remains after the lyric ends, the scene simply continues naturally: MOM keeps rocking BANA very gently with a soft, warm smile, as if softly humming, with her mouth relaxed and closing gently, and BANA stays wide awake, still gazing at MOM with sparkling eyes and giggling softly with a big happy smile, holding @monkey in both arms, with no sudden stop, freeze or change in the scene.
+Same background from @banaroom_n1 maintained exactly, with the armchair in the back-right corner, the whole time.
+
+Camera:
+One single continuous shot, no cuts. It starts as a medium full shot centered on the mint armchair in the corner: the whole armchair, the wall corner, a strip of floor and baseboard, and part of the banana-shaped window at the upper right are in frame, with MOM entering from the left edge. From the first frame to the last, the camera performs one very slow, smooth, steady, subtle zoom-in (a gentle push-in of only about 15–20%) with constant speed, no jerks, no speed changes, no pans, no cuts. The shot always stays a medium full shot and never becomes a close-up. At the end of the shot the framing is a medium shot with MOM seated on the armchair, visible from the top of her head and hair bun down to her lap and knees, with BANA cradled in her arms, the armchair visible around her, the wall corner behind her, and the edge of the banana-shaped window visible at the upper right. MOM's whole head, shoulders, arms and the baby are fully inside the frame at the end, with comfortable space around them. The zoom is slow and gradual, never fast. The camera stays steady while MOM rocks, and does not follow her rocking motion.
+
+Reference:
+Background from @banaroom_n1 must remain unchanged for the entire shot: only the armchair, the wall corner, the floor and part of the banana-shaped window are visible. Do not replace, redesign, move, add or remove anything.
+Only ONE BANA appears in every frame, always the baby cradled in MOM's arms. No duplicate, twin, clone or reflection of BANA, and no second baby anywhere.
+One single continuous shot. No cuts, no dissolve, no cross-fade, no blend transitions.
+Both lyric lines, "Baby baby, it's time for bed" and then "Have sweet dreams Good night, good night", play in order within this one shot.
+The framing stays a medium full shot from start to end: a subtle zoom-in only, never a medium close-up or close-up, and the final frame keeps MOM seated from head to lap with the armchair and wall corner visible.
+MOM holds BANA securely in a reclined cradle and rocks her only very slightly, softly and slowly, in a natural lullaby rhythm. No big, fast, bouncy, jerky or up-and-down movement, and BANA is never shaken, dropped or tossed.
+BANA hugs @monkey naturally with both arms and both hands visible, held low on her chest and tummy. @monkey never covers BANA's face: her eyes, nose, mouth, cheeks and chin stay fully visible in every frame. @monkey's eyes stay closed.
+BANA's eyes stay wide open, round and sparkling the whole time, including while she giggles, and she never closes her eyes or falls asleep. BANA always looks naturally at MOM's face, giggling happily, never with a puzzled, blank or lost expression.
+The mint armchair stays tucked in the back-right wall corner the whole time and does not move or rock with MOM.
+No moon appears anywhere outside the window.
+Characters keep a natural scale in the room and are never oversized against the background, including at the end of the zoom-in.
+Lighting and color grade stay identical to the @light_ref3 reference from start to finish, with no changes in brightness or tone. Characters and background stay bright enough to read clearly, with no crushed shadows and no dark silhouettes.
+Lip-sync MOM's mouth to the supplied audio, with natural mouth shapes matching each line. MOM's gaze is warm and soft, with no stiff expressions. BANA's soft giggles stay light and never cover MOM's singing.
+Consistent characters and a consistent background throughout. No 2D flat animation. No anime style. No live-action realism.
+No text overlays, no speech bubbles, no subtitles.
+Cute, soft, gentle acting and expressions. Smooth natural motion.
+--- END PROMPT ---
